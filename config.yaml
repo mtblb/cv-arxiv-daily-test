@@ -37,3 +37,11 @@ keywords:
                   "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF"]
+    "Dynamic":
+        filters: ["dynamic", "robust","robustness"]
+
+
+
+
+
+
