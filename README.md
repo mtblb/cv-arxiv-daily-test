@@ -16,6 +16,7 @@
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
     <li><a href=#dynamic>Dynamic</a></li>
+    <li><a href=#multi-sensor>Multi-Sensor</a></li>
   </ol>
 </details>
 
@@ -23,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh et.al.|[2411.05337](http://arxiv.org/abs/2411.05337)|null|
 |**2024-11-07**|**Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**|Sayat Ibrayev et.al.|[2411.04797](http://arxiv.org/abs/2411.04797)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
 |**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928](http://arxiv.org/abs/2411.03928)|**[link](https://github.com/arclab-hku/deio)**|
@@ -714,6 +716,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**From Transparent to Opaque: Rethinking Neural Implicit Surfaces with $α$ -NeuS**|Haoran Zhang et.al.|[2411.05362](http://arxiv.org/abs/2411.05362)|null|
 |**2024-10-29**|**A Cascade Approach for APT Campaign Attribution in System Event Logs: Technique Hunting and Subgraph Matching**|Yi-Ting Huang et.al.|[2410.22602](http://arxiv.org/abs/2410.22602)|null|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213](http://arxiv.org/abs/2410.22213)|null|
 |**2024-10-17**|**Stochastic Flow Matching for Resolving Small-Scale Physics**|Stathi Fotiadis et.al.|[2410.19814](http://arxiv.org/abs/2410.19814)|null|
@@ -2501,6 +2504,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
+|**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322](http://arxiv.org/abs/2411.05322)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
 |**2024-11-07**|**GANESH: Generalizable NeRF for Lensless Imaging**|Rakesh Raj Madavan et.al.|[2411.04810](http://arxiv.org/abs/2411.04810)|null|
 |**2024-11-07**|**SuperQ-GRASP: Superquadrics-based Grasp Pose Estimation on Larger Objects for Mobile-Manipulation**|Xun Tu et.al.|[2411.04386](http://arxiv.org/abs/2411.04386)|null|
@@ -3860,6 +3865,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
+|**2024-11-08**|**Phases of decodability in the surface code with unitary errors**|Yimu Bao et.al.|[2411.05785](http://arxiv.org/abs/2411.05785)|null|
+|**2024-11-08**|**Quantitative Assessment of Intersectional Empathetic Bias and Understanding**|Vojtech Formanek et.al.|[2411.05777](http://arxiv.org/abs/2411.05777)|null|
+|**2024-11-08**|**Observation of Critical Scaling in Spin Glasses below Tc using the Thermoremanent Magnetization**|G. G. Kenning et.al.|[2411.05776](http://arxiv.org/abs/2411.05776)|null|
+|**2024-11-08**|**Fact or Fiction? Can LLMs be Reliable Annotators for Political Truths?**|Veronica Chatrath et.al.|[2411.05775](http://arxiv.org/abs/2411.05775)|null|
+|**2024-11-08**|**Plasma Seismology: Fully Exploiting the Information Contained in Velocity Space of Kinetic Plasmas using the Morrison G Transform**|Frederick Skiff et.al.|[2411.05772](http://arxiv.org/abs/2411.05772)|null|
+|**2024-11-08**|**Frequency stability of grid-forming power-limiting droop control**|Amirhossein Iraniparast et.al.|[2411.05763](http://arxiv.org/abs/2411.05763)|null|
+|**2024-11-08**|**Dynamic parameterized quantum circuits: expressive and barren-plateau free**|Abhinav Deshpande et.al.|[2411.05760](http://arxiv.org/abs/2411.05760)|null|
+|**2024-11-08**|**Advantages of the adoption of a generalized flame displacement velocity as a central element of flamelet theory**|Hernan Olguin et.al.|[2411.05756](http://arxiv.org/abs/2411.05756)|null|
+|**2024-11-08**|**Multi-Dimensional Reconfigurable, Physically Composable Hybrid Diffractive Optical Neural Network**|Ziang Yin et.al.|[2411.05748](http://arxiv.org/abs/2411.05748)|null|
 |**2024-11-07**|**DynaMem: Online Dynamic Spatio-Semantic Memory for Open World Mobile Manipulation**|Peiqi Liu et.al.|[2411.04999](http://arxiv.org/abs/2411.04999)|null|
 |**2024-11-07**|**Which bits went where? Past and future transfer entropy decomposition with the information bottleneck**|Kieran A. Murphy et.al.|[2411.04992](http://arxiv.org/abs/2411.04992)|null|
 |**2024-11-07**|**Clustering in Causal Attention Masking**|Nikita Karagodin et.al.|[2411.04990](http://arxiv.org/abs/2411.04990)|null|
@@ -3870,6 +3885,23 @@
 |**2024-11-07**|**No rungs attached: A distance-ladder free determination of the Hubble constant through type II supernova spectral modelling**|Christian Vogl et.al.|[2411.04968](http://arxiv.org/abs/2411.04968)|null|
 |**2024-11-07**|**Causality in dissipative relativistic magnetohydrodynamics**|Raphael E. Hoult et.al.|[2411.04966](http://arxiv.org/abs/2411.04966)|null|
 |**2024-11-07**|**CAD-MLLM: Unifying Multimodality-Conditioned CAD Generation With MLLM**|Jingwei Xu et.al.|[2411.04954](http://arxiv.org/abs/2411.04954)|null|
+
+<p align=right>(<a href=#updated-on-20241111>back to top</a>)</p>
+
+## Multi-Sensor
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2024-11-08**|**The Hubble Constant from Blue Type Ia Supernovae**|Christa Gall et.al.|[2411.05642](http://arxiv.org/abs/2411.05642)|null|
+|**2024-11-08**|**Efficient Audio-Visual Fusion for Video Classification**|Mahrukh Awan et.al.|[2411.05603](http://arxiv.org/abs/2411.05603)|null|
+|**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
+|**2024-11-08**|**CRepair: CVAE-based Automatic Vulnerability Repair Technology**|Penghui Liu et.al.|[2411.05540](http://arxiv.org/abs/2411.05540)|null|
+|**2024-11-08**|**Theory and Experimental Demonstration of Wigner Tomography of Unknown Unitary Quantum Gates**|Amit Devra et.al.|[2411.05404](http://arxiv.org/abs/2411.05404)|null|
+|**2024-11-08**|**Combination of aN $^3$ LO PDFs and implications for Higgs production cross-sections at the LHC**|Thomas Cridge et.al.|[2411.05373](http://arxiv.org/abs/2411.05373)|null|
+|**2024-11-08**|**RED: Residual Estimation Diffusion for Low-Dose PET Sinogram Reconstruction**|Xingyu Ai et.al.|[2411.05354](http://arxiv.org/abs/2411.05354)|null|
+|**2024-11-08**|**Differentiable Calibration of Inexact Stochastic Simulation Models via Kernel Score Minimization**|Ziwei Su et.al.|[2411.05315](http://arxiv.org/abs/2411.05315)|null|
+|**2024-11-08**|**SimpleBEV: Improved LiDAR-Camera Fusion Architecture for 3D Object Detection**|Yun Zhao et.al.|[2411.05292](http://arxiv.org/abs/2411.05292)|null|
+|**2024-11-07**|**VAIR: Visuo-Acoustic Implicit Representations for Low-Cost, Multi-Modal Transparent Surface Reconstruction in Indoor Scenes**|Advaith V. Sethuraman et.al.|[2411.04963](http://arxiv.org/abs/2411.04963)|null|
 
 <p align=right>(<a href=#updated-on-20241111>back to top</a>)</p>
 
