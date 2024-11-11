@@ -39,6 +39,8 @@ keywords:
         filters: ["NeRF"]
     "Dynamic":
         filters: ["dynamic", "robust","robustness"]
+    "Multi-Sensor":
+        filters: ["multi-sensor fusion", "fusion", "multi-sensor", "calibration"]
 
 
 
