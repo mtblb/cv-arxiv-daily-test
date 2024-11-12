@@ -24,10 +24,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**|Yasra Chandio et.al.|[2411.07146](http://arxiv.org/abs/2411.07146)|null|
+|**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
+|**2024-11-11**|**HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation**|Xiaolong Wang et.al.|[2411.06700](http://arxiv.org/abs/2411.06700)|null|
 |**2024-11-08**|**Development of an indoor localization and navigation system based on monocular SLAM for mobile robots**|Thanh Nguyen Canh et.al.|[2411.05337](http://arxiv.org/abs/2411.05337)|null|
 |**2024-11-07**|**Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping**|Sayat Ibrayev et.al.|[2411.04797](http://arxiv.org/abs/2411.04797)|null|
 |**2024-11-07**|**MPVO: Motion-Prior based Visual Odometry for PointGoal Navigation**|Sayan Paul et.al.|[2411.04796](http://arxiv.org/abs/2411.04796)|null|
-|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928](http://arxiv.org/abs/2411.03928)|**[link](https://github.com/arclab-hku/deio)**|
+|**2024-11-09**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928](http://arxiv.org/abs/2411.03928)|**[link](https://github.com/arclab-hku/deio)**|
 |**2024-11-06**|**Performance evaluation of SLAM-ASR: The Good, the Bad, the Ugly, and the Way Forward**|Shashi Kumar et.al.|[2411.03866](http://arxiv.org/abs/2411.03866)|null|
 |**2024-11-06**|**LCP-Fusion: A Neural Implicit SLAM with Enhanced Local Constraints and Computable Prior**|Jiahui Wang et.al.|[2411.03610](http://arxiv.org/abs/2411.03610)|**[link](https://github.com/laliwang/lcp-fusion)**|
 |**2024-11-05**|**LVI-GS: Tightly-coupled LiDAR-Visual-Inertial SLAM using 3D Gaussian Splatting**|Huibin Zhao et.al.|[2411.02703](http://arxiv.org/abs/2411.02703)|null|
@@ -1008,8 +1011,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**From Pixels to Prose: Advancing Multi-Modal Language Models for Remote Sensing**|Xintian Sun et.al.|[2411.05826](http://arxiv.org/abs/2411.05826)|null|
 |**2024-11-04**|**TripletCLIP: Improving Compositional Reasoning of CLIP via Synthetic Vision-Language Negatives**|Maitreya Patel et.al.|[2411.02545](http://arxiv.org/abs/2411.02545)|null|
-|**2024-11-06**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
+|**2024-11-11**|**INQUIRE: A Natural World Text-to-Image Retrieval Benchmark**|Edward Vendrow et.al.|[2411.02537](http://arxiv.org/abs/2411.02537)|**[link](https://github.com/inquire-benchmark/INQUIRE)**|
 |**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
 |**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
 |**2024-11-03**|**Efficient Medical Image Retrieval Using DenseNet and FAISS for BIRADS Classification**|MD Shaikh Rahman et.al.|[2411.01473](http://arxiv.org/abs/2411.01473)|null|
@@ -2504,6 +2508,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
+|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
+|**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
 |**2024-11-08**|**Rate-aware Compression for NeRF-based Volumetric Video**|Zhiyu Zhang et.al.|[2411.05322](http://arxiv.org/abs/2411.05322)|null|
 |**2024-11-07**|**Planar Reflection-Aware Neural Radiance Fields**|Chen Gao et.al.|[2411.04984](http://arxiv.org/abs/2411.04984)|null|
@@ -3865,6 +3872,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239](http://arxiv.org/abs/2411.07239)|null|
+|**2024-11-11**|**Floquet Topological Dissipative Kerr Solitons and Incommensurate Frequency Combs**|Seyed Danial Hashemi et.al.|[2411.07236](http://arxiv.org/abs/2411.07236)|null|
+|**2024-11-11**|**Multiple mixing, 75 years of Rokhlin's problem**|Valery V. Ryzhikov et.al.|[2411.07234](http://arxiv.org/abs/2411.07234)|null|
+|**2024-11-11**|**Score-based generative diffusion with "active" correlated noise sources**|Alexandra Lamtyugina et.al.|[2411.07233](http://arxiv.org/abs/2411.07233)|null|
+|**2024-11-11**|**Watermark Anything with Localized Messages**|Tom Sander et.al.|[2411.07231](http://arxiv.org/abs/2411.07231)|null|
+|**2024-11-11**|**Learning from Limited and Imperfect Data**|Harsh Rangwani et.al.|[2411.07229](http://arxiv.org/abs/2411.07229)|null|
+|**2024-11-11**|**TempCharBERT: Keystroke Dynamics for Continuous Access Control Based on Pre-trained Language Models**|Matheus Simão et.al.|[2411.07224](http://arxiv.org/abs/2411.07224)|null|
+|**2024-11-11**|**Grounding Video Models to Actions through Goal Conditioned Exploration**|Yunhao Luo et.al.|[2411.07223](http://arxiv.org/abs/2411.07223)|null|
+|**2024-11-11**|**Feature Selection Based on Wasserstein Distance**|Fuwei Li et.al.|[2411.07217](http://arxiv.org/abs/2411.07217)|null|
+|**2024-11-11**|**Optimizing the pump coupling for a three-wave mixing Josephson parametric amplifier**|Wei Dai et.al.|[2411.07208](http://arxiv.org/abs/2411.07208)|null|
 |**2024-11-08**|**Recycled Attention: Efficient inference for long-context language models**|Fangyuan Xu et.al.|[2411.05787](http://arxiv.org/abs/2411.05787)|null|
 |**2024-11-08**|**Phases of decodability in the surface code with unitary errors**|Yimu Bao et.al.|[2411.05785](http://arxiv.org/abs/2411.05785)|null|
 |**2024-11-08**|**Quantitative Assessment of Intersectional Empathetic Bias and Understanding**|Vojtech Formanek et.al.|[2411.05777](http://arxiv.org/abs/2411.05777)|null|
@@ -3892,6 +3909,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Receiver Noise in Axion Haloscopes**|M. Guzzetti et.al.|[2411.07172](http://arxiv.org/abs/2411.07172)|null|
+|**2024-11-11**|**Probing nuclear structure and the equation of state through pre-equilibrium dipole emission in charge-asymmetric reactions**|Leonid Shvedov et.al.|[2411.07159](http://arxiv.org/abs/2411.07159)|null|
+|**2024-11-11**|**SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**|Jiale Chen et.al.|[2411.06991](http://arxiv.org/abs/2411.06991)|null|
+|**2024-11-11**|**Multi-modal Iterative and Deep Fusion Frameworks for Enhanced Passive DOA Sensing via a Green Massive H2AD MIMO Receiver**|Jiatong Bai et.al.|[2411.06927](http://arxiv.org/abs/2411.06927)|null|
+|**2024-11-11**|**DeepCRF: Deep Learning-Enhanced CSI-Based RF Fingerprinting for Channel-Resilient WiFi Device Identification**|Ruiqi Kong et.al.|[2411.06925](http://arxiv.org/abs/2411.06925)|null|
+|**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921](http://arxiv.org/abs/2411.06921)|null|
+|**2024-11-11**|**Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Air Quality Sensor Fusion**|Keivan Faghih Niresi et.al.|[2411.06917](http://arxiv.org/abs/2411.06917)|null|
+|**2024-11-11**|**LLM-Assisted Relevance Assessments: When Should We Ask LLMs for Help?**|Rikiya Takehi et.al.|[2411.06877](http://arxiv.org/abs/2411.06877)|null|
+|**2024-11-11**|**Subgraph Retrieval Enhanced by Graph-Text Alignment for Commonsense Question Answering**|Boci Peng et.al.|[2411.06866](http://arxiv.org/abs/2411.06866)|null|
+|**2024-11-11**|**AV-PedAware: Self-Supervised Audio-Visual Fusion for Dynamic Pedestrian Awareness**|Yizhuo Yang et.al.|[2411.06789](http://arxiv.org/abs/2411.06789)|null|
 |**2024-11-08**|**The Hubble Constant from Blue Type Ia Supernovae**|Christa Gall et.al.|[2411.05642](http://arxiv.org/abs/2411.05642)|null|
 |**2024-11-08**|**Efficient Audio-Visual Fusion for Video Classification**|Mahrukh Awan et.al.|[2411.05603](http://arxiv.org/abs/2411.05603)|null|
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
