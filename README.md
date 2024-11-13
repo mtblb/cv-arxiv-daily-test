@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**NL-SLAM for OC-VLN: Natural Language Grounded SLAM for Object-Centric VLN**|Sonia Raychaudhuri et.al.|[2411.07848](http://arxiv.org/abs/2411.07848)|null|
 |**2024-11-11**|**Lost in Tracking Translation: A Comprehensive Analysis of Visual SLAM in Human-Centered XR and IoT Ecosystems**|Yasra Chandio et.al.|[2411.07146](http://arxiv.org/abs/2411.07146)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
 |**2024-11-11**|**HomoMatcher: Dense Feature Matching Results with Semi-Dense Efficiency by Homography Estimation**|Xiaolong Wang et.al.|[2411.06700](http://arxiv.org/abs/2411.06700)|null|
@@ -2230,6 +2231,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
@@ -2508,6 +2510,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Material Transforms from Disentangled NeRF Representations**|Ivan Lopes et.al.|[2411.08037](http://arxiv.org/abs/2411.08037)|**[link](https://github.com/astra-vision/brdftransform)**|
 |**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
 |**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
 |**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
@@ -3872,6 +3875,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Leonardo vindicated: Pythagorean trees for minimal reconstruction of the natural branching structures**|Dymitr Ruta et.al.|[2411.08024](http://arxiv.org/abs/2411.08024)|null|
+|**2024-11-12**|**Harnessing Network Science for Urban Resilience: The CASA Model's Approach to Social and Environmental Challenges**|Miguel Fuentes et.al.|[2411.08015](http://arxiv.org/abs/2411.08015)|null|
+|**2024-11-12**|**Doubly Robust Regression Discontinuity Designs**|Masahiro Kato et.al.|[2411.07978](http://arxiv.org/abs/2411.07978)|null|
+|**2024-11-12**|**DINO-LG: A Task-Specific DINO Model for Coronary Calcium Scoring**|Mahmut S. Gokmen et.al.|[2411.07976](http://arxiv.org/abs/2411.07976)|null|
+|**2024-11-12**|**Centrality definition in e+A collisions at the Electron-Ion Collider**|Mariam Hegazy et.al.|[2411.07963](http://arxiv.org/abs/2411.07963)|null|
+|**2024-11-12**|**Quantitative Phase-Field Modeling of Rapid Alloy Solidification**|Kaihua Ji et.al.|[2411.07953](http://arxiv.org/abs/2411.07953)|null|
+|**2024-11-12**|**Noise-Resilient Quantum Random Access Codes**|H. S. Karthik et.al.|[2411.07924](http://arxiv.org/abs/2411.07924)|null|
+|**2024-11-12**|**Isometric Transformations for Image Augmentation in Mueller Matrix Polarimetry**|Christopher Hahne et.al.|[2411.07918](http://arxiv.org/abs/2411.07918)|**[link](https://github.com/hahnec/polar_augment)**|
+|**2024-11-12**|**CryptoLLM: Unleashing the Power of Prompted LLMs for SmartQnA and Classification of Crypto Posts**|Aniket Deroy et.al.|[2411.07917](http://arxiv.org/abs/2411.07917)|null|
+|**2024-11-12**|**Hybrid finite element implementation of a two-potential constitutive modeling of dielectric elastomers**|Kamalendu Ghosh et.al.|[2411.07900](http://arxiv.org/abs/2411.07900)|null|
 |**2024-11-11**|**DeepONet as a Multi-Operator Extrapolation Model: Distributed Pretraining with Physics-Informed Fine-Tuning**|Zecheng Zhang et.al.|[2411.07239](http://arxiv.org/abs/2411.07239)|null|
 |**2024-11-11**|**Floquet Topological Dissipative Kerr Solitons and Incommensurate Frequency Combs**|Seyed Danial Hashemi et.al.|[2411.07236](http://arxiv.org/abs/2411.07236)|null|
 |**2024-11-11**|**Multiple mixing, 75 years of Rokhlin's problem**|Valery V. Ryzhikov et.al.|[2411.07234](http://arxiv.org/abs/2411.07234)|null|
@@ -3912,6 +3925,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**Estimation of spin-orbit torques in the presence of current-induced magnon creation and annihilation**|Paul Noël et.al.|[2411.07999](http://arxiv.org/abs/2411.07999)|null|
+|**2024-11-12**|**Numerical Simulations of Geomechanical Deformation, Fluid Flow and Reactive Transport in Shale Rough-Walled Microfractures**|Morteza Heydari et.al.|[2411.07992](http://arxiv.org/abs/2411.07992)|null|
+|**2024-11-12**|**The Hubble constant anchor galaxy NGC 4258: metallicity and distance from blue supergiants**|Rolf-Peter Kudritzki et.al.|[2411.07974](http://arxiv.org/abs/2411.07974)|null|
+|**2024-11-12**|**Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne Objects**|Laura Dominé et.al.|[2411.07956](http://arxiv.org/abs/2411.07956)|null|
+|**2024-11-12**|**NLO QCD effects on angular observables in single Higgs production at electron-proton collider**|Pramod Sharma et.al.|[2411.07950](http://arxiv.org/abs/2411.07950)|null|
+|**2024-11-12**|**SimBase: A Simple Baseline for Temporal Video Grounding**|Peijun Bao et.al.|[2411.07945](http://arxiv.org/abs/2411.07945)|null|
+|**2024-11-12**|**Scalable General Error Mitigation for Quantum Circuits**|Philip Döbler et.al.|[2411.07916](http://arxiv.org/abs/2411.07916)|null|
+|**2024-11-12**|**CDXFormer: Boosting Remote Sensing Change Detection with Extended Long Short-Term Memory**|Zhenkai Wu et.al.|[2411.07863](http://arxiv.org/abs/2411.07863)|**[link](https://github.com/xwmaxwma/rschange)**|
+|**2024-11-12**|**Evidential time-to-event prediction model with well-calibrated uncertainty estimation**|Ling Huang et.al.|[2411.07853](http://arxiv.org/abs/2411.07853)|null|
+|**2024-11-12**|**LapGSR: Laplacian Reconstructive Network for Guided Thermal Super-Resolution**|Aditya Kasliwal et.al.|[2411.07750](http://arxiv.org/abs/2411.07750)|null|
 |**2024-11-11**|**Receiver Noise in Axion Haloscopes**|M. Guzzetti et.al.|[2411.07172](http://arxiv.org/abs/2411.07172)|null|
 |**2024-11-11**|**Probing nuclear structure and the equation of state through pre-equilibrium dipole emission in charge-asymmetric reactions**|Leonid Shvedov et.al.|[2411.07159](http://arxiv.org/abs/2411.07159)|null|
 |**2024-11-11**|**SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation**|Jiale Chen et.al.|[2411.06991](http://arxiv.org/abs/2411.06991)|null|
