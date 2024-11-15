@@ -2240,6 +2240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
@@ -3888,6 +3889,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
+|**2024-11-14**|**Enhanced Kohn-Luttinger topological superconductivity in bands with nontrivial geometry**|Ammar Jahin et.al.|[2411.09664](http://arxiv.org/abs/2411.09664)|null|
+|**2024-11-14**|**Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters**|Jianing Fang et.al.|[2411.09654](http://arxiv.org/abs/2411.09654)|null|
+|**2024-11-14**|**Nash equilibrium seeking for a class of quadratic-bilinear Wasserstein distributionally robust games**|Georgios Pantazis et.al.|[2411.09636](http://arxiv.org/abs/2411.09636)|null|
+|**2024-11-14**|**NEP-MB-pol: A unified machine-learned framework for fast and accurate prediction of water's thermodynamic and transport properties**|Ke Xu et.al.|[2411.09631](http://arxiv.org/abs/2411.09631)|null|
+|**2024-11-14**|**Automatic Quantum Communication Channel with Interference Detection and Reset Mechanism**|S. M. Yousuf Iqbal Tomal et.al.|[2411.09626](http://arxiv.org/abs/2411.09626)|null|
+|**2024-11-14**|**Vision-based Manipulation of Transparent Plastic Bags in Industrial Setups**|F. Adetunji et.al.|[2411.09623](http://arxiv.org/abs/2411.09623)|null|
+|**2024-11-14**|**MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI**|Nancy R. Newlin et.al.|[2411.09618](http://arxiv.org/abs/2411.09618)|null|
+|**2024-11-14**|**Riemannian optimisation methods for ground states of multicomponent Bose-Einstein condensates**|R. Altmann et.al.|[2411.09617](http://arxiv.org/abs/2411.09617)|null|
+|**2024-11-14**|**Assessing the Performance of the DINOv2 Self-supervised Learning Vision Transformer Model for the Segmentation of the Left Atrium from MRI Images**|Bipasha Kundu et.al.|[2411.09598](http://arxiv.org/abs/2411.09598)|null|
 |**2024-11-13**|**A generalized software framework for consolidation of radiotherapy planning and delivery data from diverse data sources**|Yasin Abdulkadir et.al.|[2411.08876](http://arxiv.org/abs/2411.08876)|null|
 |**2024-11-13**|**The GRBSN webtool: An open-source repository for gamma-ray burst-supernova associations**|Gabriel Finneran et.al.|[2411.08866](http://arxiv.org/abs/2411.08866)|null|
 |**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
@@ -3948,6 +3959,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Non-Invertible Symmetries in 6d from Green-Schwarz Automorphisms**|Fabio Apruzzi et.al.|[2411.09674](http://arxiv.org/abs/2411.09674)|null|
+|**2024-11-14**|**Strong Field Scattering of Black Holes: Assessing Resummation Strategies**|Shaun Swain et.al.|[2411.09652](http://arxiv.org/abs/2411.09652)|null|
+|**2024-11-14**|**Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework**|Ronak Pradeep et.al.|[2411.09607](http://arxiv.org/abs/2411.09607)|null|
+|**2024-11-14**|**Harnessing Machine Learning for Single-Shot Measurement of Free Electron Laser Pulse Power**|Till Korten et.al.|[2411.09468](http://arxiv.org/abs/2411.09468)|null|
+|**2024-11-14**|**Instruction-Driven Fusion of Infrared-Visible Images: Tailoring for Diverse Downstream Tasks**|Zengyi Yang et.al.|[2411.09387](http://arxiv.org/abs/2411.09387)|null|
+|**2024-11-14**|**Radon emanation rate measurements using liquid scintillation counting**|A. B. M. R. Sazzad et.al.|[2411.09384](http://arxiv.org/abs/2411.09384)|null|
+|**2024-11-14**|**Vibrational excitation and dissociation of deuterium molecule by electron impact**|V Laporta et.al.|[2411.09375](http://arxiv.org/abs/2411.09375)|null|
+|**2024-11-14**|**A Flexible Framework for Grant-Free Random Access in Cell-Free Massive MIMO Systems**|Sai Subramanyam Thoota et.al.|[2411.09328](http://arxiv.org/abs/2411.09328)|null|
+|**2024-11-14**|**Integrated Data Analysis and Validation**|R. Fischer et.al.|[2411.09270](http://arxiv.org/abs/2411.09270)|null|
+|**2024-11-14**|**Cross Space and Time: A Spatio-Temporal Unitized Model for Traffic Flow Forecasting**|Weilin Ruan et.al.|[2411.09251](http://arxiv.org/abs/2411.09251)|null|
 |**2024-11-13**|**A probabilistic reduced-order modeling framework for patient-specific cardio-mechanical analysis**|Robin Willems et.al.|[2411.08822](http://arxiv.org/abs/2411.08822)|null|
 |**2024-11-13**|**Physics-Informed Transformation Toward Improving the Machine-Learned NLTE Models of ICF Simulations**|Min Sang Cho et.al.|[2411.08789](http://arxiv.org/abs/2411.08789)|null|
 |**2024-11-13**|**FedSub: Introducing class-aware Subnetworks Fusion to Enhance Personalized Federated Learning in Ubiquitous Systems**|Mattia Giovanni Campana et.al.|[2411.08699](http://arxiv.org/abs/2411.08699)|null|
