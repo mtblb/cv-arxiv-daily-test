@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**BEV-ODOM: Reducing Scale Drift in Monocular Visual Odometry with BEV Representation**|Yufei Wei et.al.|[2411.10195](http://arxiv.org/abs/2411.10195)|null|
 |**2024-11-13**|**DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization**|Yueming Xu et.al.|[2411.08373](http://arxiv.org/abs/2411.08373)|null|
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279](http://arxiv.org/abs/2411.08279)|**[link](https://github.com/wu-cvgl/mba-slam)**|
 |**2024-11-12**|**Enhanced Monocular Visual Odometry with AR Poses and Integrated INS-GPS for Robust Localization in Urban Environments**|Ankit Shaw et.al.|[2411.08231](http://arxiv.org/abs/2411.08231)|null|
@@ -2222,7 +2223,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
+|**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
@@ -2500,6 +2501,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
 |**2024-11-13**|**BillBoard Splatting (BBSplat): Learnable Textured Primitives for Novel View Synthesis**|David Svitov et.al.|[2411.08508](http://arxiv.org/abs/2411.08508)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
 |**2024-11-13**|**MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation**|Peng Wang et.al.|[2411.08279](http://arxiv.org/abs/2411.08279)|**[link](https://github.com/wu-cvgl/mba-slam)**|
@@ -3867,6 +3869,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**BICEP/Keck XIX: Extremely Thin Composite Polymer Vacuum Windows for BICEP and Other High Throughput Millimeter Wave Telescopes**|BICEP/Keck Collaboration et.al.|[2411.10428](http://arxiv.org/abs/2411.10428)|null|
+|**2024-11-15**|**Back to Supervision: Boosting Word Boundary Detection through Frame Classification**|Simone Carnemolla et.al.|[2411.10423](http://arxiv.org/abs/2411.10423)|null|
+|**2024-11-15**|**Lower bounds on the top Lyapunov exponent for linear PDEs driven by the 2D stochastic Navier-Stokes equations**|Martin Hairer et.al.|[2411.10419](http://arxiv.org/abs/2411.10419)|null|
+|**2024-11-15**|**Llama Guard 3 Vision: Safeguarding Human-AI Image Understanding Conversations**|Jianfeng Chi et.al.|[2411.10414](http://arxiv.org/abs/2411.10414)|null|
+|**2024-11-15**|**Oxidation Kinetics of Superconducting Niobium and a-Tantalum in Atmosphere at Short and Intermediate Time Scales**|Hunter J. Frost et.al.|[2411.10410](http://arxiv.org/abs/2411.10410)|null|
+|**2024-11-15**|**Nonlinearity-Driven Morphing and Control of Topological Modes in Non-Hermitian Systems**|Zhao-Fan Cai et.al.|[2411.10398](http://arxiv.org/abs/2411.10398)|null|
+|**2024-11-15**|**Implementation of scalable suspended superinductors**|Christian Jünger et.al.|[2411.10396](http://arxiv.org/abs/2411.10396)|null|
+|**2024-11-15**|**Framework for Co-distillation Driven Federated Learning to Address Class Imbalance in Healthcare**|Suraj Racha et.al.|[2411.10383](http://arxiv.org/abs/2411.10383)|null|
+|**2024-11-15**|**Koopman-based control of nonlinear systems with closed-loop guarantees**|Robin Strässer et.al.|[2411.10359](http://arxiv.org/abs/2411.10359)|null|
+|**2024-11-15**|**Safe Text-to-Image Generation: Simply Sanitize the Prompt Embedding**|Huming Qiu et.al.|[2411.10329](http://arxiv.org/abs/2411.10329)|null|
 |**2024-11-14**|**MagicQuill: An Intelligent Interactive Image Editing System**|Zichen Liu et.al.|[2411.09703](http://arxiv.org/abs/2411.09703)|null|
 |**2024-11-14**|**Enhanced Kohn-Luttinger topological superconductivity in bands with nontrivial geometry**|Ammar Jahin et.al.|[2411.09664](http://arxiv.org/abs/2411.09664)|null|
 |**2024-11-14**|**Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters**|Jianing Fang et.al.|[2411.09654](http://arxiv.org/abs/2411.09654)|null|
@@ -3935,6 +3947,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Design of Dedicated Tilt-to-Length Calibration Maneuvers for LISA**|Henry Wegener et.al.|[2411.10409](http://arxiv.org/abs/2411.10409)|null|
+|**2024-11-15**|**Remote-sensing based control of 3D magnetic fields using machine learning for in-operando applications**|Miguel A. Cascales Sandoval et.al.|[2411.10374](http://arxiv.org/abs/2411.10374)|null|
+|**2024-11-15**|**Self-Excited Pulsations and the Instability Strip of Long-Period Variables: the Transition from Small-Amplitude Red Giants to Semi-Regular Variables**|Michele Trabucchi et.al.|[2411.10341](http://arxiv.org/abs/2411.10341)|null|
+|**2024-11-15**|**Melanoma Detection with Uncertainty Quantification**|SangHyuk Kim et.al.|[2411.10322](http://arxiv.org/abs/2411.10322)|null|
+|**2024-11-15**|**Modification Takes Courage: Seamless Image Stitching via Reference-Driven Inpainting**|Ziqi Xie et.al.|[2411.10309](http://arxiv.org/abs/2411.10309)|**[link](https://github.com/yayoyo66/rdistitcher)**|
+|**2024-11-15**|**Uncertainty-Weighted Mutual Distillation for Multi-View Fusion**|Jiwoong Yang et.al.|[2411.10077](http://arxiv.org/abs/2411.10077)|null|
+|**2024-11-15**|**CMATH: Cross-Modality Augmented Transformer with Hierarchical Variational Distillation for Multimodal Emotion Recognition in Conversation**|Xiaofei Zhu et.al.|[2411.10060](http://arxiv.org/abs/2411.10060)|null|
+|**2024-11-15**|**Rethinking Normalization Strategies and Convolutional Kernels for Multimodal Image Fusion**|Dan He et.al.|[2411.10036](http://arxiv.org/abs/2411.10036)|null|
+|**2024-11-15**|**VMID: A Multimodal Fusion LLM Framework for Detecting and Identifying Misinformation of Short Videos**|Weihao Zhong et.al.|[2411.10032](http://arxiv.org/abs/2411.10032)|null|
+|**2024-11-15**|**DiffFNO: Diffusion Fourier Neural Operator**|Xiaoyi Liu et.al.|[2411.09911](http://arxiv.org/abs/2411.09911)|null|
 |**2024-11-14**|**Non-Invertible Symmetries in 6d from Green-Schwarz Automorphisms**|Fabio Apruzzi et.al.|[2411.09674](http://arxiv.org/abs/2411.09674)|null|
 |**2024-11-14**|**Strong Field Scattering of Black Holes: Assessing Resummation Strategies**|Shaun Swain et.al.|[2411.09652](http://arxiv.org/abs/2411.09652)|null|
 |**2024-11-14**|**Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework**|Ronak Pradeep et.al.|[2411.09607](http://arxiv.org/abs/2411.09607)|null|
