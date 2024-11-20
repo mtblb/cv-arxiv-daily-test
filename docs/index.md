@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514](http://arxiv.org/abs/2411.12514)|null|
+|**2024-11-19**|**LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2411.12185](http://arxiv.org/abs/2411.12185)|null|
 |**2024-11-18**|**Exploring Emerging Trends and Research Opportunities in Visual Place Recognition**|Antonios Gasteratos et.al.|[2411.11481](http://arxiv.org/abs/2411.11481)|null|
 |**2024-11-18**|**The Blue Horizontal-Branch Stars From the LAMOST Survey: Atmospheric Parameters**|Jie Ju et.al.|[2411.11250](http://arxiv.org/abs/2411.11250)|null|
 |**2024-11-17**|**A Monocular SLAM-based Multi-User Positioning System with Image Occlusion in Augmented Reality**|Wei-Hsiang Lien et.al.|[2411.10940](http://arxiv.org/abs/2411.10940)|null|
@@ -717,6 +719,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**SPARS3R: Semantic Prior Alignment and Regularization for Sparse 3D Reconstruction**|Yutao Tang et.al.|[2411.12592](http://arxiv.org/abs/2411.12592)|null|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453](http://arxiv.org/abs/2411.08453)|null|
@@ -1971,6 +1974,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-11-04**|**KptLLM: Unveiling the Power of Large Language Model for Keypoint Comprehension**|Jie Yang et.al.|[2411.01846](http://arxiv.org/abs/2411.01846)|null|
 |**2024-10-31**|**From Web Data to Real Fields: Low-Cost Unsupervised Domain Adaptation for Agricultural Robots**|Vasileios Tzouras et.al.|[2410.23906](http://arxiv.org/abs/2410.23906)|null|
@@ -2508,6 +2512,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**SCIGS: 3D Gaussians Splatting from a Snapshot Compressive Image**|Zixu Wang et.al.|[2411.12471](http://arxiv.org/abs/2411.12471)|null|
+|**2024-11-19**|**GaussianPretrain: A Simple Unified 3D Gaussian Representation for Visual Pre-training in Autonomous Driving**|Shaoqing Xu et.al.|[2411.12452](http://arxiv.org/abs/2411.12452)|null|
 |**2024-11-18**|**Towards Degradation-Robust Reconstruction in Generalizable NeRF**|Chan Ho Park et.al.|[2411.11691](http://arxiv.org/abs/2411.11691)|null|
 |**2024-11-18**|**LeC $^2$ O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes**|Zhenxing Mi et.al.|[2411.11374](http://arxiv.org/abs/2411.11374)|null|
 |**2024-11-15**|**The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods**|Yifu Tao et.al.|[2411.10546](http://arxiv.org/abs/2411.10546)|null|
@@ -3880,6 +3886,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Soft Robotic Dynamic In-Hand Pen Spinning**|Yunchao Yao et.al.|[2411.12734](http://arxiv.org/abs/2411.12734)|null|
+|**2024-11-19**|**Homogeneous planet masses I: Reanalysis of archival HARPS radial velocities**|H. L. M. Osborne et.al.|[2411.12723](http://arxiv.org/abs/2411.12723)|null|
+|**2024-11-19**|**Rethinking MUSHRA: Addressing Modern Challenges in Text-to-Speech Evaluation**|Praveen Srinivasa Varadhan et.al.|[2411.12719](http://arxiv.org/abs/2411.12719)|null|
+|**2024-11-19**|**X-ray Phase Measurements by Time-Energy Correlated Photon Pairs**|Yishai Klein et.al.|[2411.12702](http://arxiv.org/abs/2411.12702)|null|
+|**2024-11-19**|**CWENO Interpolation for Non-Oscillatory Stochastic Collocation in Uncertainty Quantification Problems**|Alina Chertock et.al.|[2411.12679](http://arxiv.org/abs/2411.12679)|null|
+|**2024-11-19**|**IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose**|Fei Ren et.al.|[2411.12676](http://arxiv.org/abs/2411.12676)|null|
+|**2024-11-19**|**Auto-Evaluation with Few Labels through Post-hoc Regression**|Benjamin Eyre et.al.|[2411.12665](http://arxiv.org/abs/2411.12665)|null|
+|**2024-11-19**|**Flat Cell Imaging**|Vahid Nasirimarekani et.al.|[2411.12656](http://arxiv.org/abs/2411.12656)|null|
+|**2024-11-19**|**Reward driven workflows for unsupervised explainable analysis of phases and ferroic variants from atomically resolved imaging data**|Kamyar Barakati et.al.|[2411.12612](http://arxiv.org/abs/2411.12612)|null|
+|**2024-11-19**|**Whisper Finetuning on Nepali Language**|Sanjay Rijal et.al.|[2411.12587](http://arxiv.org/abs/2411.12587)|null|
 |**2024-11-18**|**The JWST EXCELS survey: tracing the chemical enrichment pathways of high-redshift star-forming galaxies with O, Ar and Ne abundances**|T. M. Stanton et.al.|[2411.11837](http://arxiv.org/abs/2411.11837)|null|
 |**2024-11-18**|**Novel Application of Neutrinos to Evaluate U.S. Nuclear Weapons Performance**|J. R. Distel et.al.|[2411.11804](http://arxiv.org/abs/2411.11804)|null|
 |**2024-11-18**|**Scalable control synthesis for stochastic systems via structural IMDP abstractions**|Frederik Baymler Mathiesen et.al.|[2411.11803](http://arxiv.org/abs/2411.11803)|null|
@@ -3968,6 +3984,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Smart Predict-then-Optimize Method with Dependent Data: Risk Bounds and Calibration of Autoregression**|Jixian Liu et.al.|[2411.12653](http://arxiv.org/abs/2411.12653)|null|
+|**2024-11-19**|**M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction**|Luoxi Zhang et.al.|[2411.12635](http://arxiv.org/abs/2411.12635)|null|
+|**2024-11-19**|**S3TU-Net: Structured Convolution and Superpixel Transformer for Lung Nodule Segmentation**|Yuke Wu et.al.|[2411.12547](http://arxiv.org/abs/2411.12547)|null|
+|**2024-11-19**|**VMGNet: A Low Computational Complexity Robotic Grasping Network Based on VMamba with Multi-Scale Feature Fusion**|Yuhao Jin et.al.|[2411.12520](http://arxiv.org/abs/2411.12520)|null|
+|**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514](http://arxiv.org/abs/2411.12514)|null|
+|**2024-11-19**|**ManiSkill-ViTac 2025: Challenge on Manipulation Skill Learning With Vision and Tactile Sensing**|Chuanyu Li et.al.|[2411.12503](http://arxiv.org/abs/2411.12503)|null|
+|**2024-11-19**|**Extended Buoyancy-Drag Model for Ablative Rayleigh-Taylor Instability Seeded by Various Perturbations**|Dongxue Liu et.al.|[2411.12392](http://arxiv.org/abs/2411.12392)|null|
+|**2024-11-19**|**The age of the Methuselah star in light of stellar evolution models with tailored abundances**|C. Guillaume et.al.|[2411.12343](http://arxiv.org/abs/2411.12343)|null|
+|**2024-11-19**|**Diffusion Product Quantization**|Jie Shao et.al.|[2411.12306](http://arxiv.org/abs/2411.12306)|null|
+|**2024-11-19**|**SSEditor: Controllable Mask-to-Scene Generation with Diffusion Model**|Haowen Zheng et.al.|[2411.12290](http://arxiv.org/abs/2411.12290)|null|
 |**2024-11-18**|**Leveraging Global IoT Networks for a Distributed Radio Telescope: Calibration Methods and Performance Analysis**|Junming Diao et.al.|[2411.11818](http://arxiv.org/abs/2411.11818)|null|
 |**2024-11-18**|**Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion**|Meng Zhou et.al.|[2411.11799](http://arxiv.org/abs/2411.11799)|**[link](https://github.com/simonzhou86/en_dran)**|
 |**2024-11-18**|**High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles**|Shiyue Zhao et.al.|[2411.11762](http://arxiv.org/abs/2411.11762)|null|
