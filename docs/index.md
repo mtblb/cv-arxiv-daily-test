@@ -14,11 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176](http://arxiv.org/abs/2412.13176)|null|
+|**2024-12-17**|**Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera**|Zhengdi Yu et.al.|[2412.12861](http://arxiv.org/abs/2412.12861)|null|
+|**2024-12-16**|**Global SLAM in Visual-Inertial Systems with 5G Time-of-Arrival Integration**|Meisam Kabiri et.al.|[2412.12406](http://arxiv.org/abs/2412.12406)|null|
+|**2024-12-16**|**MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors**|Riku Murai et.al.|[2412.12392](http://arxiv.org/abs/2412.12392)|null|
 |**2024-12-16**|**Sonar-based Deep Learning in Underwater Robotics: Overview, Robustness and Challenges**|Martin Aubard et.al.|[2412.11840](http://arxiv.org/abs/2412.11840)|null|
 |**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530](http://arxiv.org/abs/2412.11530)|null|
-|**2024-12-14**|**Affine EKF: Exploring and Utilizing Sufficient and Necessary Conditions for Observability Maintenance to Improve EKF Consistency**|Yang Song et.al.|[2412.10809](http://arxiv.org/abs/2412.10809)|null|
+|**2024-12-14**|**Affine EKF: Exploring and Utilizing Sufficient and Necessary Conditions for Observability Maintenance to Improve EKF Consistency**|Yang Song et.al.|[2412.10809](http://arxiv.org/abs/2412.10809)|**[link](https://github.com/yangsong-slam/affine-ekf)**|
 |**2024-12-13**|**RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting**|Lizhi Bai et.al.|[2412.09868](http://arxiv.org/abs/2412.09868)|null|
-|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401](http://arxiv.org/abs/2412.09401)|null|
+|**2024-12-12**|**SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos**|Yuzheng Liu et.al.|[2412.09401](http://arxiv.org/abs/2412.09401)|**[link](https://github.com/pku-vcl-3dv/slam3r)**|
 |**2024-12-12**|**eCARLA-scenes: A synthetically generated dataset for event-based optical flow prediction**|Jad Mansour et.al.|[2412.09209](http://arxiv.org/abs/2412.09209)|**[link](https://github.com/CIRS-Girona/ecarla-scenes)**|
 |**2024-12-12**|**Drift-free Visual SLAM using Digital Twins**|Roxane Merat et.al.|[2412.08496](http://arxiv.org/abs/2412.08496)|null|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513](http://arxiv.org/abs/2412.07513)|null|
@@ -1068,6 +1072,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
 |**2024-12-15**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
 |**2024-12-13**|**MVC-VPR: Mutual Learning of Viewpoint Classification and Visual Place Recognition**|Qiwen Gu et.al.|[2412.09199](http://arxiv.org/abs/2412.09199)|null|
@@ -2609,6 +2614,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
+|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
+|**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766](http://arxiv.org/abs/2412.12766)|null|
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762](http://arxiv.org/abs/2412.11762)|null|
 |**2024-12-16**|**Sequence Matters: Harnessing Video Models in Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
 |**2024-12-16**|**VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression**|Qiang Hu et.al.|[2412.11362](http://arxiv.org/abs/2412.11362)|null|
@@ -4022,6 +4030,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Efficiently measuring $d$ -wave pairing and beyond in quantum gas microscopes**|Daniel K. Mark et.al.|[2412.13186](http://arxiv.org/abs/2412.13186)|null|
+|**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
+|**2024-12-17**|**How the cool-core population transitions from galaxy groups to massive clusters: A comparison of the largest Magneticum simulation with eROSITA, XMM-Newton, Chandra and LOFAR observations**|Justo Antonio Gonzalez Villalba et.al.|[2412.13182](http://arxiv.org/abs/2412.13182)|null|
+|**2024-12-17**|**ORFormer: Occlusion-Robust Transformer for Accurate Facial Landmark Detection**|Jui-Che Chiang et.al.|[2412.13174](http://arxiv.org/abs/2412.13174)|null|
+|**2024-12-17**|**Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study**|Bolei Ma et.al.|[2412.13169](http://arxiv.org/abs/2412.13169)|**[link](https://github.com/soda-lmu/llm-opinion-german)**|
+|**2024-12-17**|**S2S2: Semantic Stacking for Robust Semantic Segmentation in Medical Imaging**|Yimu Pan et.al.|[2412.13156](http://arxiv.org/abs/2412.13156)|null|
+|**2024-12-17**|**Are Your LLMs Capable of Stable Reasoning?**|Junnan Liu et.al.|[2412.13147](http://arxiv.org/abs/2412.13147)|**[link](https://github.com/open-compass/gpassk)**|
+|**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126](http://arxiv.org/abs/2412.13126)|null|
+|**2024-12-17**|**Fréchet Sufficient Dimension Reduction for Metric Space-Valued Data via Distance Covariance**|Hsin-Hsiung Huang et.al.|[2412.13122](http://arxiv.org/abs/2412.13122)|null|
+|**2024-12-17**|**Koopman Mode-Based Detection of Internal Short Circuits in Lithium-ion Battery Pack**|Sanchita Ghosh et.al.|[2412.13115](http://arxiv.org/abs/2412.13115)|null|
 |**2024-12-16**|**IDArb: Intrinsic Decomposition for Arbitrary Number of Input Views and Illuminations**|Zhibing Li et.al.|[2412.12083](http://arxiv.org/abs/2412.12083)|null|
 |**2024-12-16**|**The lack of asymmetry of the Maxwell centroids, and of ocular dominance, in persons with dyslexia**|Albert Le Floch et.al.|[2412.12053](http://arxiv.org/abs/2412.12053)|null|
 |**2024-12-16**|**LeARN: Learnable and Adaptive Representations for Nonlinear Dynamics in System Identification**|Arunabh Singh et.al.|[2412.12036](http://arxiv.org/abs/2412.12036)|null|
@@ -4290,6 +4308,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Re-calibrating methodologies in social media research: Challenge the visual, work with Speech**|Hongrui Jin et.al.|[2412.13170](http://arxiv.org/abs/2412.13170)|null|
+|**2024-12-17**|**A Conformal Approach to Feature-based Newsvendor under Model Misspecification**|Junyu Cao et.al.|[2412.13159](http://arxiv.org/abs/2412.13159)|null|
+|**2024-12-17**|**Constraints on Strongly-Interacting Dark Matter from the James Webb Space Telescope**|Peizhi Du et.al.|[2412.13131](http://arxiv.org/abs/2412.13131)|null|
+|**2024-12-17**|**Newest measurements of Hubble constant from DESI 2024 BAO observations**|Wuzheng Guo et.al.|[2412.13045](http://arxiv.org/abs/2412.13045)|null|
+|**2024-12-17**|**Evolution and final fates of low- and intermediate-mass stars**|Alessandro Bressan et.al.|[2412.13039](http://arxiv.org/abs/2412.13039)|null|
+|**2024-12-17**|**Unified calibration and spatial mapping of fine particulate matter data from multiple low-cost air pollution sensor networks in Baltimore, Maryland**|Claire Heffernan et.al.|[2412.13034](http://arxiv.org/abs/2412.13034)|null|
+|**2024-12-17**|**RCLMuFN: Relational Context Learning and Multiplex Fusion Network for Multimodal Sarcasm Detection**|Tongguan Wang et.al.|[2412.13008](http://arxiv.org/abs/2412.13008)|null|
+|**2024-12-17**|**Neural Posterior Estimation for Stochastic Epidemic Modeling**|Prayag Chatha et.al.|[2412.12967](http://arxiv.org/abs/2412.12967)|null|
+|**2024-12-17**|**Modeling Quantum Volume Using Randomized Benchmarking of Room-Temperature NV Center Quantum Registers**|Tom Jaeger et.al.|[2412.12959](http://arxiv.org/abs/2412.12959)|null|
+|**2024-12-17**|**Quantum Coherent State Transform on Continuous-Variable Systems**|Xi Lu et.al.|[2412.12871](http://arxiv.org/abs/2412.12871)|null|
 |**2024-12-16**|**Accurate Surrogate Amplitudes with Calibrated Uncertainties**|Henning Bahl et.al.|[2412.12069](http://arxiv.org/abs/2412.12069)|null|
 |**2024-12-16**|**RepFace: Refining Closed-Set Noise with Progressive Label Correction for Face Recognition**|Jie Zhang et.al.|[2412.12031](http://arxiv.org/abs/2412.12031)|null|
 |**2024-12-16**|**LLM-RG4: Flexible and Factual Radiology Report Generation across Diverse Input Contexts**|Zhuhao Wang et.al.|[2412.12001](http://arxiv.org/abs/2412.12001)|null|
