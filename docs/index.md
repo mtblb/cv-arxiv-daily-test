@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912](http://arxiv.org/abs/2412.13912)|null|
+|**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752](http://arxiv.org/abs/2412.13752)|null|
+|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
 |**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176](http://arxiv.org/abs/2412.13176)|null|
 |**2024-12-17**|**Dyn-HaMR: Recovering 4D Interacting Hand Motion from a Dynamic Camera**|Zhengdi Yu et.al.|[2412.12861](http://arxiv.org/abs/2412.12861)|null|
 |**2024-12-16**|**Global SLAM in Visual-Inertial Systems with 5G Time-of-Arrival Integration**|Meisam Kabiri et.al.|[2412.12406](http://arxiv.org/abs/2412.12406)|null|
@@ -761,6 +764,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103](http://arxiv.org/abs/2412.14103)|null|
 |**2024-12-16**|**Speech Foundation Models and Crowdsourcing for Efficient, High-Quality Data Collection**|Beomseok Lee et.al.|[2412.11978](http://arxiv.org/abs/2412.11978)|null|
 |**2024-12-18**|**SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video**|Jongmin Park et.al.|[2412.09982](http://arxiv.org/abs/2412.09982)|null|
 |**2024-12-12**|**CoDTS: Enhancing Sparsely Supervised Collaborative Perception with a Dual Teacher-Student Framework**|Yushan Han et.al.|[2412.08344](http://arxiv.org/abs/2412.08344)|null|
@@ -1072,9 +1076,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
+|**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
+|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|null|
 |**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
-|**2024-12-15**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
+|**2024-12-18**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
 |**2024-12-13**|**MVC-VPR: Mutual Learning of Viewpoint Classification and Visual Place Recognition**|Qiwen Gu et.al.|[2412.09199](http://arxiv.org/abs/2412.09199)|null|
 |**2024-12-12**|**A Flexible Plug-and-Play Module for Generating Variable-Length**|Liyang He et.al.|[2412.08922](http://arxiv.org/abs/2412.08922)|**[link](https://github.com/hly1998/nhl)**|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
@@ -2334,6 +2341,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|**[link](https://github.com/SebastianJanampa/DT-LSD)**|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
@@ -2614,8 +2622,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
 |**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
-|**2024-12-18**|**Optimize the Unseen - Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
+|**2024-12-18**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
 |**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766](http://arxiv.org/abs/2412.12766)|null|
 |**2024-12-16**|**GS-ProCams: Gaussian Splatting-based Projector-Camera Systems**|Qingyue Deng et.al.|[2412.11762](http://arxiv.org/abs/2412.11762)|null|
 |**2024-12-18**|**Sequence Matters: Harnessing Video Models in 3D Super-Resolution**|Hyun-kyu Ko et.al.|[2412.11525](http://arxiv.org/abs/2412.11525)|null|
@@ -4030,6 +4039,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**AniDoc: Animation Creation Made Easier**|Yihao Meng et.al.|[2412.14173](http://arxiv.org/abs/2412.14173)|null|
+|**2024-12-18**|**FashionComposer: Compositional Fashion Image Generation**|Sihui Ji et.al.|[2412.14168](http://arxiv.org/abs/2412.14168)|null|
+|**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
+|**2024-12-18**|**On Calibration in Multi-Distribution Learning**|Rajeev Verma et.al.|[2412.14142](http://arxiv.org/abs/2412.14142)|null|
+|**2024-12-18**|**GaraMoSt: Parallel Multi-Granularity Motion and Structural Modeling for Efficient Multi-Frame Interpolation in DSA Images**|Ziyang Xu et.al.|[2412.14118](http://arxiv.org/abs/2412.14118)|**[link](https://github.com/zyoungxu/garamost)**|
+|**2024-12-18**|**Trustworthy Transfer Learning: A Survey**|Jun Wu et.al.|[2412.14116](http://arxiv.org/abs/2412.14116)|null|
+|**2024-12-18**|**Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103](http://arxiv.org/abs/2412.14103)|null|
+|**2024-12-18**|**Quantum Optimization for Energy Management: A Coherent Variational Approach**|Farshad Amani et.al.|[2412.14095](http://arxiv.org/abs/2412.14095)|null|
+|**2024-12-18**|**Néel-vector Control of Magnetization Dynamics in $α$-Fe$_2$O$_3$ /NiFe Heterostructures**|Hassan Al-Hamdo et.al.|[2412.14090](http://arxiv.org/abs/2412.14090)|null|
+|**2024-12-18**|**On the Robustness of Distributed Machine Learning against Transfer Attacks**|Sébastien Andreina et.al.|[2412.14080](http://arxiv.org/abs/2412.14080)|null|
 |**2024-12-17**|**Efficiently measuring $d$ -wave pairing and beyond in quantum gas microscopes**|Daniel K. Mark et.al.|[2412.13186](http://arxiv.org/abs/2412.13186)|null|
 |**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
 |**2024-12-17**|**How the cool-core population transitions from galaxy groups to massive clusters: A comparison of the largest Magneticum simulation with eROSITA, XMM-Newton, Chandra and LOFAR observations**|Justo Antonio Gonzalez Villalba et.al.|[2412.13182](http://arxiv.org/abs/2412.13182)|null|
@@ -4308,6 +4327,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**Henry constant of helium in liquid lead-lithium alloys**|Edgar Alvarez-Galera et.al.|[2412.14152](http://arxiv.org/abs/2412.14152)|null|
+|**2024-12-18**|**MCMat: Multiview-Consistent and Physically Accurate PBR Material Generation**|Shenhao Zhu et.al.|[2412.14148](http://arxiv.org/abs/2412.14148)|null|
+|**2024-12-18**|**On Calibration in Multi-Distribution Learning**|Rajeev Verma et.al.|[2412.14142](http://arxiv.org/abs/2412.14142)|null|
+|**2024-12-18**|**On the Use of Abundant Road Speed Data for Travel Demand Calibration of Urban Traffic Simulators**|Suyash Vishnoi et.al.|[2412.14089](http://arxiv.org/abs/2412.14089)|null|
+|**2024-12-18**|**A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future**|Shilin Sun et.al.|[2412.14056](http://arxiv.org/abs/2412.14056)|**[link](https://github.com/shilinsun/mxai_review)**|
+|**2024-12-18**|**Circuits-Informed Machine Learning Technique for Blind Open-Loop Digital Calibration of SAR ADC**|Sumukh Bhanushali et.al.|[2412.14051](http://arxiv.org/abs/2412.14051)|null|
+|**2024-12-18**|**Accounting for Noise and Singularities in Bayesian Calibration Methods for Global 21-cm Cosmology Experiments**|Christian J. Kirkham et.al.|[2412.14023](http://arxiv.org/abs/2412.14023)|null|
+|**2024-12-18**|**Prompting Depth Anything for 4K Resolution Accurate Metric Depth Estimation**|Haotong Lin et.al.|[2412.14015](http://arxiv.org/abs/2412.14015)|null|
+|**2024-12-18**|**InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models**|Cong Wei et.al.|[2412.14006](http://arxiv.org/abs/2412.14006)|**[link](https://github.com/congvvc/instructseg)**|
+|**2024-12-18**|**MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**|Jinrui Zhang et.al.|[2412.13848](http://arxiv.org/abs/2412.13848)|null|
 |**2024-12-17**|**Re-calibrating methodologies in social media research: Challenge the visual, work with Speech**|Hongrui Jin et.al.|[2412.13170](http://arxiv.org/abs/2412.13170)|null|
 |**2024-12-17**|**A Conformal Approach to Feature-based Newsvendor under Model Misspecification**|Junyu Cao et.al.|[2412.13159](http://arxiv.org/abs/2412.13159)|null|
 |**2024-12-17**|**Constraints on Strongly-Interacting Dark Matter from the James Webb Space Telescope**|Peizhi Du et.al.|[2412.13131](http://arxiv.org/abs/2412.13131)|null|
