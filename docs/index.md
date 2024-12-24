@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework**|Fuhua Jia et.al.|[2412.17343](http://arxiv.org/abs/2412.17343)|null|
+|**2024-12-23**|**LMD-PGN: Cross-Modal Knowledge Distillation from First-Person-View Images to Third-Person-View BEV Maps for Universal Point Goal Navigation**|Riku Uemura et.al.|[2412.17282](http://arxiv.org/abs/2412.17282)|null|
+|**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
+|**2024-12-22**|**Leveraging Consistent Spatio-Temporal Correspondence for Robust Visual Odometry**|Zhaoxing Zhang et.al.|[2412.16923](http://arxiv.org/abs/2412.16923)|null|
+|**2024-12-21**|**Query Quantized Neural SLAM**|Sijia Jiang et.al.|[2412.16476](http://arxiv.org/abs/2412.16476)|**[link](https://github.com/machineperceptionlab/qq-slam)**|
 |**2024-12-20**|**SLAM-Omni: Timbre-Controllable Voice Interaction System with Single-Stage Training**|Wenxi Chen et.al.|[2412.15649](http://arxiv.org/abs/2412.15649)|null|
 |**2024-12-18**|**Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed**|Zidong Han et.al.|[2412.13912](http://arxiv.org/abs/2412.13912)|null|
 |**2024-12-18**|**Immersive Human-in-the-Loop Control: Real-Time 3D Surface Meshing and Physics Simulation**|Sait Akturk et.al.|[2412.13752](http://arxiv.org/abs/2412.13752)|null|
@@ -765,6 +770,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
 |**2024-12-18**|**Foundation Models Meet Low-Cost Sensors: Test-Time Adaptation for Rescaling Disparity for Zero-Shot Metric Depth Estimation**|Rémi Marsal et.al.|[2412.14103](http://arxiv.org/abs/2412.14103)|null|
 |**2024-12-16**|**Speech Foundation Models and Crowdsourcing for Efficient, High-Quality Data Collection**|Beomseok Lee et.al.|[2412.11978](http://arxiv.org/abs/2412.11978)|null|
 |**2024-12-18**|**SplineGS: Robust Motion-Adaptive Spline for Real-Time Dynamic 3D Gaussians from Monocular Video**|Jongmin Park et.al.|[2412.09982](http://arxiv.org/abs/2412.09982)|null|
@@ -1077,6 +1083,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
+|**2024-12-22**|**Large-Scale UWB Anchor Calibration and One-Shot Localization Using Gaussian Process**|Shenghai Yuan et.al.|[2412.16880](http://arxiv.org/abs/2412.16880)|null|
+|**2024-12-21**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
 |**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
 |**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513](http://arxiv.org/abs/2412.15513)|null|
 |**2024-12-19**|**Learning Visual Composition through Improved Semantic Guidance**|Austin Stone et.al.|[2412.15396](http://arxiv.org/abs/2412.15396)|null|
@@ -2079,6 +2088,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-21**|**A Novel Approach to Tomato Harvesting Using a Hybrid Gripper with Semantic Segmentation and Keypoint Detection**|Shahid Ansari et.al.|[2412.16755](http://arxiv.org/abs/2412.16755)|null|
 |**2024-12-19**|**Corn Ear Detection and Orientation Estimation Using Deep Learning**|Nathan Sprague et.al.|[2412.14954](http://arxiv.org/abs/2412.14954)|null|
 |**2024-12-12**|**Agtech Framework for Cranberry-Ripening Analysis Using Vision Foundation Models**|Faith Johnson et.al.|[2412.09739](http://arxiv.org/abs/2412.09739)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|**[link](https://github.com/sair-lab/SeqACE)**|
@@ -2628,6 +2638,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Editing Implicit and Explicit Representations of Radiance Fields: A Survey**|Arthur Hubert et.al.|[2412.17628](http://arxiv.org/abs/2412.17628)|null|
+|**2024-12-23**|**Exploring Dynamic Novel View Synthesis Technologies for Cinematography**|Adrian Azzarelli et.al.|[2412.17532](http://arxiv.org/abs/2412.17532)|null|
+|**2024-12-21**|**LUCES-MV: A Multi-View Dataset for Near-Field Point Light Source Photometric Stereo**|Fotios Logothetis et.al.|[2412.16737](http://arxiv.org/abs/2412.16737)|null|
 |**2024-12-20**|**NeRF-To-Real Tester: Neural Radiance Fields as Test Image Generators for Vision of Autonomous Systems**|Laura Weihl et.al.|[2412.16141](http://arxiv.org/abs/2412.16141)|null|
 |**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
 |**2024-12-19**|**LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction**|Pou-Chun Kung et.al.|[2412.15447](http://arxiv.org/abs/2412.15447)|null|
@@ -4051,6 +4064,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**FaceLift: Single Image to 3D Head with View Generation and GS-LRM**|Weijie Lyu et.al.|[2412.17812](http://arxiv.org/abs/2412.17812)|null|
+|**2024-12-23**|**Reconstructing People, Places, and Cameras**|Lea Müller et.al.|[2412.17806](http://arxiv.org/abs/2412.17806)|null|
+|**2024-12-23**|**Large Motion Video Autoencoding with Cross-modal Video VAE**|Yazhou Xing et.al.|[2412.17805](http://arxiv.org/abs/2412.17805)|null|
+|**2024-12-23**|**GauSim: Registering Elastic Objects into Digital World by Gaussian Simulator**|Yidi Shao et.al.|[2412.17804](http://arxiv.org/abs/2412.17804)|null|
+|**2024-12-23**|**Examining Imbalance Effects on Performance and Demographic Fairness of Clinical Language Models**|Precious Jones et.al.|[2412.17803](http://arxiv.org/abs/2412.17803)|null|
+|**2024-12-23**|**The generic geometry of steady state varieties**|Elisenda Feliu et.al.|[2412.17798](http://arxiv.org/abs/2412.17798)|null|
+|**2024-12-23**|**Power-optimized amplitude modulation for robust trapped-ion entangling gates: a study of gate-timing errors**|Luke Ellert-Beck et.al.|[2412.17789](http://arxiv.org/abs/2412.17789)|null|
+|**2024-12-23**|**ResearchTown: Simulator of Human Research Community**|Haofei Yu et.al.|[2412.17767](http://arxiv.org/abs/2412.17767)|**[link](https://github.com/ulab-uiuc/research-town)**|
+|**2024-12-23**|**Survey of Large Multimodal Model Datasets, Application Categories and Taxonomy**|Priyaranjan Pattnayak et.al.|[2412.17759](http://arxiv.org/abs/2412.17759)|null|
+|**2024-12-23**|**ADC: Enhancing Function Calling Via Adversarial Datasets and Code Line-Level Feedback**|Wei Zhang et.al.|[2412.17754](http://arxiv.org/abs/2412.17754)|null|
 |**2024-12-20**|**MotiF: Making Text Count in Image Animation with Motion Focal Loss**|Shijie Wang et.al.|[2412.16153](http://arxiv.org/abs/2412.16153)|null|
 |**2024-12-20**|**FedGAT: A Privacy-Preserving Federated Approximation Algorithm for Graph Attention Networks**|Siddharth Ambekar et.al.|[2412.16144](http://arxiv.org/abs/2412.16144)|null|
 |**2024-12-20**|**Camera-Based Localization and Enhanced Normalized Mutual Information**|Vishnu Teja Kunde et.al.|[2412.16137](http://arxiv.org/abs/2412.16137)|null|
@@ -4359,6 +4382,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution**|Orchid Chetia Phukan et.al.|[2412.17796](http://arxiv.org/abs/2412.17796)|null|
+|**2024-12-23**|**Classification of exchange relation planar algebras through sieving forest fusion graphs**|Fan Lu et.al.|[2412.17790](http://arxiv.org/abs/2412.17790)|null|
+|**2024-12-23**|**The Cosmological Population of Gamma-Ray Bursts from the Disks of Active Galactic Nuclei**|Hoyoung D. Kang et.al.|[2412.17714](http://arxiv.org/abs/2412.17714)|null|
+|**2024-12-23**|**Rigidity of non-negligible objects of moderate growth in braided categories**|Pavel Etingof et.al.|[2412.17681](http://arxiv.org/abs/2412.17681)|null|
+|**2024-12-23**|**A Bias-Free Training Paradigm for More General AI-generated Image Detection**|Fabrizio Guillaro et.al.|[2412.17671](http://arxiv.org/abs/2412.17671)|null|
+|**2024-12-23**|**Full disc [CII] mapping of nearby star-forming galaxies: SOFIA FIFI/LS observations of NGC 3627, NGC 4321, and NGC 6946**|I. Kovačić et.al.|[2412.17645](http://arxiv.org/abs/2412.17645)|null|
+|**2024-12-23**|**Kernel-Aware Graph Prompt Learning for Few-Shot Anomaly Detection**|Fenfang Tao et.al.|[2412.17619](http://arxiv.org/abs/2412.17619)|**[link](https://github.com/cvl-hub/kag-prompt)**|
+|**2024-12-23**|**V $^2$ -SfMLearner: Learning Monocular Depth and Ego-motion for Multimodal Wireless Capsule Endoscopy**|Long Bai et.al.|[2412.17595](http://arxiv.org/abs/2412.17595)|null|
+|**2024-12-23**|**HPCNeuroNet: A Neuromorphic Approach Merging SNN Temporal Dynamics with Transformer Attention for FPGA-based Particle Physics**|Murat Isik et.al.|[2412.17571](http://arxiv.org/abs/2412.17571)|null|
+|**2024-12-23**|**Tri-Spectral PPG: Robust Reflective Photoplethysmography by Fusing Multiple Wavelengths for Cardiac Monitoring**|Manuel Meier et.al.|[2412.17549](http://arxiv.org/abs/2412.17549)|null|
 |**2024-12-20**|**EF-Net: A Deep Learning Approach Combining Word Embeddings and Feature Fusion for Patient Disposition Analysis**|Nafisa Binte Feroz et.al.|[2412.16134](http://arxiv.org/abs/2412.16134)|**[link](https://github.com/nafisa67/thesis)**|
 |**2024-12-20**|**Explainable AI for Multivariate Time Series Pattern Exploration: Latent Space Visual Analytics with Time Fusion Transformer and Variational Autoencoders in Power Grid Event Diagnosis**|Haowen Xu et.al.|[2412.16098](http://arxiv.org/abs/2412.16098)|null|
 |**2024-12-20**|**Correct implied volatility shapes and reliable pricing in the rough Heston model**|Svetlana Boyarchenko et.al.|[2412.16067](http://arxiv.org/abs/2412.16067)|null|
