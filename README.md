@@ -2687,6 +2687,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
 |**2025-01-07**|**ConcealGS: Concealing Invisible Copyright Information in 3D Gaussian Splatting**|Yifeng Yang et.al.|[2501.03605](http://arxiv.org/abs/2501.03605)|null|
@@ -4125,6 +4126,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Observation of topological prethermal strong zero modes**|Feitong Jin et.al.|[2501.04688](http://arxiv.org/abs/2501.04688)|null|
+|**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
+|**2025-01-08**|**Toward Sufficient Statistical Power in Algorithmic Bias Assessment: A Test for ABROCA**|Conrad Borchers et.al.|[2501.04683](http://arxiv.org/abs/2501.04683)|null|
+|**2025-01-08**|**Extracting the spin excitation spectrum of a fermionic system using a quantum processor**|Lucia Vilchez-Estevez et.al.|[2501.04649](http://arxiv.org/abs/2501.04649)|null|
+|**2025-01-08**|**Doubly Robust and Efficient Calibration of Prediction Sets for Censored Time-to-Event Outcomes**|Rebecca Farina et.al.|[2501.04615](http://arxiv.org/abs/2501.04615)|null|
+|**2025-01-08**|**Identity-Preserving Video Dubbing Using Motion Warping**|Runzhen Liu et.al.|[2501.04586](http://arxiv.org/abs/2501.04586)|null|
+|**2025-01-08**|**Learnable Scaled Gradient Descent for Guaranteed Robust Tensor PCA**|Lanlan Feng et.al.|[2501.04565](http://arxiv.org/abs/2501.04565)|null|
+|**2025-01-08**|**Bayesian buckling load optimisation for structures with geometric uncertainties**|Tianyi Liu et.al.|[2501.04553](http://arxiv.org/abs/2501.04553)|null|
+|**2025-01-08**|**Protecting the Connectivity of a Graph Under Non-Uniform Edge Failures**|Felix Hommelsheim et.al.|[2501.04540](http://arxiv.org/abs/2501.04540)|null|
+|**2025-01-08**|**Towards Fair Class-wise Robustness: Class Optimal Distribution Adversarial Training**|Hongxin Zhi et.al.|[2501.04527](http://arxiv.org/abs/2501.04527)|null|
 |**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
 |**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
 |**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991](http://arxiv.org/abs/2501.03991)|null|
@@ -4515,6 +4526,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.|[2501.04665](http://arxiv.org/abs/2501.04665)|null|
+|**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643](http://arxiv.org/abs/2501.04643)|null|
+|**2025-01-08**|**Fast physics-based launcher optimization for electron cyclotron current drive**|N A Lopez et.al.|[2501.04619](http://arxiv.org/abs/2501.04619)|null|
+|**2025-01-08**|**Doubly Robust and Efficient Calibration of Prediction Sets for Censored Time-to-Event Outcomes**|Rebecca Farina et.al.|[2501.04615](http://arxiv.org/abs/2501.04615)|null|
+|**2025-01-08**|**A Direct-adjoint Approach for Material Point Model Calibration with Application to Plasticity**|Ryan Yan et.al.|[2501.04584](http://arxiv.org/abs/2501.04584)|null|
+|**2025-01-08**|**Integrating remote sensing data assimilation, deep learning and large language model for interactive wheat breeding yield prediction**|Guofeng Yang et.al.|[2501.04487](http://arxiv.org/abs/2501.04487)|null|
+|**2025-01-08**|**RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark**|Xin Zhang et.al.|[2501.04440](http://arxiv.org/abs/2501.04440)|**[link](https://github.com/zhasion/rsar)**|
+|**2025-01-08**|**A Digital Shadow for Modeling, Studying and Preventing Urban Crime**|Juan Palma-Borda et.al.|[2501.04435](http://arxiv.org/abs/2501.04435)|null|
+|**2025-01-08**|**Extending the time-over-threshold calibration of Timepix3 for spatial-resolved ion spectroscopy**|Radu-Emanuel Mihai et.al.|[2501.04419](http://arxiv.org/abs/2501.04419)|null|
+|**2025-01-08**|**Evidence-based multimodal fusion on structured EHRs and free-text notes for ICU outcome prediction**|Yucheng Ruan et.al.|[2501.04389](http://arxiv.org/abs/2501.04389)|null|
 |**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991](http://arxiv.org/abs/2501.03991)|null|
 |**2025-01-07**|**Scalable calibration for partially observed individual-based epidemic models through categorical approximations**|Lorenzo Rimella et.al.|[2501.03950](http://arxiv.org/abs/2501.03950)|null|
 |**2025-01-07**|**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**|Shaolei Zhang et.al.|[2501.03895](http://arxiv.org/abs/2501.03895)|**[link](https://github.com/ictnlp/llava-mini)**|
