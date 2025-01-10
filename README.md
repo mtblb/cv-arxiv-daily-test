@@ -24,9 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**|Wen Tianci et.al.|[2501.05242](http://arxiv.org/abs/2501.05242)|null|
 |**2025-01-07**|**SLAM: Towards Efficient Multilingual Reasoning via Selective Language Alignment**|Yuchun Fan et.al.|[2501.03681](http://arxiv.org/abs/2501.03681)|null|
 |**2025-01-06**|**HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos**|Jinglei Zhang et.al.|[2501.02973](http://arxiv.org/abs/2501.02973)|null|
-|**2025-01-05**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580](http://arxiv.org/abs/2501.02580)|null|
+|**2025-01-09**|**LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments**|Haosong Yue et.al.|[2501.02580](http://arxiv.org/abs/2501.02580)|null|
 |**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166](http://arxiv.org/abs/2501.02166)|**[link](https://github.com/sdwyc/rolo)**|
 |**2024-12-31**|**PanoSLAM: Panoptic 3D Scene Reconstruction via Gaussian SLAM**|Runnan Chen et.al.|[2501.00352](http://arxiv.org/abs/2501.00352)|null|
 |**2024-12-30**|**Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields**|Evgenii Kruzhkov et.al.|[2412.20976](http://arxiv.org/abs/2412.20976)|null|
@@ -791,6 +792,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Existence of dynamical fluctuation in AMPT generated data for Au+Au collisions at 10 AGeV**|Somen Gope et.al.|[2501.05175](http://arxiv.org/abs/2501.05175)|null|
 |**2025-01-06**|**Targetless Intrinsics and Extrinsic Calibration of Multiple LiDARs and Cameras with IMU using Continuous-Time Estimation**|Yuezhang Lv et.al.|[2501.02821](http://arxiv.org/abs/2501.02821)|null|
 |**2025-01-02**|**On Unifying Video Generation and Camera Pose Estimation**|Chun-Hao Paul Huang et.al.|[2501.01409](http://arxiv.org/abs/2501.01409)|null|
 |**2025-01-02**|**EasySplat: View-Adaptive Learning makes 3D Gaussian Splatting Easy**|Ao Gao et.al.|[2501.01003](http://arxiv.org/abs/2501.01003)|null|
@@ -2687,6 +2689,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
 |**2025-01-07**|**DehazeGS: Seeing Through Fog with 3D Gaussian Splatting**|Jinze Yu et.al.|[2501.03659](http://arxiv.org/abs/2501.03659)|null|
@@ -4126,6 +4129,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439](http://arxiv.org/abs/2501.05439)|null|
+|**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|null|
+|**2025-01-09**|**Innovative Designs and Insights into Quantum Thermal Machines**|Aline D. Lucio et.al.|[2501.05406](http://arxiv.org/abs/2501.05406)|null|
+|**2025-01-09**|**BRATI: Bidirectional Recurrent Attention for Time-Series Imputation**|Armando Collado-Villaverde et.al.|[2501.05401](http://arxiv.org/abs/2501.05401)|null|
+|**2025-01-09**|**A fast approximate scenario addition method for two-stage robust mixed-integer programs**|Marc Goerigk et.al.|[2501.05388](http://arxiv.org/abs/2501.05388)|null|
+|**2025-01-09**|**Integrating Explainable AI for Effective Malware Detection in Encrypted Network Traffic**|Sileshi Nibret Zeleke et.al.|[2501.05387](http://arxiv.org/abs/2501.05387)|null|
+|**2025-01-09**|**No-Regret Linear Bandits under Gap-Adjusted Misspecification**|Chong Liu et.al.|[2501.05361](http://arxiv.org/abs/2501.05361)|null|
+|**2025-01-09**|**CROPS: Model-Agnostic Training-Free Framework for Safe Image Synthesis with Latent Diffusion Models**|Junha Park et.al.|[2501.05359](http://arxiv.org/abs/2501.05359)|null|
+|**2025-01-09**|**A learning agent-based approach to the characterization of open quantum systems**|Lorenzo Fioroni et.al.|[2501.05350](http://arxiv.org/abs/2501.05350)|null|
+|**2025-01-09**|**Double Majorana Vortex Flat Bands in the Topological Dirac Superconductor**|Zhongyi Zhang et.al.|[2501.05317](http://arxiv.org/abs/2501.05317)|null|
 |**2025-01-08**|**Observation of topological prethermal strong zero modes**|Feitong Jin et.al.|[2501.04688](http://arxiv.org/abs/2501.04688)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
 |**2025-01-08**|**Toward Sufficient Statistical Power in Algorithmic Bias Assessment: A Test for ABROCA**|Conrad Borchers et.al.|[2501.04683](http://arxiv.org/abs/2501.04683)|null|
@@ -4526,6 +4539,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|null|
+|**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
+|**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
+|**2025-01-09**|**Efficient Qubit Calibration by Binary-Search Hamiltonian Tracking**|Fabrizio Berritta et.al.|[2501.05386](http://arxiv.org/abs/2501.05386)|null|
+|**2025-01-09**|**1-2-1: Renaissance of Single-Network Paradigm for Virtual Try-On**|Shuliang Ning et.al.|[2501.05369](http://arxiv.org/abs/2501.05369)|null|
+|**2025-01-09**|**Blind calibration of a quantum computer**|Liam M. Jeanette et.al.|[2501.05355](http://arxiv.org/abs/2501.05355)|null|
+|**2025-01-09**|**Deriving Coding-Specific Sub-Models from LLMs using Resource-Efficient Pruning**|Laura Puccioni et.al.|[2501.05248](http://arxiv.org/abs/2501.05248)|null|
+|**2025-01-09**|**Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion**|Guang Yang et.al.|[2501.05241](http://arxiv.org/abs/2501.05241)|null|
+|**2025-01-09**|**MHAFF: Multi-Head Attention Feature Fusion of CNN and Transformer for Cattle Identification**|Rabin Dulal et.al.|[2501.05209](http://arxiv.org/abs/2501.05209)|null|
+|**2025-01-09**|**CoDe: Communication Delay-Tolerant Multi-Agent Collaboration via Dual Alignment of Intent and Timeliness**|Shoucheng Song et.al.|[2501.05207](http://arxiv.org/abs/2501.05207)|null|
 |**2025-01-08**|**HyFusion: Enhanced Reception Field Transformer for Hyperspectral Image Fusion**|Chia-Ming Lee et.al.|[2501.04665](http://arxiv.org/abs/2501.04665)|null|
 |**2025-01-08**|**Discrete Wavelet Transform-Based Capsule Network for Hyperspectral Image Classification**|Zhiqiang Gao et.al.|[2501.04643](http://arxiv.org/abs/2501.04643)|null|
 |**2025-01-08**|**Fast physics-based launcher optimization for electron cyclotron current drive**|N A Lopez et.al.|[2501.04619](http://arxiv.org/abs/2501.04619)|null|
