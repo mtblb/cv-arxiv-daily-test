@@ -2669,6 +2669,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**UV-Attack: Physical-World Adversarial Attacks for Person Detection via Dynamic-NeRF-based UV Mapping**|Yanjie Li et.al.|[2501.05783](http://arxiv.org/abs/2501.05783)|null|
 |**2025-01-09**|**Light Transport-aware Diffusion Posterior Sampling for Single-View Reconstruction of 3D Volumes**|Ludwic Leonard et.al.|[2501.05226](http://arxiv.org/abs/2501.05226)|null|
 |**2025-01-07**|**NeRFs are Mirror Detectors: Using Structural Similarity for Multi-View Mirror Scene Reconstruction with 3D Surface Primitives**|Leif Van Holland et.al.|[2501.04074](http://arxiv.org/abs/2501.04074)|null|
 |**2025-01-07**|**NeuralSVG: An Implicit Representation for Text-to-Vector Generation**|Sagi Polaczek et.al.|[2501.03992](http://arxiv.org/abs/2501.03992)|null|
@@ -4107,6 +4108,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**|Omkar Thawakar et.al.|[2501.06186](http://arxiv.org/abs/2501.06186)|**[link](https://github.com/mbzuai-oryx/llamav-o1)**|
+|**2025-01-10**|**Using a minimally parametrised SHAM to constrain the link between dark matter and galaxies**|F. L. Davidson et.al.|[2501.06169](http://arxiv.org/abs/2501.06169)|null|
+|**2025-01-10**|**A second-order dynamical low-rank mass-lumped finite element method for the Allen-Cahn equation**|Jun Yang et.al.|[2501.06145](http://arxiv.org/abs/2501.06145)|null|
+|**2025-01-10**|**CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems**|Haichao Liu et.al.|[2501.06132](http://arxiv.org/abs/2501.06132)|null|
+|**2025-01-10**|**Low-rank variance reduction for uncertain radiative transfer with control variates**|Chinmay Patwardhan et.al.|[2501.06125](http://arxiv.org/abs/2501.06125)|null|
+|**2025-01-10**|**NDOB-Based Control of a UAV with Delta-Arm Considering Manipulator Dynamics**|Hongming Chen et.al.|[2501.06122](http://arxiv.org/abs/2501.06122)|null|
+|**2025-01-10**|**Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding**|Fabian David Schmidt et.al.|[2501.06117](http://arxiv.org/abs/2501.06117)|null|
+|**2025-01-10**|**Inferring High-Order Couplings with Neural Networks**|Aurélien Decelle et.al.|[2501.06108](http://arxiv.org/abs/2501.06108)|null|
+|**2025-01-10**|**Finite-Horizon Single-Pull Restless Bandits: An Efficient Index Policy For Scarce Resource Allocation**|Guojun Xiong et.al.|[2501.06103](http://arxiv.org/abs/2501.06103)|null|
+|**2025-01-10**|**Explaining Deep Learning-based Anomaly Detection in Energy Consumption Data by Focusing on Contextually Relevant Data**|Mohammad Noorchenarboo et.al.|[2501.06099](http://arxiv.org/abs/2501.06099)|null|
 |**2025-01-09**|**From Simple to Complex Skills: The Case of In-Hand Object Reorientation**|Haozhi Qi et.al.|[2501.05439](http://arxiv.org/abs/2501.05439)|null|
 |**2025-01-09**|**Uncertainty-aware Knowledge Tracing**|Weihua Cheng et.al.|[2501.05415](http://arxiv.org/abs/2501.05415)|**[link](https://github.com/uncertaintyforknowledgetracing/ukt)**|
 |**2025-01-09**|**Innovative Designs and Insights into Quantum Thermal Machines**|Aline D. Lucio et.al.|[2501.05406](http://arxiv.org/abs/2501.05406)|null|
@@ -4515,6 +4526,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura et.al.|[2501.06165](http://arxiv.org/abs/2501.06165)|null|
+|**2025-01-10**|**Distilling Calibration via Conformalized Credal Inference**|Jiayi Huang et.al.|[2501.06066](http://arxiv.org/abs/2501.06066)|null|
+|**2025-01-10**|**Enhancing, Refining, and Fusing: Towards Robust Multi-Scale and Dense Ship Detection**|Congxia Zhao et.al.|[2501.06053](http://arxiv.org/abs/2501.06053)|null|
+|**2025-01-10**|**BRIGHT: A globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response**|Hongruixuan Chen et.al.|[2501.06019](http://arxiv.org/abs/2501.06019)|**[link](https://github.com/chenhongruixuan/bright)**|
+|**2025-01-10**|**CamCtrl3D: Single-Image Scene Exploration with Precise 3D Camera Control**|Stefan Popov et.al.|[2501.06006](http://arxiv.org/abs/2501.06006)|null|
+|**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997](http://arxiv.org/abs/2501.05997)|null|
+|**2025-01-10**|**Fast Multi-tone Phase Calibration Signal Extraction**|Jan Wagner et.al.|[2501.05993](http://arxiv.org/abs/2501.05993)|null|
+|**2025-01-10**|**Heath-Jarrow-Morton meet lifted Heston in energy markets for joint historical and implied calibration**|Eduardo Abi Jaber et.al.|[2501.05975](http://arxiv.org/abs/2501.05975)|null|
+|**2025-01-10**|**Self-consistent full MHD coupling of JOREK and STARWALL for advanced plasma free boundary simulation**|Raffaele Sparago et.al.|[2501.05956](http://arxiv.org/abs/2501.05956)|null|
+|**2025-01-10**|**Simultaneous Angle-of-Arrival Sensing and Anomalous Deflection with Aperiodically Loaded Patch Arrays**|Mostafa Movahediqomi et.al.|[2501.05951](http://arxiv.org/abs/2501.05951)|null|
 |**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|**[link](https://github.com/markyu98/madpose)**|
 |**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
 |**2025-01-09**|**TimeRL: Efficient Deep Reinforcement Learning with Polyhedral Dependence Graphs**|Pedro F. Silvestre et.al.|[2501.05408](http://arxiv.org/abs/2501.05408)|null|
