@@ -7,15 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
+|**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-11**|**SP-SLAM: Neural Real-Time Dense SLAM With Scene Priors**|Zhen Hong et.al.|[2501.06469](http://arxiv.org/abs/2501.06469)|null|
 |**2025-01-09**|**Scaffold-SLAM: Structured 3D Gaussians for Simultaneous Localization and Photorealistic Mapping**|Wen Tianci et.al.|[2501.05242](http://arxiv.org/abs/2501.05242)|null|
@@ -784,7 +785,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
+|**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-11**|**Aug3D: Augmenting large scale outdoor datasets for Generalizable Novel View Synthesis**|Aditya Rauniyar et.al.|[2501.06431](http://arxiv.org/abs/2501.06431)|null|
 |**2025-01-09**|**Existence of dynamical fluctuation in AMPT generated data for Au+Au collisions at 10 AGeV**|Somen Gope et.al.|[2501.05175](http://arxiv.org/abs/2501.05175)|null|
@@ -1107,6 +1108,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
 |**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
@@ -2682,7 +2684,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-01-13**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
+|**2025-01-14**|**VINGS-Mono: Visual-Inertial Gaussian Splatting Monocular SLAM in Large Scenes**|Ke Wu et.al.|[2501.08286](http://arxiv.org/abs/2501.08286)|null|
+|**2025-01-13**|**Evaluating Human Perception of Novel View Synthesis: Subjective Quality Assessment of Gaussian Splatting and NeRF in Dynamic Scenes**|Yuhang Zhang et.al.|[2501.08072](http://arxiv.org/abs/2501.08072)|null|
+|**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
 |**2025-01-12**|**ActiveGAMER: Active GAussian Mapping through Efficient Rendering**|Liyan Chen et.al.|[2501.06897](http://arxiv.org/abs/2501.06897)|null|
 |**2025-01-12**|**SuperNeRF-GAN: A Universal 3D-Consistent Super-Resolution Framework for Efficient and Enhanced 3D-Aware Image Synthesis**|Peng Zheng et.al.|[2501.06770](http://arxiv.org/abs/2501.06770)|null|
@@ -4126,6 +4130,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise**|Ryan Burgert et.al.|[2501.08331](http://arxiv.org/abs/2501.08331)|**[link](https://github.com/vgenai-netflix-eyeline-research/go-with-the-flow)**|
+|**2025-01-14**|**Omni-RGPT: Unifying Image and Video Region-level Understanding via Token Marks**|Miran Heo et.al.|[2501.08326](http://arxiv.org/abs/2501.08326)|null|
+|**2025-01-14**|**ADAM-1: AI and Bioinformatics for Alzheimer's Detection and Microbiome-Clinical Data Integrations**|Ziyuan Huang et.al.|[2501.08324](http://arxiv.org/abs/2501.08324)|null|
+|**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
+|**2025-01-14**|**Advancing Semantic Future Prediction through Multimodal Visual Sequence Transformers**|Efstathios Karypidis et.al.|[2501.08303](http://arxiv.org/abs/2501.08303)|null|
+|**2025-01-14**|**Revisiting the shadow of Johannsen-Psaltis black holes**|Xinyu Wang et.al.|[2501.08287](http://arxiv.org/abs/2501.08287)|null|
+|**2025-01-14**|**Exploring Robustness of LLMs to Sociodemographically-Conditioned Paraphrasing**|Pulkit Arora et.al.|[2501.08276](http://arxiv.org/abs/2501.08276)|null|
+|**2025-01-14**|**Constructing optimal dynamic monitoring and treatment regimes: An application to hypertension care**|Janie Coulombe et.al.|[2501.08274](http://arxiv.org/abs/2501.08274)|null|
+|**2025-01-14**|**AI Driven Water Segmentation with deep learning models for Enhanced Flood Monitoring**|Sanjida Afrin Mou et.al.|[2501.08266](http://arxiv.org/abs/2501.08266)|**[link](https://github.com/SanjidaAfrin25/flood-detection-using-deepLab-unet-resnet)**|
+|**2025-01-14**|**Continual Deep Active Learning for Medical Imaging: Replay-Base Architecture for Context Adaptation**|Rui Daniel et.al.|[2501.08245](http://arxiv.org/abs/2501.08245)|**[link](https://github.com/ruidaniel/rbaca)**|
 |**2025-01-13**|**Dataset Distillation via Committee Voting**|Jiacheng Cui et.al.|[2501.07575](http://arxiv.org/abs/2501.07575)|**[link](https://github.com/jiacheng8/cv-dd)**|
 |**2025-01-13**|**SafeSwarm: Decentralized Safe RL for the Swarm of Drones Landing in Dense Crowds**|Grik Tadevosyan et.al.|[2501.07566](http://arxiv.org/abs/2501.07566)|null|
 |**2025-01-13**|**Imagine while Reasoning in Space: Multimodal Visualization-of-Thought**|Chengzu Li et.al.|[2501.07542](http://arxiv.org/abs/2501.07542)|null|
@@ -4554,6 +4568,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Gradient Equilibrium in Online Learning: Theory and Applications**|Anastasios N. Angelopoulos et.al.|[2501.08330](http://arxiv.org/abs/2501.08330)|**[link](https://github.com/aangelopoulos/gradient-equilibrium)**|
+|**2025-01-14**|**Mechanics Informatics: A paradigm for efficiently learning constitutive models**|Royal C. Ihuaenyi et.al.|[2501.08314](http://arxiv.org/abs/2501.08314)|null|
+|**2025-01-14**|**TriMod Fusion for Multimodal Named Entity Recognition in Social Media**|Mosab Alfaqeeh et.al.|[2501.08267](http://arxiv.org/abs/2501.08267)|null|
+|**2025-01-14**|**Efficient Deep Learning-based Forward Solvers for Brain Tumor Growth Models**|Zeineb Haouari et.al.|[2501.08226](http://arxiv.org/abs/2501.08226)|null|
+|**2025-01-14**|**Executable Multi-Layered Software**|Lukas Radosky et.al.|[2501.08186](http://arxiv.org/abs/2501.08186)|null|
+|**2025-01-14**|**An Empirical Wall-Pressure Spectrum Model for Aeroacoustic Predictions Based on Symbolic Regression**|Laura Botero Bolívar et.al.|[2501.08134](http://arxiv.org/abs/2501.08134)|null|
+|**2025-01-14**|**SAR Strikes Back: A New Hope for RSVQA**|Lucrezia Tosato et.al.|[2501.08131](http://arxiv.org/abs/2501.08131)|null|
+|**2025-01-14**|**Change Captioning in Remote Sensing: Evolution to SAT-Cap -- A Single-Stage Transformer Approach**|Yuduo Wang et.al.|[2501.08114](http://arxiv.org/abs/2501.08114)|null|
+|**2025-01-14**|**Dynamic Multimodal Sentiment Analysis: Leveraging Cross-Modal Attention for Enabled Classification**|Hui Lee et.al.|[2501.08085](http://arxiv.org/abs/2501.08085)|null|
+|**2025-01-14**|**Optimizing Speech Multi-View Feature Fusion through Conditional Computation**|Weiqiao Shan et.al.|[2501.08057](http://arxiv.org/abs/2501.08057)|null|
 |**2025-01-13**|**A reference framework for extremely metal-poor OB star studies: calibrations for stellar parameters and intrinsic colours**|Marta Lorenzo et.al.|[2501.07569](http://arxiv.org/abs/2501.07569)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Completing Sets of Prototype Transfer Functions for Subspace-based Direction of Arrival Estimation of Multiple Speakers**|Daniel Fejgin et.al.|[2501.07524](http://arxiv.org/abs/2501.07524)|null|
