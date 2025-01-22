@@ -24,7 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-17**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600](http://arxiv.org/abs/2501.09600)|null|
+|**2025-01-21**|**DynoSAM: Open-Source Smoothing and Mapping Framework for Dynamic SLAM**|Jesse Morris et.al.|[2501.11893](http://arxiv.org/abs/2501.11893)|null|
+|**2025-01-21**|**Survey on Monocular Metric Depth Estimation**|Jiuling Zhang et.al.|[2501.11841](http://arxiv.org/abs/2501.11841)|null|
+|**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
+|**2025-01-19**|**Factor Graph-Based Active SLAM for Spacecraft Proximity Operations**|Lorenzo Ticozzi et.al.|[2501.10950](http://arxiv.org/abs/2501.10950)|null|
+|**2025-01-20**|**Mesh2SLAM in VR: A Fast Geometry-Based SLAM Framework for Rapid Prototyping in Virtual Reality Applications**|Carlos Augusto Pinheiro de Sousa et.al.|[2501.09600](http://arxiv.org/abs/2501.09600)|null|
 |**2025-01-16**|**Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment**|Maksim Filipenko et.al.|[2501.09490](http://arxiv.org/abs/2501.09490)|null|
 |**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203](http://arxiv.org/abs/2501.09203)|null|
 |**2025-01-15**|**AutoLoop: Fast Visual SLAM Fine-tuning through Agentic Curriculum Learning**|Assaf Lahiany et.al.|[2501.09160](http://arxiv.org/abs/2501.09160)|null|
@@ -805,6 +809,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Theory of quantum-geometric charge and spin Josephson diode effects in strongly spin-polarized hybrid structures with noncoplanar spin textures**|Niklas L. Schulz et.al.|[2501.12232](http://arxiv.org/abs/2501.12232)|null|
 |**2025-01-14**|**Selective Attention Merging for low resource tasks: A case study of Child ASR**|Natarajan Balaji Shankar et.al.|[2501.08468](http://arxiv.org/abs/2501.08468)|**[link](https://github.com/balaji1312/sa_merging)**|
 |**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
 |**2025-01-12**|**CULTURE3D: Cultural Landmarks and Terrain Dataset for 3D Applications**|Xinyi Zheng et.al.|[2501.06927](http://arxiv.org/abs/2501.06927)|null|
@@ -1131,6 +1136,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
+|**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
 |**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
 |**2025-01-12**|**SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**|Bhavin Jawade et.al.|[2501.08347](http://arxiv.org/abs/2501.08347)|null|
@@ -2153,6 +2160,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Keypoint Detection Empowered Near-Field User Localization and Channel Reconstruction**|Mengyuan Li et.al.|[2501.11844](http://arxiv.org/abs/2501.11844)|null|
+|**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
+|**2025-01-19**|**Refinement Module based on Parse Graph of Feature Map for Human Pose Estimation**|Shibang Liu et.al.|[2501.11069](http://arxiv.org/abs/2501.11069)|null|
 |**2025-01-13**|**Empirical Comparison of Four Stereoscopic Depth Sensing Cameras for Robotics Applications**|Lukas Rustler et.al.|[2501.07421](http://arxiv.org/abs/2501.07421)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
@@ -2427,6 +2437,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
 |**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|null|
@@ -2716,6 +2727,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**DNRSelect: Active Best View Selection for Deferred Neural Rendering**|Dongli Wu et.al.|[2501.12150](http://arxiv.org/abs/2501.12150)|null|
+|**2025-01-21**|**Fast Underwater Scene Reconstruction using Multi-View Stereo and Physical Imaging**|Shuyi Hu et.al.|[2501.11884](http://arxiv.org/abs/2501.11884)|null|
+|**2025-01-16**|**Poxel: Voxel Reconstruction for 3D Printing**|Ruixiang Cao et.al.|[2501.10474](http://arxiv.org/abs/2501.10474)|null|
 |**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947](http://arxiv.org/abs/2501.09947)|**[link](https://github.com/zhengxyun/surface-sos)**|
 |**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460](http://arxiv.org/abs/2501.09460)|**[link](https://github.com/sjj118/normal-nerf)**|
 |**2025-01-15**|**SLC $^2$ -SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880](http://arxiv.org/abs/2501.08880)|null|
@@ -4167,6 +4181,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**DiffDoctor: Diagnosing Image Diffusion Models Before Treating**|Yiyang Wang et.al.|[2501.12382](http://arxiv.org/abs/2501.12382)|null|
+|**2025-01-21**|**Is Long Context All You Need? Leveraging LLM's Extended Context for NL2SQL**|Yeounoh Chung et.al.|[2501.12372](http://arxiv.org/abs/2501.12372)|null|
+|**2025-01-21**|**InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model**|Yuhang Zang et.al.|[2501.12368](http://arxiv.org/abs/2501.12368)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2025-01-21**|**Efficient Algorithm for Sparse Fourier Transform of Generalized q-ary Functions**|Darin Tsui et.al.|[2501.12365](http://arxiv.org/abs/2501.12365)|null|
+|**2025-01-21**|**General Field Evaluation in High-Order Meshes on GPUs**|Ketan Mittal et.al.|[2501.12349](http://arxiv.org/abs/2501.12349)|null|
+|**2025-01-21**|**FuocChuVIP123 at CoMeDi Shared Task: Disagreement Ranking with XLM-Roberta Sentence Embeddings and Deep Neural Regression**|Phuoc Duong Huy Chu et.al.|[2501.12336](http://arxiv.org/abs/2501.12336)|null|
+|**2025-01-21**|**Cinepro: Robust Training of Foundation Models for Cancer Detection in Prostate Ultrasound Cineloops**|Mohamed Harmanani et.al.|[2501.12331](http://arxiv.org/abs/2501.12331)|**[link](https://github.com/mharmanani/cinepro)**|
+|**2025-01-21**|**Uncertainty Quantification With Noise Injection in Neural Networks: A Bayesian Perspective**|Xueqiong Yuan et.al.|[2501.12314](http://arxiv.org/abs/2501.12314)|null|
+|**2025-01-21**|**RALAD: Bridging the Real-to-Sim Domain Gap in Autonomous Driving with Retrieval-Augmented Learning**|Jiacheng Zuo et.al.|[2501.12296](http://arxiv.org/abs/2501.12296)|**[link](https://github.com/jiachengzuo/ralad)**|
+|**2025-01-21**|**Reply to comment on "Controlled bond expansion for Density Matrix Renormalization Group ground state search at single-site costs"**|Andreas Gleis et.al.|[2501.12291](http://arxiv.org/abs/2501.12291)|null|
 |**2025-01-17**|**Credit Risk Identification in Supply Chains Using Generative Adversarial Networks**|Zizhou Zhang et.al.|[2501.10348](http://arxiv.org/abs/2501.10348)|null|
 |**2025-01-17**|**Uncertainty-Aware Digital Twins: Robust Model Predictive Control using Time-Series Deep Quantile Learning**|Yi-Ping Chen et.al.|[2501.10337](http://arxiv.org/abs/2501.10337)|null|
 |**2025-01-17**|**Hierarchical Autoregressive Transformers: Combining Byte-~and Word-Level Processing for Robust, Adaptable Language Models**|Pit Neitemeier et.al.|[2501.10322](http://arxiv.org/abs/2501.10322)|null|
@@ -4637,6 +4661,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**Lattice defect networks in 2d Yang-Mills**|Luca Griguolo et.al.|[2501.12351](http://arxiv.org/abs/2501.12351)|null|
+|**2025-01-21**|**Asymptotic scaling laws for the stagnation conditions of Z-pinch implosions**|D. E. Ruiz et.al.|[2501.12284](http://arxiv.org/abs/2501.12284)|null|
+|**2025-01-21**|**A neural network approach for line detection in complex atomic emission spectra measured by high-resolution Fourier transform spectroscopy**|M. Ding et.al.|[2501.12276](http://arxiv.org/abs/2501.12276)|null|
+|**2025-01-21**|**mmCooper: A Multi-agent Multi-stage Communication-efficient and Collaboration-robust Cooperative Perception Framework**|Bingyi Liu et.al.|[2501.12263](http://arxiv.org/abs/2501.12263)|null|
+|**2025-01-21**|**DLEN: Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains**|Junyu Xia et.al.|[2501.12235](http://arxiv.org/abs/2501.12235)|null|
+|**2025-01-21**|**DECH: Software Package for Astronomical Spectral Data Processing and Analysis**|G. A. Galazutdinov et.al.|[2501.12207](http://arxiv.org/abs/2501.12207)|null|
+|**2025-01-21**|**Teacher Encoder-Student Decoder Denoising Guided Segmentation Network for Anomaly Detection**|ShiXuan Song et.al.|[2501.12104](http://arxiv.org/abs/2501.12104)|null|
+|**2025-01-21**|**Numerical Modeling of Oxygen Diffusion in Tissue Spheroids Undergoing Fusion Using Functional Representation and Finite Volumes**|Katherine Vilinski-Mazur et.al.|[2501.12095](http://arxiv.org/abs/2501.12095)|null|
+|**2025-01-21**|**Speech Enhancement with Overlapped-Frame Information Fusion and Causal Self-Attention**|Yuewei Zhang et.al.|[2501.12004](http://arxiv.org/abs/2501.12004)|null|
+|**2025-01-21**|**Modeling finite viscoelasticity based on the Green-Naghdi kinematic assumption and generalized strains**|Ju Liu et.al.|[2501.11947](http://arxiv.org/abs/2501.11947)|null|
 |**2025-01-17**|**Resolving discrepancies in bang-time predictions for ICF experiments on the NIF: Insights from the Build-A-Hohlraum Campaign**|G. F. Swadling et.al.|[2501.10350](http://arxiv.org/abs/2501.10350)|null|
 |**2025-01-17**|**Calibration of the Polarimetric GNSS-R Sensor in the Rongowai Mission**|Dinan Bai et.al.|[2501.10334](http://arxiv.org/abs/2501.10334)|null|
 |**2025-01-17**|**Soft gluon resummation for gluon fusion $ZH$ production**|Goutam Das et.al.|[2501.10330](http://arxiv.org/abs/2501.10330)|null|
