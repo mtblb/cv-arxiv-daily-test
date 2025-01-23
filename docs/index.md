@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.22
+## Updated on 2025.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4643,7 +4643,7 @@ layout: default
 |**2025-01-21**|**mmCooper: A Multi-agent Multi-stage Communication-efficient and Collaboration-robust Cooperative Perception Framework**|Bingyi Liu et.al.|[2501.12263](http://arxiv.org/abs/2501.12263)|null|
 |**2025-01-21**|**DLEN: Dual Branch of Transformer for Low-Light Image Enhancement in Dual Domains**|Junyu Xia et.al.|[2501.12235](http://arxiv.org/abs/2501.12235)|null|
 |**2025-01-21**|**DECH: Software Package for Astronomical Spectral Data Processing and Analysis**|G. A. Galazutdinov et.al.|[2501.12207](http://arxiv.org/abs/2501.12207)|null|
-|**2025-01-21**|**Teacher Encoder-Student Decoder Denoising Guided Segmentation Network for Anomaly Detection**|ShiXuan Song et.al.|[2501.12104](http://arxiv.org/abs/2501.12104)|null|
+|**2025-01-22**|**Teacher Encoder-Student Decoder Denoising Guided Segmentation Network for Anomaly Detection**|Shixuan Song et.al.|[2501.12104](http://arxiv.org/abs/2501.12104)|null|
 |**2025-01-21**|**Numerical Modeling of Oxygen Diffusion in Tissue Spheroids Undergoing Fusion Using Functional Representation and Finite Volumes**|Katherine Vilinski-Mazur et.al.|[2501.12095](http://arxiv.org/abs/2501.12095)|null|
 |**2025-01-21**|**Speech Enhancement with Overlapped-Frame Information Fusion and Causal Self-Attention**|Yuewei Zhang et.al.|[2501.12004](http://arxiv.org/abs/2501.12004)|null|
 |**2025-01-21**|**Modeling finite viscoelasticity based on the Green-Naghdi kinematic assumption and generalized strains**|Ju Liu et.al.|[2501.11947](http://arxiv.org/abs/2501.11947)|null|
