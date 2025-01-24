@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.23
+## Updated on 2025.01.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4167,7 +4167,7 @@ layout: default
 |**2025-01-22**|**Refining Input Guardrails: Enhancing LLM-as-a-Judge Efficiency Through Chain-of-Thought Fine-Tuning and Alignment**|Melissa Kazemi Rad et.al.|[2501.13080](http://arxiv.org/abs/2501.13080)|null|
 |**2025-01-22**|**Evolution and The Knightian Blindspot of Machine Learning**|Joel Lehman et.al.|[2501.13075](http://arxiv.org/abs/2501.13075)|null|
 |**2025-01-22**|**CHaRNet: Conditioned Heatmap Regression for Robust Dental Landmark Localization**|José Rodríguez-Ortega et.al.|[2501.13073](http://arxiv.org/abs/2501.13073)|null|
-|**2025-01-22**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[2501.13072](http://arxiv.org/abs/2501.13072)|null|
+|**2025-01-23**|**AdaWM: Adaptive World Model based Planning for Autonomous Driving**|Hang Wang et.al.|[2501.13072](http://arxiv.org/abs/2501.13072)|null|
 |**2025-01-22**|**Robust Body Composition Analysis by Generating 3D CT Volumes from Limited 2D Slices**|Lianrui Zuo et.al.|[2501.13071](http://arxiv.org/abs/2501.13071)|null|
 |**2025-01-22**|**Multi-Objective Hyperparameter Selection via Hypothesis Testing on Reliability Graphs**|Amirmohammad Farzaneh et.al.|[2501.13018](http://arxiv.org/abs/2501.13018)|**[link](https://github.com/kclip/rg-pt)**|
 |**2025-01-22**|**An Offline Multi-Agent Reinforcement Learning Framework for Radio Resource Management**|Eslam Eldeeb et.al.|[2501.12991](http://arxiv.org/abs/2501.12991)|null|
