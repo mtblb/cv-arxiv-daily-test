@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Visual-Lidar Map Alignment for Infrastructure Inspections**|Jake McLaughlin et.al.|[2501.14486](http://arxiv.org/abs/2501.14486)|null|
+|**2025-01-24**|**Scalable Benchmarking and Robust Learning for Noise-Free Ego-Motion and 3D Reconstruction from Noisy Video**|Xiaohao Xu et.al.|[2501.14319](http://arxiv.org/abs/2501.14319)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2025-01-24**|**HAMMER: Heterogeneous, Multi-Robot Semantic Gaussian Splatting**|Javier Yu et.al.|[2501.14147](http://arxiv.org/abs/2501.14147)|null|
 |**2025-01-23**|**FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation**|Bingyang Zhou et.al.|[2501.13876](http://arxiv.org/abs/2501.13876)|null|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Grid-based Submap Joining: An Efficient Algorithm for Simultaneously Optimizing Global Occupancy Map and Local Submap Frames**|Yingyu Wang et.al.|[2501.12764](http://arxiv.org/abs/2501.12764)|null|
@@ -812,6 +815,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-21**|**Theory of quantum-geometric charge and spin Josephson diode effects in strongly spin-polarized hybrid structures with noncoplanar spin textures**|Niklas L. Schulz et.al.|[2501.12232](http://arxiv.org/abs/2501.12232)|null|
 |**2025-01-14**|**Selective Attention Merging for low resource tasks: A case study of Child ASR**|Natarajan Balaji Shankar et.al.|[2501.08468](http://arxiv.org/abs/2501.08468)|**[link](https://github.com/balaji1312/sa_merging)**|
 |**2025-01-14**|**SplatMAP: Online Dense Monocular SLAM with 3D Gaussian Splatting**|Yue Hu et.al.|[2501.07015](http://arxiv.org/abs/2501.07015)|null|
@@ -1139,6 +1143,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587](http://arxiv.org/abs/2501.14587)|null|
+|**2025-01-23**|**Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**|Jakob Krogh Petersen et.al.|[2501.14051](http://arxiv.org/abs/2501.14051)|**[link](https://github.com/jakekrogh/3d-clip-for-brain-mri)**|
+|**2025-01-22**|**Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**|Kenta Uesugi et.al.|[2501.13968](http://arxiv.org/abs/2501.13968)|null|
 |**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
 |**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
@@ -2440,6 +2447,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
@@ -2730,6 +2738,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
+|**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-22**|**Neural Radiance Fields for the Real World: A Survey**|Wenhui Xiao et.al.|[2501.13104](http://arxiv.org/abs/2501.13104)|null|
 |**2025-01-22**|**DWTNeRF: Boosting Few-shot Neural Radiance Fields via Discrete Wavelet Transform**|Hung Nguyen et.al.|[2501.12637](http://arxiv.org/abs/2501.12637)|null|
@@ -4187,6 +4197,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Mitigating GenAI-powered Evidence Pollution for Out-of-Context Multimodal Misinformation Detection**|Zehong Yan et.al.|[2501.14728](http://arxiv.org/abs/2501.14728)|null|
+|**2025-01-24**|**Equal order stabilized finite elements with Nitsche for stationary Navier-Stokes problem with slip boundary conditions : a priori and a posteriori error analysis**|Aparna Bansal et.al.|[2501.14715](http://arxiv.org/abs/2501.14715)|null|
+|**2025-01-24**|**Enhanced Confocal Laser Scanning Microscopy with Adaptive Physics Informed Deep Autoencoders**|Zaheer Ahmad et.al.|[2501.14709](http://arxiv.org/abs/2501.14709)|null|
+|**2025-01-24**|**Stroke classification using Virtual Hybrid Edge Detection from in silico electrical impedance tomography data**|Juan Pablo Agnelli et.al.|[2501.14704](http://arxiv.org/abs/2501.14704)|null|
+|**2025-01-24**|**An Attentive Graph Agent for Topology-Adaptive Cyber Defence**|Ilya Orson Sandoval et.al.|[2501.14700](http://arxiv.org/abs/2501.14700)|null|
+|**2025-01-24**|**How deep is the dip and how tall are the wiggles in inflationary power spectra?**|Vadim Briaud et.al.|[2501.14681](http://arxiv.org/abs/2501.14681)|null|
+|**2025-01-24**|**A Predictive Approach for Enhancing Accuracy in Remote Robotic Surgery Using Informer Model**|Muhammad Hanif Lashari et.al.|[2501.14678](http://arxiv.org/abs/2501.14678)|null|
+|**2025-01-24**|**MatAnyone: Stable Video Matting with Consistent Memory Propagation**|Peiqing Yang et.al.|[2501.14677](http://arxiv.org/abs/2501.14677)|null|
+|**2025-01-24**|**Gaussian-Process-based Adaptive Tracking Control with Dynamic Active Learning for Autonomous Ground Vehicles**|Kristóf Floch et.al.|[2501.14672](http://arxiv.org/abs/2501.14672)|null|
+|**2025-01-24**|**Landscape of Correlated Orders in Strained Bilayer Nickelate Thin Films**|Congcong Le et.al.|[2501.14665](http://arxiv.org/abs/2501.14665)|null|
 |**2025-01-23**|**Fast3R: Towards 3D Reconstruction of 1000+ Images in One Forward Pass**|Jianing Yang et.al.|[2501.13928](http://arxiv.org/abs/2501.13928)|null|
 |**2025-01-23**|**Towards Robust Multimodal Open-set Test-time Adaptation via Adaptive Entropy-aware Optimization**|Hao Dong et.al.|[2501.13924](http://arxiv.org/abs/2501.13924)|**[link](https://github.com/donghao51/aeo)**|
 |**2025-01-23**|**Pix2Cap-COCO: Advancing Visual Comprehension via Pixel-Level Captioning**|Zuyao You et.al.|[2501.13893](http://arxiv.org/abs/2501.13893)|**[link](https://github.com/geshang777/pix2cap)**|
@@ -4687,6 +4707,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Dualities between 2+1d fusion surface models from braided fusion categories**|Luisa Eck et.al.|[2501.14722](http://arxiv.org/abs/2501.14722)|null|
+|**2025-01-24**|**MatAnyone: Stable Video Matting with Consistent Memory Propagation**|Peiqing Yang et.al.|[2501.14677](http://arxiv.org/abs/2501.14677)|null|
+|**2025-01-24**|**Towards Unified Structured Light Optimization**|Tinglei Wan et.al.|[2501.14659](http://arxiv.org/abs/2501.14659)|null|
+|**2025-01-24**|**The Paradox of Intervention: Resilience in Adaptive Multi-Role Coordination Networks**|Casper van Elteren et.al.|[2501.14637](http://arxiv.org/abs/2501.14637)|null|
+|**2025-01-24**|**Dynamic Loop Fusion in High-Level Synthesis**|Robert Szafarczyk et.al.|[2501.14631](http://arxiv.org/abs/2501.14631)|null|
+|**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587](http://arxiv.org/abs/2501.14587)|null|
+|**2025-01-24**|**Calibrating Wireless AI via Meta-Learned Context-Dependent Conformal Prediction**|Seonghoon Yoo et.al.|[2501.14566](http://arxiv.org/abs/2501.14566)|null|
+|**2025-01-24**|**Measurement of Radon-222 concentration in N2 using an activated charcoal trap**|N. Fatemighomi et.al.|[2501.14559](http://arxiv.org/abs/2501.14559)|null|
+|**2025-01-24**|**Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding**|Zhongyi Shui et.al.|[2501.14548](http://arxiv.org/abs/2501.14548)|**[link](https://github.com/alibaba-damo-academy/fvlm)**|
+|**2025-01-24**|**Distributed Conformal Prediction via Message Passing**|Haifeng Wen et.al.|[2501.14544](http://arxiv.org/abs/2501.14544)|null|
 |**2025-01-23**|**PointOBB-v3: Expanding Performance Boundaries of Single Point-Supervised Oriented Object Detection**|Peiyuan Zhang et.al.|[2501.13898](http://arxiv.org/abs/2501.13898)|**[link](https://github.com/zpywhu/pointobb-v3)**|
 |**2025-01-23**|**Dual-Modal Prototype Joint Learning for Compositional Zero-Shot Learning**|Shiyu Zhang et.al.|[2501.13859](http://arxiv.org/abs/2501.13859)|null|
 |**2025-01-23**|**Training-Free Zero-Shot Temporal Action Detection with Vision-Language Models**|Chaolei Han et.al.|[2501.13795](http://arxiv.org/abs/2501.13795)|null|
