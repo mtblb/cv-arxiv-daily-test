@@ -14,9 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**MonoForce: Learnable Image-conditioned Physics Engine**|Ruslan Agishev et.al.|[2502.10156](http://arxiv.org/abs/2502.10156)|null|
+|**2025-02-13**|**Vision-based Geo-Localization of Future Mars Rotorcraft in Challenging Illumination Conditions**|Dario Pisanti et.al.|[2502.09795](http://arxiv.org/abs/2502.09795)|null|
 |**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111](http://arxiv.org/abs/2502.09111)|null|
-|**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|null|
-|**2025-02-10**|**Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**|Yingyu Wang et.al.|[2502.06292](http://arxiv.org/abs/2502.06292)|null|
+|**2025-02-12**|**LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features**|Shujie Zhou et.al.|[2502.08676](http://arxiv.org/abs/2502.08676)|**[link](https://github.com/IF-A-CAT/LIR-LIVO)**|
+|**2025-02-14**|**Occupancy-SLAM: An Efficient and Robust Algorithm for Simultaneously Optimizing Robot Poses and Occupancy Map**|Yingyu Wang et.al.|[2502.06292](http://arxiv.org/abs/2502.06292)|null|
 |**2025-02-09**|**PINGS: Gaussian Splatting Meets Distance Fields within a Point-Based Implicit Neural Map**|Yue Pan et.al.|[2502.05752](http://arxiv.org/abs/2502.05752)|**[link](https://github.com/PRBonn/PINGS)**|
 |**2025-02-07**|**Joint State and Noise Covariance Estimation**|Kasra Khosoussi et.al.|[2502.04584](http://arxiv.org/abs/2502.04584)|null|
 |**2025-02-05**|**GARAD-SLAM: 3D GAussian splatting for Real-time Anti Dynamic SLAM**|Mingrui Li et.al.|[2502.03228](http://arxiv.org/abs/2502.03228)|null|
@@ -821,7 +823,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-12**|**Causal Analysis of ASR Errors for Children: Quantifying the Impact of Physiological, Cognitive, and Extrinsic Factors**|Vishwanath Pratap Singh et.al.|[2502.08587](http://arxiv.org/abs/2502.08587)|null|
 |**2025-02-10**|**FOCUS - Multi-View Foot Reconstruction From Synthetically Trained Dense Correspondences**|Oliver Boyne et.al.|[2502.06367](http://arxiv.org/abs/2502.06367)|null|
-|**2025-02-09**|**Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models**|Jing-Xuan Zhang et.al.|[2502.05766](http://arxiv.org/abs/2502.05766)|null|
+|**2025-02-09**|**Audio-Visual Representation Learning via Knowledge Distillation from Speech Foundation Models**|Jing-Xuan Zhang et.al.|[2502.05766](http://arxiv.org/abs/2502.05766)|**[link](https://github.com/jxzhanggg/DistillAV)**|
 |**2025-02-10**|**Building Rome with Convex Optimization**|Haoyu Han et.al.|[2502.04640](http://arxiv.org/abs/2502.04640)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-02-05**|**GP-GS: Gaussian Processes for Enhanced Gaussian Splatting**|Zhihao Guo et.al.|[2502.02283](http://arxiv.org/abs/2502.02283)|null|
@@ -1157,6 +1159,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning**|Yuhang Dong et.al.|[2502.09649](http://arxiv.org/abs/2502.09649)|null|
 |**2025-02-13**|**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation**|Rotem Shalev-Arkushin et.al.|[2502.09411](http://arxiv.org/abs/2502.09411)|null|
 |**2025-02-12**|**SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization**|Artem Dementyev et.al.|[2502.08848](http://arxiv.org/abs/2502.08848)|null|
 |**2025-02-12**|**Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions**|Prajwal Gatti et.al.|[2502.08438](http://arxiv.org/abs/2502.08438)|null|
@@ -2476,7 +2479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|null|
+|**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
@@ -4238,6 +4241,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Simplifying DINO via Coding Rate Regularization**|Ziyang Wu et.al.|[2502.10385](http://arxiv.org/abs/2502.10385)|null|
+|**2025-02-14**|**A new and flexible class of sharp asymptotic time-uniform confidence sequences**|Felix Gnettner et.al.|[2502.10380](http://arxiv.org/abs/2502.10380)|null|
+|**2025-02-14**|**Robustness tests for biomedical foundation models should tailor to specification**|R. Patrick Xian et.al.|[2502.10374](http://arxiv.org/abs/2502.10374)|null|
+|**2025-02-14**|**OWLS: Scaling Laws for Multilingual Speech Recognition and Translation Models**|William Chen et.al.|[2502.10373](http://arxiv.org/abs/2502.10373)|null|
+|**2025-02-14**|**Agentic Verification for Ambiguous Query Disambiguation**|Youngwon Lee et.al.|[2502.10352](http://arxiv.org/abs/2502.10352)|null|
+|**2025-02-14**|**STAR: Spectral Truncation and Rescale for Model Merging**|Yu-Ang Lee et.al.|[2502.10339](http://arxiv.org/abs/2502.10339)|null|
+|**2025-02-14**|**VocalCrypt: Novel Active Defense Against Deepfake Voice Based on Masking Effect**|Qingyuan Fei et.al.|[2502.10329](http://arxiv.org/abs/2502.10329)|null|
+|**2025-02-14**|**A Mechanistic Framework for Collider Detection in Observational Data**|Soumik Purkayastha et.al.|[2502.10317](http://arxiv.org/abs/2502.10317)|null|
+|**2025-02-14**|**Interval Selection with Binary Predictions**|Christodoulos Karavasilis et.al.|[2502.10314](http://arxiv.org/abs/2502.10314)|null|
+|**2025-02-14**|**Electromagnon signatures of a metastable multiferroic state**|Blake S. Dastrup et.al.|[2502.10309](http://arxiv.org/abs/2502.10309)|null|
 |**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
 |**2025-02-13**|**MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency**|Dongzhi Jiang et.al.|[2502.09621](http://arxiv.org/abs/2502.09621)|null|
 |**2025-02-13**|**RigAnything: Template-Free Autoregressive Rigging for Diverse 3D Assets**|Isabella Liu et.al.|[2502.09615](http://arxiv.org/abs/2502.09615)|null|
@@ -4876,6 +4889,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**A Survey on Constructing Parseval Fusion Frames via Scaling Weights**|Ehsan Ameli et.al.|[2502.10244](http://arxiv.org/abs/2502.10244)|null|
+|**2025-02-14**|**A novel approach to data generation in generative model**|JaeHong Kim et.al.|[2502.10092](http://arxiv.org/abs/2502.10092)|null|
+|**2025-02-14**|**MTLM: an Innovative Language Model Training Paradigm for ASR**|Qingliang Meng et.al.|[2502.10058](http://arxiv.org/abs/2502.10058)|null|
+|**2025-02-14**|**POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning**|Jiawei Cheng et.al.|[2502.10038](http://arxiv.org/abs/2502.10038)|null|
+|**2025-02-14**|**Gamma-Ray Bursts Calibrated from the Observational $H(z)$ Data in Artificial Neural Network Framework**|Zhen Huang et.al.|[2502.10037](http://arxiv.org/abs/2502.10037)|null|
+|**2025-02-14**|**On Volume Minimization in Conformal Regression**|Batiste Le Bars et.al.|[2502.09985](http://arxiv.org/abs/2502.09985)|null|
+|**2025-02-14**|**V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models**|Hsu-kuang Chiu et.al.|[2502.09980](http://arxiv.org/abs/2502.09980)|null|
+|**2025-02-14**|**Machine Learning for Phase Estimation in Satellite-to-Earth Quantum Communication**|Nathan K Long et.al.|[2502.09920](http://arxiv.org/abs/2502.09920)|null|
+|**2025-02-14**|**Learning to Calibrate for Reliable Visual Fire Detection**|Ziqi Zhang et.al.|[2502.09872](http://arxiv.org/abs/2502.09872)|null|
+|**2025-02-14**|**Robust Event-Triggered Integrated Communication and Control with Graph Information Bottleneck Optimization**|Ziqiong Wang et.al.|[2502.09846](http://arxiv.org/abs/2502.09846)|null|
 |**2025-02-13**|**Self-Calibrating Gaussian Splatting for Large Field of View Reconstruction**|Youming Deng et.al.|[2502.09563](http://arxiv.org/abs/2502.09563)|null|
 |**2025-02-13**|**TRIFFID: Autonomous Robotic Aid For Increasing First Responders Efficiency**|Jorgen Cani et.al.|[2502.09379](http://arxiv.org/abs/2502.09379)|null|
 |**2025-02-13**|**Optimizing omnigenity like quasisymmetry for stellarators**|Hengqian Liu et.al.|[2502.09350](http://arxiv.org/abs/2502.09350)|null|
