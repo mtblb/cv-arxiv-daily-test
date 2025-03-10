@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112](http://arxiv.org/abs/2503.05112)|null|
+|**2025-03-07**|**Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry**|Chengwei Zhao et.al.|[2503.05077](http://arxiv.org/abs/2503.05077)|null|
+|**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
 |**2025-03-06**|**On the Connection Between Magnetic-Field Odometry Aided Inertial Navigation and Magnetic-Field SLAM**|Isaac Skog et.al.|[2503.04286](http://arxiv.org/abs/2503.04286)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
 |**2025-03-06**|**DVM-SLAM: Decentralized Visual Monocular Simultaneous Localization and Mapping for Multi-Agent Systems**|Joshua Bird et.al.|[2503.04126](http://arxiv.org/abs/2503.04126)|null|
@@ -856,6 +859,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**LiDAR-enhanced 3D Gaussian Splatting Mapping**|Jian Shen et.al.|[2503.05425](http://arxiv.org/abs/2503.05425)|null|
 |**2025-03-06**|**PLMP -- Point-Line Minimal Problems for Projective SfM**|Kim Kiehn et.al.|[2503.04351](http://arxiv.org/abs/2503.04351)|null|
 |**2025-03-03**|**MUSt3R: Multi-view Network for Stereo 3D Reconstruction**|Yohann Cabon et.al.|[2503.01661](http://arxiv.org/abs/2503.01661)|null|
 |**2025-03-03**|**ecg2o: A Seamless Extension of g2o for Equality-Constrained Factor Graph Optimization**|Anas Abdelkarim et.al.|[2503.01311](http://arxiv.org/abs/2503.01311)|null|
@@ -1208,6 +1212,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Data-Efficient Generalization for Zero-shot Composed Image Retrieval**|Zining Chen et.al.|[2503.05204](http://arxiv.org/abs/2503.05204)|null|
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
 |**2025-03-06**|**ForestLPR: LiDAR Place Recognition in Forests Attentioning Multiple BEV Density Images**|Yanqing Shen et.al.|[2503.04475](http://arxiv.org/abs/2503.04475)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
@@ -2285,6 +2290,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
 |**2025-03-07**|**Spatial regularisation for improved accuracy and interpretability in keypoint-based registration**|Benjamin Billot et.al.|[2503.04499](http://arxiv.org/abs/2503.04499)|null|
 |**2025-03-04**|**A Novel Streamline-based diffusion MRI Tractography Registration Method with Probabilistic Keypoint Detection**|Junyi Wang et.al.|[2503.02481](http://arxiv.org/abs/2503.02481)|null|
 |**2025-03-01**|**Autonomous Dissection in Robotic Cholecystectomy**|Ki-Hwan Oh et.al.|[2503.00666](http://arxiv.org/abs/2503.00666)|null|
@@ -4372,6 +4378,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689](http://arxiv.org/abs/2503.05689)|null|
+|**2025-03-07**|**Task-oriented Uncertainty Collaborative Learning for Label-Efficient Brain Tumor Segmentation**|Zhenxuan Zhang et.al.|[2503.05682](http://arxiv.org/abs/2503.05682)|null|
+|**2025-03-07**|**ALMAGAL III. Compact source catalog: Fragmentation statistics and physical evolution of the core population**|A. Coletta et.al.|[2503.05663](http://arxiv.org/abs/2503.05663)|null|
+|**2025-03-07**|**TrajectoryCrafter: Redirecting Camera Trajectory for Monocular Videos via Diffusion Models**|Mark YU et.al.|[2503.05638](http://arxiv.org/abs/2503.05638)|null|
+|**2025-03-07**|**Superintelligence Strategy: Expert Version**|Dan Hendrycks et.al.|[2503.05628](http://arxiv.org/abs/2503.05628)|null|
+|**2025-03-07**|**FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework**|Jingyu Xu et.al.|[2503.05626](http://arxiv.org/abs/2503.05626)|null|
+|**2025-03-07**|**Can KAN CANs? Input-convex Kolmogorov-Arnold Networks (KANs) as hyperelastic constitutive artificial neural networks (CANs)**|Prakash Thakolkaran et.al.|[2503.05617](http://arxiv.org/abs/2503.05617)|null|
+|**2025-03-07**|**Nuanced Safety for Generative AI: How Demographics Shape Responsiveness to Severity**|Pushkar Mishra et.al.|[2503.05609](http://arxiv.org/abs/2503.05609)|null|
+|**2025-03-07**|**CACTUS: An Open Dataset and Framework for Automated Cardiac Assessment and Classification of Ultrasound Images Using Deep Transfer Learning**|Hanae Elmekki et.al.|[2503.05604](http://arxiv.org/abs/2503.05604)|null|
+|**2025-03-07**|**Triplet assembly and certification of the new generation of RPC for the ATLAS phase-2 upgrade at Max Planck Institute**|Giorgia Proto et.al.|[2503.05597](http://arxiv.org/abs/2503.05597)|null|
 |**2025-03-06**|**Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities**|Guan-Ting Lin et.al.|[2503.04721](http://arxiv.org/abs/2503.04721)|null|
 |**2025-03-06**|**Floxels: Fast Unsupervised Voxel Based Scene Flow Estimation**|David T. Hoffmann et.al.|[2503.04718](http://arxiv.org/abs/2503.04718)|null|
 |**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
@@ -5150,6 +5166,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Conformal Prediction for Image Segmentation Using Morphological Prediction Sets**|Luca Mossina et.al.|[2503.05618](http://arxiv.org/abs/2503.05618)|null|
+|**2025-03-07**|**Nuanced Safety for Generative AI: How Demographics Shape Responsiveness to Severity**|Pushkar Mishra et.al.|[2503.05609](http://arxiv.org/abs/2503.05609)|null|
+|**2025-03-07**|**QArtSR: Quantization via Reverse-Module and Timestep-Retraining in One-Step Diffusion based Image Super-Resolution**|Libo Zhu et.al.|[2503.05584](http://arxiv.org/abs/2503.05584)|null|
+|**2025-03-07**|**Deeper multi-redshift upper limits on the Epoch of Reionization 21-cm signal power spectrum from LOFAR between z=8.3 and z=10.1**|F. G. Mertens et.al.|[2503.05576](http://arxiv.org/abs/2503.05576)|null|
+|**2025-03-07**|**TomatoScanner: phenotyping tomato fruit based on only RGB image**|Xiaobei Zhao et.al.|[2503.05568](http://arxiv.org/abs/2503.05568)|null|
+|**2025-03-07**|**ALMAGAL II. The ALMA evolutionary study of high-mass protocluster formation in the Galaxy. ALMA data processing and pipeline**|Á. Sánchez-Monge et.al.|[2503.05559](http://arxiv.org/abs/2503.05559)|null|
+|**2025-03-07**|**Adaptive Neural Unscented Kalman Filter**|Amit Levy et.al.|[2503.05490](http://arxiv.org/abs/2503.05490)|null|
+|**2025-03-07**|**Floquet-Engineering of Feshbach Resonances in Ultracold Gases**|Alexander Guthmann et.al.|[2503.05454](http://arxiv.org/abs/2503.05454)|null|
+|**2025-03-07**|**An Empirical Study of Conformal Prediction in LLM with ASP Scaffolds for Robust Reasoning**|Navdeep Kaur et.al.|[2503.05439](http://arxiv.org/abs/2503.05439)|null|
+|**2025-03-07**|**A reduction theorem for non-vanishing of Hochschild cohomology of block algebras and Happel's property**|Patrick Serwene et.al.|[2503.05432](http://arxiv.org/abs/2503.05432)|null|
 |**2025-03-06**|**DEAL-YOLO: Drone-based Efficient Animal Localization using YOLO**|Aditya Prashant Naidu et.al.|[2503.04698](http://arxiv.org/abs/2503.04698)|null|
 |**2025-03-06**|**Adaptive Prototype Learning for Multimodal Cancer Survival Analysis**|Hong Liu et.al.|[2503.04643](http://arxiv.org/abs/2503.04643)|null|
 |**2025-03-06**|**Calibrating Magnetic Flux Control in Superconducting Circuits by Compensating Distortions on Time Scales from Nanoseconds up to Tens of Microseconds**|Christoph Hellings et.al.|[2503.04610](http://arxiv.org/abs/2503.04610)|null|
