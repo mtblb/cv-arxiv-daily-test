@@ -2992,6 +2992,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**AccidentSim: Generating Physically Realistic Vehicle Collision Videos from Real-World Accident Reports**|Xiangwen Zhang et.al.|[2503.20654](http://arxiv.org/abs/2503.20654)|null|
+|**2025-03-26**|**EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**|Sheng Miao et.al.|[2503.20168](http://arxiv.org/abs/2503.20168)|null|
+|**2025-03-25**|**Learning Scene-Level Signed Directional Distance Function with Ellipsoidal Priors and Neural Residuals**|Zhirui Dai et.al.|[2503.20066](http://arxiv.org/abs/2503.20066)|null|
 |**2025-03-25**|**MultimodalStudio: A Heterogeneous Sensor Dataset and Framework for Neural Rendering across Multiple Imaging Modalities**|Federico Lincetto et.al.|[2503.19673](http://arxiv.org/abs/2503.19673)|null|
 |**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
 |**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
@@ -4530,6 +4533,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**FB-4D: Spatial-Temporal Coherent Dynamic 3D Content Generation with Feature Banks**|Jinwei Li et.al.|[2503.20784](http://arxiv.org/abs/2503.20784)|null|
+|**2025-03-26**|**Zero-Shot Audio-Visual Editing via Cross-Modal Delta Denoising**|Yan-Bo Lin et.al.|[2503.20782](http://arxiv.org/abs/2503.20782)|null|
+|**2025-03-26**|**Inferring Treatment Effects in Large Panels by Uncovering Latent Similarities**|Ben Deaner et.al.|[2503.20769](http://arxiv.org/abs/2503.20769)|null|
+|**2025-03-26**|**Boundary Time Crystals Induced by Local Dissipation and Long-Range Interactions**|Zhuqing Wang et.al.|[2503.20761](http://arxiv.org/abs/2503.20761)|null|
+|**2025-03-26**|**Reason-RFT: Reinforcement Fine-Tuning for Visual Reasoning**|Huajie Tan et.al.|[2503.20752](http://arxiv.org/abs/2503.20752)|null|
+|**2025-03-26**|**Semantic Communications via Features Identification**|Federico Francesco Luigi Mariani et.al.|[2503.20720](http://arxiv.org/abs/2503.20720)|null|
+|**2025-03-26**|**Model-free Vehicle Rollover Prevention: A Data-driven Predictive Control Approach**|Mohammad R. Hajidavalloo et.al.|[2503.20705](http://arxiv.org/abs/2503.20705)|null|
+|**2025-03-26**|**Data-driven Distributionally Robust Control Based on Sinkhorn Ambiguity Sets**|Riccardo Cescon et.al.|[2503.20703](http://arxiv.org/abs/2503.20703)|null|
+|**2025-03-26**|**Toward Dynamic Control of Tendon-Driven Continuum Robots using Clarke Transform**|Christian Muhmann et.al.|[2503.20693](http://arxiv.org/abs/2503.20693)|null|
+|**2025-03-26**|**DR-PETS: Learning-Based Control With Planning in Adversarial Environments**|Hozefa Jesawada et.al.|[2503.20660](http://arxiv.org/abs/2503.20660)|null|
 |**2025-03-25**|**EventFly: Event Camera Perception from Ground to the Sky**|Lingdong Kong et.al.|[2503.19916](http://arxiv.org/abs/2503.19916)|null|
 |**2025-03-25**|**Learning 3D Object Spatial Relationships from Pre-trained 2D Diffusion Models**|Sangwon Beak et.al.|[2503.19914](http://arxiv.org/abs/2503.19914)|null|
 |**2025-03-25**|**SuperFlow++: Enhanced Spatiotemporal Consistency for Cross-Modal Data Pretraining**|Xiang Xu et.al.|[2503.19912](http://arxiv.org/abs/2503.19912)|null|
@@ -5441,6 +5454,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Utilizing Stellar Mass Estimates to Identify Gravitational Wave Host Galaxies**|M. Pálfi et.al.|[2503.20777](http://arxiv.org/abs/2503.20777)|null|
+|**2025-03-26**|**SChanger: Change Detection from a Semantic Change and Spatial Consistency Perspective**|Ziyu Zhou et.al.|[2503.20734](http://arxiv.org/abs/2503.20734)|null|
+|**2025-03-26**|**MMMORRF: Multimodal Multilingual Modularized Reciprocal Rank Fusion**|Saron Samuel et.al.|[2503.20698](http://arxiv.org/abs/2503.20698)|null|
+|**2025-03-26**|**Enhancing Multi-modal Models with Heterogeneous MoE Adapters for Fine-tuning**|Sashuai Zhou et.al.|[2503.20633](http://arxiv.org/abs/2503.20633)|null|
+|**2025-03-26**|**SaViD: Spectravista Aesthetic Vision Integration for Robust and Discerning 3D Object Detection in Challenging Environments**|Tanmoy Dam et.al.|[2503.20614](http://arxiv.org/abs/2503.20614)|null|
+|**2025-03-26**|**Immersed boundary - lattice Boltzmann method for wetting problems**|Elisa Bellantoni et.al.|[2503.20605](http://arxiv.org/abs/2503.20605)|null|
+|**2025-03-26**|**Supply chain network rewiring dynamics at the firm-level**|Tobias Reisch et.al.|[2503.20594](http://arxiv.org/abs/2503.20594)|null|
+|**2025-03-26**|**Feature Statistics with Uncertainty Help Adversarial Robustness**|Ran Wang et.al.|[2503.20583](http://arxiv.org/abs/2503.20583)|null|
+|**2025-03-26**|**Small Object Detection: A Comprehensive Survey on Challenges, Techniques and Real-World Applications**|Mahya Nikouei et.al.|[2503.20516](http://arxiv.org/abs/2503.20516)|null|
+|**2025-03-26**|**Enhancing Depression Detection via Question-wise Modality Fusion**|Aishik Mandal et.al.|[2503.20496](http://arxiv.org/abs/2503.20496)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation**|Yuncheng Lu et.al.|[2503.19894](http://arxiv.org/abs/2503.19894)|null|
 |**2025-03-25**|**FALCONEye: Finding Answers and Localizing Content in ONE-hour-long videos with multi-modal LLMs**|Carlos Plou et.al.|[2503.19850](http://arxiv.org/abs/2503.19850)|null|
