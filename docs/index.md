@@ -2980,6 +2980,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting**|Wenjie Liu et.al.|[2503.22218](http://arxiv.org/abs/2503.22218)|null|
+|**2025-03-27**|**NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications**|Kibon Ku et.al.|[2503.21958](http://arxiv.org/abs/2503.21958)|null|
+|**2025-03-27**|**Refined Geometry-guided Head Avatar Reconstruction from Monocular RGB Video**|Pilseo Park et.al.|[2503.21886](http://arxiv.org/abs/2503.21886)|null|
 |**2025-03-27**|**HS-SLAM: Hybrid Representation with Structural Supervision for Improved Dense SLAM**|Ziren Gong et.al.|[2503.21778](http://arxiv.org/abs/2503.21778)|null|
 |**2025-03-27**|**RainyGS: Efficient Rain Synthesis with Physically-Based Gaussian Splatting**|Qiyu Dai et.al.|[2503.21442](http://arxiv.org/abs/2503.21442)|null|
 |**2025-03-28**|**LandMarkSystem Technical Report**|Zhenxiang Ma et.al.|[2503.21364](http://arxiv.org/abs/2503.21364)|null|
@@ -4524,6 +4527,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**ActionStudio: A Lightweight Framework for Data and Training of Action Models**|Jianguo Zhang et.al.|[2503.22673](http://arxiv.org/abs/2503.22673)|**[link](https://github.com/SalesforceAIResearch/xLAM)**|
+|**2025-03-28**|**NetSSM: Multi-Flow and State-Aware Network Trace Generation using State-Space Models**|Andrew Chu et.al.|[2503.22663](http://arxiv.org/abs/2503.22663)|null|
+|**2025-03-28**|**Evaluation of Machine-generated Biomedical Images via A Tally-based Similarity Measure**|Frank J. Brooks et.al.|[2503.22658](http://arxiv.org/abs/2503.22658)|null|
+|**2025-03-28**|**Tropical Bisectors and Carlini-Wagner Attacks**|Gillian Grindstaff et.al.|[2503.22653](http://arxiv.org/abs/2503.22653)|null|
+|**2025-03-28**|**Residual-based Chebyshev filtered subspace iteration for sparse Hermitian eigenvalue problems tolerant to inexact matrix-vector products**|Nikhil Kodali et.al.|[2503.22652](http://arxiv.org/abs/2503.22652)|null|
+|**2025-03-28**|**A Unified Approach for Estimating Various Treatment Effects in Causal Inference**|Kuan-Hsun Wu et.al.|[2503.22616](http://arxiv.org/abs/2503.22616)|null|
+|**2025-03-28**|**Evaluating Multimodal Language Models as Visual Assistants for Visually Impaired Users**|Antonia Karamolegkou et.al.|[2503.22610](http://arxiv.org/abs/2503.22610)|null|
+|**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604](http://arxiv.org/abs/2503.22604)|null|
+|**2025-03-28**|**Neural Identification of Feedback-Stabilized Nonlinear Systems**|Mahrokh G. Boroujeni et.al.|[2503.22601](http://arxiv.org/abs/2503.22601)|null|
+|**2025-03-28**|**Generative Latent Neural PDE Solver using Flow Matching**|Zijie Li et.al.|[2503.22600](http://arxiv.org/abs/2503.22600)|null|
 |**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774](http://arxiv.org/abs/2503.21774)|**[link](https://github.com/bebebe666/optimalsteps)**|
 |**2025-03-27**|**LeX-Art: Rethinking Text Generation via Scalable High-Quality Data Synthesis**|Shitian Zhao et.al.|[2503.21749](http://arxiv.org/abs/2503.21749)|null|
 |**2025-03-27**|**Local Primordial non-Gaussian Bias from Time Evolution**|James M. Sullivan et.al.|[2503.21736](http://arxiv.org/abs/2503.21736)|null|
@@ -5453,6 +5466,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**CaII and H $α$ flaring M dwarfs detected with multi-filter photometry**|P. Mas-Buitrago et.al.|[2503.22525](http://arxiv.org/abs/2503.22525)|null|
+|**2025-03-28**|**Automated UX Insights from User Research Videos by Integrating Facial Emotion and Text Sentiment**|Simran Kaur Ghatoray et.al.|[2503.22510](http://arxiv.org/abs/2503.22510)|null|
+|**2025-03-28**|**Terahertz frequency-domain 4x4 Mueller matrix ellipsometer instrument designed for high-frequency magnetic resonance measurements**|Viktor Rindert et.al.|[2503.22500](http://arxiv.org/abs/2503.22500)|null|
+|**2025-03-28**|**Scaling Laws of Scientific Discovery with AI and Robot Scientists**|Pengsong Zhang et.al.|[2503.22444](http://arxiv.org/abs/2503.22444)|null|
+|**2025-03-28**|**NuGrounding: A Multi-View 3D Visual Grounding Framework in Autonomous Driving**|Fuhao Li et.al.|[2503.22436](http://arxiv.org/abs/2503.22436)|null|
+|**2025-03-28**|**ArchCAD-400K: An Open Large-Scale Architectural CAD Dataset and New Baseline for Panoptic Symbol Spotting**|Ruifeng Luo et.al.|[2503.22346](http://arxiv.org/abs/2503.22346)|null|
+|**2025-03-28**|**Multi-Target Acquisition in Multistatic MIMO-OFDM Joint Sensing and Communication**|Elisabetta Matricardi et.al.|[2503.22340](http://arxiv.org/abs/2503.22340)|null|
+|**2025-03-28**|**Robust simultaneous UWB-anchor calibration and robot localization for emergency situations**|Xinghua Liu et.al.|[2503.22272](http://arxiv.org/abs/2503.22272)|null|
+|**2025-03-28**|**DeepAudio-V1:Towards Multi-Modal Multi-Stage End-to-End Video to Speech and Audio Generation**|Haomin Zhang et.al.|[2503.22265](http://arxiv.org/abs/2503.22265)|null|
+|**2025-03-28**|**Bimanual Regrasp Planning and Control for Eliminating Object Pose Uncertainty**|Ryuta Nagahama et.al.|[2503.22240](http://arxiv.org/abs/2503.22240)|null|
 |**2025-03-27**|**Semantic Library Adaptation: LoRA Retrieval and Fusion for Open-Vocabulary Semantic Segmentation**|Reza Qorbani et.al.|[2503.21780](http://arxiv.org/abs/2503.21780)|**[link](https://github.com/rezaqorbani/semla)**|
 |**2025-03-27**|**StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion**|Ziyu Guo et.al.|[2503.21775](http://arxiv.org/abs/2503.21775)|null|
 |**2025-03-27**|**Enhancing Underwater Navigation through Cross-Correlation-Aware Deep INS/DVL Fusion**|Nadav Cohen et.al.|[2503.21727](http://arxiv.org/abs/2503.21727)|null|
