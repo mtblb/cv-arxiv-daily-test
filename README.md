@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**UWB Anchor Based Localization of a Planetary Rover**|Andreas Nüchter et.al.|[2504.07658](http://arxiv.org/abs/2504.07658)|null|
+|**2025-04-10**|**Event Signal Filtering via Probability Flux Estimation**|Jinze Chen et.al.|[2504.07503](http://arxiv.org/abs/2504.07503)|null|
 |**2025-04-07**|**Embracing Dynamics: Dynamics-aware 4D Gaussian Splatting SLAM**|Zhicong Sun et.al.|[2504.04844](http://arxiv.org/abs/2504.04844)|null|
 |**2025-04-06**|**SELC: Self-Supervised Efficient Local Correspondence Learning for Low Quality Images**|Yuqing Wang et.al.|[2504.04497](http://arxiv.org/abs/2504.04497)|null|
 |**2025-04-06**|**VSLAM-LAB: A Comprehensive Framework for Visual SLAM Methods and Datasets**|Alejandro Fontan et.al.|[2504.04457](http://arxiv.org/abs/2504.04457)|null|
@@ -930,7 +932,7 @@
 |**2025-04-05**|**3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS**|Zhisheng Huang et.al.|[2504.04294](http://arxiv.org/abs/2504.04294)|null|
 |**2025-04-04**|**An Algebraic Geometry Approach to Viewing Graph Solvability**|Federica Arrigoni et.al.|[2504.03637](http://arxiv.org/abs/2504.03637)|null|
 |**2025-04-04**|**Endo3R: Unified Online Reconstruction from Dynamic Monocular Endoscopic Video**|Jiaxin Guo et.al.|[2504.03198](http://arxiv.org/abs/2504.03198)|null|
-|**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|null|
+|**2025-04-03**|**Adaptive Frequency Enhancement Network for Remote Sensing Image Semantic Segmentation**|Feng Gao et.al.|[2504.02647](http://arxiv.org/abs/2504.02647)|**[link](https://github.com/oucailab/afenet)**|
 |**2025-04-09**|**FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking**|Ulas Gunes et.al.|[2504.01732](http://arxiv.org/abs/2504.01732)|null|
 |**2025-03-31**|**LITA-GS: Illumination-Agnostic Novel View Synthesis via Reference-Free 3D Gaussian Splatting and Physical Priors**|Han Zhou et.al.|[2504.00219](http://arxiv.org/abs/2504.00219)|null|
 |**2025-03-30**|**AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos**|Felix Wimbauer et.al.|[2503.23282](http://arxiv.org/abs/2503.23282)|**[link](https://github.com/Brummi/anycam)**|
@@ -1305,11 +1307,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Multi-modal Reference Learning for Fine-grained Text-to-Image Retrieval**|Zehong Ma et.al.|[2504.07718](http://arxiv.org/abs/2504.07718)|null|
+|**2025-04-09**|**A Pointcloud Registration Framework for Relocalization in Subterranean Environments**|David Akhihiero et.al.|[2504.07231](http://arxiv.org/abs/2504.07231)|null|
 |**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
 |**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
-|**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
+|**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|**[link](https://github.com/longvideohaystack/tstar)**|
 |**2025-04-02**|**A Chefs KISS -- Utilizing semantic information in both ICP and SLAM framework**|Sven Ochs et.al.|[2504.02086](http://arxiv.org/abs/2504.02086)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
@@ -4619,6 +4623,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**What it takes to solve the Hubble tension through scale-dependent modifications of the primordial power spectrum**|Nanoom Lee et.al.|[2504.07966](http://arxiv.org/abs/2504.07966)|null|
+|**2025-04-10**|**Geo4D: Leveraging Video Generators for Geometric 4D Scene Reconstruction**|Zeren Jiang et.al.|[2504.07961](http://arxiv.org/abs/2504.07961)|null|
+|**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
+|**2025-04-10**|**MARS: a Multimodal Alignment and Ranking System for Few-Shot Segmentation**|Nico Catalano et.al.|[2504.07942](http://arxiv.org/abs/2504.07942)|null|
+|**2025-04-10**|**Development of a Quantum-Resistant File Transfer System with Blockchain Audit Trail**|Ernesto Sola-Thomas et.al.|[2504.07938](http://arxiv.org/abs/2504.07938)|null|
+|**2025-04-10**|**Stacking-induced ferroelectricity in tetralayer graphene**|Amit Singh et.al.|[2504.07935](http://arxiv.org/abs/2504.07935)|null|
+|**2025-04-10**|**Quantum Speed Limit in Driven-dissipative Systems**|Sarfraj Fency et.al.|[2504.07931](http://arxiv.org/abs/2504.07931)|null|
+|**2025-04-10**|**Localization and Topology in Noncentrosymmetric Superconductors with Disorder**|Jinkun Wang et.al.|[2504.07930](http://arxiv.org/abs/2504.07930)|null|
+|**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
+|**2025-04-10**|**Episodically adapted network-based controllers**|Sruti Mallik et.al.|[2504.07871](http://arxiv.org/abs/2504.07871)|null|
 |**2025-04-09**|**A Differentiable, End-to-End Forward Model for 21 cm Cosmology: Estimating the Foreground, Instrument, and Signal Joint Posterior**|Nicholas Kern et.al.|[2504.07090](http://arxiv.org/abs/2504.07090)|null|
 |**2025-04-09**|**A Sober Look at Progress in Language Model Reasoning: Pitfalls and Paths to Reproducibility**|Andreas Hochlehnert et.al.|[2504.07086](http://arxiv.org/abs/2504.07086)|null|
 |**2025-04-09**|**Chiral superconductivity from spin polarized Chern band in twisted MoTe $_2$**|Cheng Xu et.al.|[2504.07082](http://arxiv.org/abs/2504.07082)|null|
@@ -5630,6 +5644,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**CCMNet: Leveraging Calibrated Color Correction Matrices for Cross-Camera Color Constancy**|Dongyoung Kim et.al.|[2504.07959](http://arxiv.org/abs/2504.07959)|null|
+|**2025-04-10**|**Scaling Laws for Native Multimodal Models Scaling Laws for Native Multimodal Models**|Mustafa Shukor et.al.|[2504.07951](http://arxiv.org/abs/2504.07951)|null|
+|**2025-04-10**|**Experimental Analysis of Quadcopter Drone Hover Constraints for Localization Improvements**|Uthman Olawoye et.al.|[2504.07843](http://arxiv.org/abs/2504.07843)|null|
+|**2025-04-10**|**HarmonySeg: Tubular Structure Segmentation with Deep-Shallow Feature Fusion and Growth-Suppression Balanced Loss**|Yi Huang et.al.|[2504.07827](http://arxiv.org/abs/2504.07827)|null|
+|**2025-04-10**|**Zero-Shot Cross-Domain Code Search without Fine-Tuning**|Keyu Liang et.al.|[2504.07740](http://arxiv.org/abs/2504.07740)|null|
+|**2025-04-10**|**Automated Construction of a Knowledge Graph of Nuclear Fusion Energy for Effective Elicitation and Retrieval of Information**|A. Loreti et.al.|[2504.07738](http://arxiv.org/abs/2504.07738)|null|
+|**2025-04-10**|**Conformalized Generative Bayesian Imaging: An Uncertainty Quantification Framework for Computational Imaging**|Canberk Ekmekci et.al.|[2504.07696](http://arxiv.org/abs/2504.07696)|null|
+|**2025-04-10**|**Measurements of Higgs boson production via gluon-gluon fusion and vector-boson fusion using $H\rightarrow WW^\ast \rightarrow \ellν\ellν$ decays in $pp$ collisions with the ATLAS detector and their effective field theory interpretations**|ATLAS Collaboration et.al.|[2504.07686](http://arxiv.org/abs/2504.07686)|null|
+|**2025-04-10**|**Improving Photometric Redshift Estimation for CSST Mock Catalog Using SED Templates Calibrated with Perturbation Algorithm**|Yicheng Li et.al.|[2504.07684](http://arxiv.org/abs/2504.07684)|null|
+|**2025-04-10**|**S2R-HDR: A Large-Scale Rendered Dataset for HDR Fusion**|Yujin Wang et.al.|[2504.07667](http://arxiv.org/abs/2504.07667)|null|
 |**2025-04-09**|**New empirical mass-loss recipe for UV radiation line-driven winds of hot stars across various metallicities**|D. Pauli et.al.|[2504.07073](http://arxiv.org/abs/2504.07073)|null|
 |**2025-04-09**|**Distilling Textual Priors from LLM to Efficient Image Fusion**|Ran Zhang et.al.|[2504.07029](http://arxiv.org/abs/2504.07029)|null|
 |**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025](http://arxiv.org/abs/2504.07025)|null|
