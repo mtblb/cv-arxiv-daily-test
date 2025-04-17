@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**An Online Adaptation Method for Robust Depth Estimation and Visual Odometry in the Open World**|Xingwu Ji et.al.|[2504.11698](http://arxiv.org/abs/2504.11698)|null|
+|**2025-04-15**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634](http://arxiv.org/abs/2504.11634)|null|
 |**2025-04-14**|**Region Based SLAM-Aware Exploration: Efficient and Robust Autonomous Mapping Strategy That Can Scale**|Megha Maheshwari et.al.|[2504.10416](http://arxiv.org/abs/2504.10416)|null|
 |**2025-04-14**|**RoboCup Rescue 2025 Team Description Paper UruBots**|Kevin Farias et.al.|[2504.09778](http://arxiv.org/abs/2504.09778)|null|
 |**2025-04-11**|**FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment**|Sebastián Barbas Laina et.al.|[2504.08603](http://arxiv.org/abs/2504.08603)|null|
@@ -1301,6 +1303,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|null|
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
 |**2025-04-14**|**Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition**|Changwei Wang et.al.|[2504.09881](http://arxiv.org/abs/2504.09881)|null|
@@ -3051,6 +3054,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**R-Meshfusion: Reinforcement Learning Powered Sparse-View Mesh Reconstruction with Diffusion Priors**|Haoyang Wang et.al.|[2504.11946](http://arxiv.org/abs/2504.11946)|null|
 |**2025-04-15**|**LL-Gaussian: Low-Light Scene Reconstruction and Enhancement via Gaussian Splatting for Novel View Synthesis**|Hao Sun et.al.|[2504.10331](http://arxiv.org/abs/2504.10331)|null|
 |**2025-04-14**|**MCBlock: Boosting Neural Radiance Field Training Speed by MCTS-based Dynamic-Resolution Ray Sampling**|Yunpeng Tan et.al.|[2504.09878](http://arxiv.org/abs/2504.09878)|null|
 |**2025-04-14**|**NeRF-Based Transparent Object Grasping Enhanced by Shape Priors**|Yi Han et.al.|[2504.09868](http://arxiv.org/abs/2504.09868)|null|
@@ -4625,6 +4629,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Adapting a World Model for Trajectory Following in a 3D Game**|Marko Tot et.al.|[2504.12299](http://arxiv.org/abs/2504.12299)|null|
+|**2025-04-16**|**Liouvillean Spectral Transition in Noisy Quantum Many-Body Scars**|Jin-Lou Ma et.al.|[2504.12291](http://arxiv.org/abs/2504.12291)|null|
+|**2025-04-16**|**Dysarthria Normalization via Local Lie Group Transformations for Robust ASR**|Mikhail Osipov et.al.|[2504.12279](http://arxiv.org/abs/2504.12279)|null|
+|**2025-04-16**|**New Constraints on DMS and DMDS in the Atmosphere of K2-18 b from JWST MIRI**|Nikku Madhusudhan et.al.|[2504.12267](http://arxiv.org/abs/2504.12267)|null|
+|**2025-04-16**|**Semiparametric Dynamic Copula Models for Portfolio Optimization**|Savita Pareek et.al.|[2504.12266](http://arxiv.org/abs/2504.12266)|null|
+|**2025-04-16**|**SCENT: Robust Spatiotemporal Learning for Continuous Scientific Data via Scalable Conditioned Neural Fields**|David Keetae Park et.al.|[2504.12262](http://arxiv.org/abs/2504.12262)|null|
+|**2025-04-16**|**FLIP Reasoning Challenge**|Andreas Plesner et.al.|[2504.12256](http://arxiv.org/abs/2504.12256)|null|
+|**2025-04-16**|**Human Aligned Compression for Robust Models**|Samuel Räber et.al.|[2504.12255](http://arxiv.org/abs/2504.12255)|null|
+|**2025-04-16**|**Comparative Evaluation of Radiomics and Deep Learning Models for Disease Detection in Chest Radiography**|Zhijin He et.al.|[2504.12249](http://arxiv.org/abs/2504.12249)|null|
+|**2025-04-16**|**Rényi security framework against coherent attacks applied to decoy-state QKD**|Lars Kamin et.al.|[2504.12248](http://arxiv.org/abs/2504.12248)|null|
 |**2025-04-16**|**Elucidating the Design Space of Multimodal Protein Language Models**|Cheng-Yen Hsieh et.al.|[2504.11454](http://arxiv.org/abs/2504.11454)|null|
 |**2025-04-15**|**PARTFIELD: Learning 3D Feature Fields for Part Segmentation and Beyond**|Minghua Liu et.al.|[2504.11451](http://arxiv.org/abs/2504.11451)|null|
 |**2025-04-15**|**Robust Containment Queries over Collections of Trimmed NURBS Surfaces via Generalized Winding Numbers**|Jacob Spainhour et.al.|[2504.11435](http://arxiv.org/abs/2504.11435)|null|
@@ -5674,6 +5688,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Uncertainty-Guided Coarse-to-Fine Tumor Segmentation with Anatomy-Aware Post-Processing**|Ilkin Sevgi Isler et.al.|[2504.12215](http://arxiv.org/abs/2504.12215)|null|
+|**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167](http://arxiv.org/abs/2504.12167)|null|
+|**2025-04-16**|**CodingHomo: Bootstrapping Deep Homography With Video Coding**|Yike Liu et.al.|[2504.12165](http://arxiv.org/abs/2504.12165)|null|
+|**2025-04-16**|**Towards Explainable Fusion and Balanced Learning in Multimodal Sentiment Analysis**|Miaosen Luo et.al.|[2504.12151](http://arxiv.org/abs/2504.12151)|null|
+|**2025-04-16**|**Logits DeConfusion with CLIP for Few-Shot Learning**|Shuo Li et.al.|[2504.12104](http://arxiv.org/abs/2504.12104)|null|
+|**2025-04-16**|**Logical multi-qubit entanglement with dual-rail superconducting qubits**|Wenhui Huang et.al.|[2504.12099](http://arxiv.org/abs/2504.12099)|null|
+|**2025-04-16**|**LO2: Microservice API Anomaly Dataset of Logs and Metrics**|Alexander Bakhtin et.al.|[2504.12067](http://arxiv.org/abs/2504.12067)|null|
+|**2025-04-16**|**On the calibration of Just-in-time Defect Prediction**|Xhulja Shahini et.al.|[2504.12051](http://arxiv.org/abs/2504.12051)|null|
+|**2025-04-16**|**FedEPA: Enhancing Personalization and Modality Alignment in Multimodal Federated Learning**|Yu Zhang et.al.|[2504.12025](http://arxiv.org/abs/2504.12025)|null|
+|**2025-04-16**|**Securing the Skies: A Comprehensive Survey on Anti-UAV Methods, Benchmarking, and Future Directions**|Yifei Dong et.al.|[2504.11967](http://arxiv.org/abs/2504.11967)|null|
 |**2025-04-15**|**Enhancing Out-of-Distribution Detection with Extended Logit Normalization**|Yifan Ding et.al.|[2504.11434](http://arxiv.org/abs/2504.11434)|null|
 |**2025-04-15**|**Analysis of Preheat Propagation in MagLIF-like Plasmas**|Fernando Garcia-Rubio et.al.|[2504.11432](http://arxiv.org/abs/2504.11432)|null|
 |**2025-04-15**|**Extended source fringe flats for the JWST MIRI Medium Resolution Spectrometer**|N. Crouzet et.al.|[2504.11328](http://arxiv.org/abs/2504.11328)|null|
