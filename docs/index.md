@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-22**|**DERD-Net: Learning Depth from Event-based Ray Densities**|Diego de Oliveira Hitzges et.al.|[2504.15863](http://arxiv.org/abs/2504.15863)|null|
-|**2025-04-18**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
+|**2025-04-23**|**SLAM-Based Navigation and Fault Resilience in a Surveillance Quadcopter with Embedded Vision Systems**|Abhishek Tyagi et.al.|[2504.15305](http://arxiv.org/abs/2504.15305)|null|
 |**2025-04-20**|**Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction**|Weirong Chen et.al.|[2504.14516](http://arxiv.org/abs/2504.14516)|null|
 |**2025-04-20**|**SG-Reg: Generalizable and Efficient Scene Graph Registration**|Chuhao Liu et.al.|[2504.14440](http://arxiv.org/abs/2504.14440)|**[link](https://github.com/hkust-aerial-robotics/sg-reg)**|
 |**2025-04-19**|**Unreal Robotics Lab: A High-Fidelity Robotics Simulator with Advanced Physics and Rendering**|Jonathan Embley-Riches et.al.|[2504.14135](http://arxiv.org/abs/2504.14135)|null|
@@ -4653,7 +4653,7 @@ layout: default
 |**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
 |**2025-04-22**|**High-performance training and inference for deep equivariant interatomic potentials**|Chuin Wei Tan et.al.|[2504.16068](http://arxiv.org/abs/2504.16068)|null|
 |**2025-04-22**|**A Comparative and Measurement-Based Study on Real-Time Network KPI Extraction Methods for 5G and Beyond Applications**|Batuhan Kaplan et.al.|[2504.16039](http://arxiv.org/abs/2504.16039)|null|
-|**2025-04-22**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005](http://arxiv.org/abs/2504.16005)|**[link](https://github.com/finitearth/capo)**|
+|**2025-04-23**|**CAPO: Cost-Aware Prompt Optimization**|Tom Zehle et.al.|[2504.16005](http://arxiv.org/abs/2504.16005)|**[link](https://github.com/finitearth/capo)**|
 |**2025-04-22**|**How Private is Your Attention? Bridging Privacy with In-Context Learning**|Soham Bonnerjee et.al.|[2504.16000](http://arxiv.org/abs/2504.16000)|null|
 |**2025-04-22**|**OPUS-VFL: Incentivizing Optimal Privacy-Utility Tradeoffs in Vertical Federated Learning**|Sindhuja Madabushi et.al.|[2504.15995](http://arxiv.org/abs/2504.15995)|null|
 |**2025-04-22**|**Making Neural Networks More Suitable for Approximate Clifford+T Circuit Synthesis**|Mathias Weiden et.al.|[2504.15990](http://arxiv.org/abs/2504.15990)|null|
