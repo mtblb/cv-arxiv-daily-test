@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5789,8 +5789,8 @@ layout: default
 |**2025-04-24**|**Optical to infrared mapping of vapor-to-liquid phase change dynamics using generative machine learning**|Siavash Khodakarami et.al.|[2504.17726](http://arxiv.org/abs/2504.17726)|null|
 |**2025-04-24**|**Conformal Segmentation in Industrial Surface Defect Detection with Statistical Guarantees**|Cheng Shen et.al.|[2504.17721](http://arxiv.org/abs/2504.17721)|null|
 |**2025-04-24**|**Evaluating Uncertainty in Deep Gaussian Processes**|Matthijs van der Lende et.al.|[2504.17719](http://arxiv.org/abs/2504.17719)|null|
-|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
-|**2025-04-24**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
+|**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
+|**2025-04-25**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
 |**2025-04-24**|**Aerial Image Classification in Scarce and Unconstrained Environments via Conformal Prediction**|Farhad Pourkamali-Anaraki et.al.|[2504.17655](http://arxiv.org/abs/2504.17655)|null|
 |**2025-04-24**|**Modular Cosmic Ray Detector (MCORD) and its Potential Use in Various Physics Experiments, Astrophysics and Geophysics**|M. Bielewicz et.al.|[2504.17631](http://arxiv.org/abs/2504.17631)|null|
 |**2025-04-24**|**RGB-D Tracking via Hierarchical Modality Aggregation and Distribution Network**|Boyue Xu et.al.|[2504.17595](http://arxiv.org/abs/2504.17595)|null|
