@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.30
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4697,13 +4697,13 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Yiting Zhang et.al.|[2504.20969](http://arxiv.org/abs/2504.20969)|null|
 |**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
-|**2025-04-29**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948](http://arxiv.org/abs/2504.20948)|**[link](https://github.com/YanghuiSong/DS_FusionNet)**|
-|**2025-04-29**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|null|
+|**2025-04-30**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948](http://arxiv.org/abs/2504.20948)|**[link](https://github.com/YanghuiSong/DS_FusionNet)**|
+|**2025-04-30**|**End-to-end Audio Deepfake Detection from RAW Waveforms: a RawNet-Based Approach with Cross-Dataset Evaluation**|Andrea Di Pierno et.al.|[2504.20923](http://arxiv.org/abs/2504.20923)|**[link](https://github.com/adipiz99/RawNetLite)**|
 |**2025-04-29**|**On the Secrecy-Sensing Optimization of RIS-assisted Full-Duplex Integrated Sensing and Communication Network**|Elmehdi Illi et.al.|[2504.20912](http://arxiv.org/abs/2504.20912)|null|
 |**2025-04-29**|**Modeling AI-Human Collaboration as a Multi-Agent Adaptation**|Prothit Sen et.al.|[2504.20903](http://arxiv.org/abs/2504.20903)|**[link](https://github.com/saimihirj/NKC-Multi-Agent-Models)**|
 |**2025-04-29**|**Evaluating Generative Models for Tabular Data: Novel Metrics and Benchmarking**|Dayananda Herurkar et.al.|[2504.20900](http://arxiv.org/abs/2504.20900)|null|
-|**2025-04-29**|**Preference-centric Bandits: Optimality of Mixtures and Regret-efficient Algorithms**|Meltem Tatlı et.al.|[2504.20877](http://arxiv.org/abs/2504.20877)|null|
-|**2025-04-29**|**Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks**|Junyuan Fang et.al.|[2504.20869](http://arxiv.org/abs/2504.20869)|null|
+|**2025-04-30**|**Preference-centric Bandits: Optimality of Mixtures and Regret-efficient Algorithms**|Meltem Tatlı et.al.|[2504.20877](http://arxiv.org/abs/2504.20877)|null|
+|**2025-04-30**|**Quantifying the Noise of Structural Perturbations on Graph Adversarial Attacks**|Junyuan Fang et.al.|[2504.20869](http://arxiv.org/abs/2504.20869)|null|
 |**2025-04-29**|**AI-GenBench: A New Ongoing Benchmark for AI-Generated Image Detection**|Lorenzo Pellegrini et.al.|[2504.20865](http://arxiv.org/abs/2504.20865)|null|
 |**2025-04-28**|**MP-SfM: Monocular Surface Priors for Robust Structure-from-Motion**|Zador Pataki et.al.|[2504.20040](http://arxiv.org/abs/2504.20040)|null|
 |**2025-04-28**|**Mitigating Catastrophic Forgetting in the Incremental Learning of Medical Images**|Sara Yavari et.al.|[2504.20033](http://arxiv.org/abs/2504.20033)|null|
@@ -5844,7 +5844,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-29**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948](http://arxiv.org/abs/2504.20948)|**[link](https://github.com/YanghuiSong/DS_FusionNet)**|
+|**2025-04-30**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948](http://arxiv.org/abs/2504.20948)|**[link](https://github.com/YanghuiSong/DS_FusionNet)**|
 |**2025-04-29**|**Testing Compact, Fused Silica Resonator Based Inertial Sensors in a Gravitational Wave Detector Prototype Facility**|J J Carter et.al.|[2504.20918](http://arxiv.org/abs/2504.20918)|null|
 |**2025-04-29**|**Multiwavelength thermometry without a priori emissivity information: from promise to disillusionment**|Jean-Claude Krapez et.al.|[2504.20853](http://arxiv.org/abs/2504.20853)|null|
 |**2025-04-29**|**Machine Learning (ML)-Physics Fusion Model Outperforms Both Physics-Only and ML-Only Models in Typhoon Predictions**|Zeyi Niu et.al.|[2504.20852](http://arxiv.org/abs/2504.20852)|null|
