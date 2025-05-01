@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826](http://arxiv.org/abs/2504.21826)|null|
+|**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654](http://arxiv.org/abs/2504.19654)|null|
 |**2025-04-28**|**GAN-SLAM: Real-Time GAN Aided Floor Plan Creation Through SLAM**|Leon Davies et.al.|[2504.19653](http://arxiv.org/abs/2504.19653)|null|
@@ -2478,6 +2480,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21154](http://arxiv.org/abs/2504.21154)|null|
 |**2025-04-29**|**Learning a General Model: Folding Clothing with Topological Dynamics**|Yiming Liu et.al.|[2504.20720](http://arxiv.org/abs/2504.20720)|null|
 |**2025-04-26**|**VISUALCENT: Visual Human Analysis using Dynamic Centroid Representation**|Niaz Ahmad et.al.|[2504.19032](http://arxiv.org/abs/2504.19032)|null|
 |**2025-04-24**|**EdgePoint2: Compact Descriptors for Superior Efficiency and Accuracy**|Haodi Yao et.al.|[2504.17280](http://arxiv.org/abs/2504.17280)|null|
@@ -3102,6 +3105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
 |**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
@@ -4695,6 +4699,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Active Light Modulation to Counter Manipulation of Speech Visual Content**|Hadleigh Schwartz et.al.|[2504.21846](http://arxiv.org/abs/2504.21846)|null|
+|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826](http://arxiv.org/abs/2504.21826)|null|
+|**2025-04-30**|**Anomalous Josephson effect in hybrid superconductor-hole systems**|Peter D. Johannsen et.al.|[2504.21817](http://arxiv.org/abs/2504.21817)|null|
+|**2025-04-30**|**The Challenges of Detecting Gases in Exoplanet Atmospheres**|Luis Welbanks et.al.|[2504.21788](http://arxiv.org/abs/2504.21788)|null|
+|**2025-04-30**|**MAGNET: an open-source library for mesh agglomeration by Graph Neural Networks**|Paola F. Antonietti et.al.|[2504.21780](http://arxiv.org/abs/2504.21780)|null|
+|**2025-04-30**|**Evaluation of In Vivo Subject-Specific Mechanical Modeling of the Optic Nerve Head for Robust Assessment of Ocular Mechanics**|Soumaya Ouhsousou et.al.|[2504.21765](http://arxiv.org/abs/2504.21765)|null|
+|**2025-04-30**|**LangWBC: Language-directed Humanoid Whole-Body Control via End-to-end Learning**|Yiyang Shao et.al.|[2504.21738](http://arxiv.org/abs/2504.21738)|null|
+|**2025-04-30**|**Cert-SSB: Toward Certified Sample-Specific Backdoor Defense**|Ting Qiao et.al.|[2504.21730](http://arxiv.org/abs/2504.21730)|null|
+|**2025-04-30**|**LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics**|Marc Glocker et.al.|[2504.21716](http://arxiv.org/abs/2504.21716)|null|
+|**2025-04-30**|**The Intermediate-Mass Black Hole Reverberation Mapping Project: First Detection of Mid-Infrared Lags in Prototypical IMBHs in NGC 4395 and POX 52**|Jingbo Sun et.al.|[2504.21711](http://arxiv.org/abs/2504.21711)|null|
 |**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Yiting Zhang et.al.|[2504.20969](http://arxiv.org/abs/2504.20969)|null|
 |**2025-04-29**|**AegisLLM: Scaling Agentic Systems for Self-Reflective Defense in LLM Security**|Zikui Cai et.al.|[2504.20965](http://arxiv.org/abs/2504.20965)|null|
 |**2025-04-30**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948](http://arxiv.org/abs/2504.20948)|**[link](https://github.com/YanghuiSong/DS_FusionNet)**|
@@ -5844,6 +5858,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826](http://arxiv.org/abs/2504.21826)|null|
+|**2025-04-30**|**Turning a negative neutrino mass into a positive optical depth**|Tanisha Jhaveri et.al.|[2504.21813](http://arxiv.org/abs/2504.21813)|null|
+|**2025-04-30**|**Discrete series for the graded Hecke algebra of type $H_{4}$**|Kei Yuen Chan et.al.|[2504.21790](http://arxiv.org/abs/2504.21790)|null|
+|**2025-04-30**|**Learning Heterogeneous Performance-Fairness Trade-offs in Federated Learning**|Rongguang Ye et.al.|[2504.21775](http://arxiv.org/abs/2504.21775)|null|
+|**2025-04-30**|**Is Intermediate Fusion All You Need for UAV-based Collaborative Perception?**|Jiuwu Hao et.al.|[2504.21774](http://arxiv.org/abs/2504.21774)|null|
+|**2025-04-30**|**Bilateral Differentially Private Vertical Federated Boosted Decision Trees**|Bokang Zhang et.al.|[2504.21739](http://arxiv.org/abs/2504.21739)|null|
+|**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695](http://arxiv.org/abs/2504.21695)|null|
+|**2025-04-30**|**LRBO2: Improved 3D Vision Based Hand-Eye Calibration for Collaborative Robot Arm**|Leihui Li et.al.|[2504.21619](http://arxiv.org/abs/2504.21619)|null|
+|**2025-04-30**|**ODE and PDE models for COVID-19, with reinfection and vaccination process for Cameroon and Germany**|Hamadjam Abboubakar et.al.|[2504.21613](http://arxiv.org/abs/2504.21613)|null|
+|**2025-04-30**|**Selective Variable Convolution Meets Dynamic Content Guided Attention for Infrared Small Target Detection**|Yirui Chen et.al.|[2504.21612](http://arxiv.org/abs/2504.21612)|null|
 |**2025-04-30**|**DS_FusionNet: Dynamic Dual-Stream Fusion with Bidirectional Knowledge Distillation for Plant Disease Recognition**|Yanghui Song et.al.|[2504.20948](http://arxiv.org/abs/2504.20948)|**[link](https://github.com/YanghuiSong/DS_FusionNet)**|
 |**2025-04-29**|**Testing Compact, Fused Silica Resonator Based Inertial Sensors in a Gravitational Wave Detector Prototype Facility**|J J Carter et.al.|[2504.20918](http://arxiv.org/abs/2504.20918)|null|
 |**2025-04-29**|**Multiwavelength thermometry without a priori emissivity information: from promise to disillusionment**|Jean-Claude Krapez et.al.|[2504.20853](http://arxiv.org/abs/2504.20853)|null|
