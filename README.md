@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Robust 2D lidar-based SLAM in arboreal environments without IMU/GNSS**|Paola Nazate-Burgos et.al.|[2505.10847](http://arxiv.org/abs/2505.10847)|null|
+|**2025-05-15**|**TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation**|Manthan Patel et.al.|[2505.10696](http://arxiv.org/abs/2505.10696)|null|
 |**2025-05-15**|**A hybrid SLAM-Payne framework for atmospheric parameter and abundance determination of early-type Stars from LAMOST DR9 low-resolution Spectra**|Weijia Sun et.al.|[2505.10310](http://arxiv.org/abs/2505.10310)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-13**|**Automated Meta Prompt Engineering for Alignment with the Theory of Mind**|Aaron Baughman et.al.|[2505.09024](http://arxiv.org/abs/2505.09024)|null|
@@ -974,6 +976,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-13**|**Unveiling the Best Practices for Applying Speech Foundation Models to Speech Intelligibility Prediction for Hearing-Impaired People**|Haoshuai Zhou et.al.|[2505.08215](http://arxiv.org/abs/2505.08215)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
@@ -1380,6 +1383,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -2529,6 +2533,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 |**2025-05-12**|**Enabling Privacy-Aware AI-Based Ergonomic Analysis**|Sander De Coninck et.al.|[2505.07306](http://arxiv.org/abs/2505.07306)|null|
 |**2025-05-09**|**My Emotion on your face: The use of Facial Keypoint Detection to preserve Emotions in Latent Space Editing**|Jingrui He et.al.|[2505.06436](http://arxiv.org/abs/2505.06436)|null|
@@ -2839,6 +2844,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
@@ -3169,6 +3175,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**MutualNeRF: Improve the Performance of NeRF under Limited Samples with Mutual Information Theory**|Zifan Wang et.al.|[2505.11386](http://arxiv.org/abs/2505.11386)|null|
+|**2025-05-16**|**EA-3DGS: Efficient and Adaptive 3D Gaussians with Highly Enhanced Quality for outdoor scenes**|Jianlin Guo et.al.|[2505.10787](http://arxiv.org/abs/2505.10787)|null|
 |**2025-05-15**|**Large-Scale Gaussian Splatting SLAM**|Zhe Xin et.al.|[2505.09915](http://arxiv.org/abs/2505.09915)|null|
 |**2025-05-14**|**Sparse Point Cloud Patches Rendering via Splitting 2D Gaussians**|Ma Changfeng et.al.|[2505.09413](http://arxiv.org/abs/2505.09413)|**[link](https://github.com/murcherful/gaupcrender)**|
 |**2025-05-14**|**FreeDriveRF: Monocular RGB Dynamic NeRF without Poses for Autonomous Driving via Point-Level Dynamic-Static Decoupling**|Yue Wen et.al.|[2505.09406](http://arxiv.org/abs/2505.09406)|null|
@@ -4782,6 +4790,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models**|Lizhi Yang et.al.|[2505.11495](http://arxiv.org/abs/2505.11495)|null|
+|**2025-05-16**|**Automatic Reward Shaping from Confounded Offline Data**|Mingxuan Li et.al.|[2505.11478](http://arxiv.org/abs/2505.11478)|null|
+|**2025-05-16**|**Fractal geometry predicts dynamic differences in structural and functional connectomes**|Anca Radulescu et.al.|[2505.11477](http://arxiv.org/abs/2505.11477)|null|
+|**2025-05-16**|**CRISP: Clustering Multi-Vector Representations for Denoising and Pruning**|João Veneroso et.al.|[2505.11471](http://arxiv.org/abs/2505.11471)|null|
+|**2025-05-16**|**No Gold Standard, No Problem: Reference-Free Evaluation of Taxonomies**|Pascal Wullschleger et.al.|[2505.11470](http://arxiv.org/abs/2505.11470)|null|
+|**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462](http://arxiv.org/abs/2505.11462)|null|
+|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455](http://arxiv.org/abs/2505.11455)|null|
+|**2025-05-16**|**HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation**|Shaina Raza et.al.|[2505.11454](http://arxiv.org/abs/2505.11454)|null|
+|**2025-05-16**|**Coherent Spectroscopic Probes of Topology: A Velocity-Gauge Perspective**|Eric R Bittner et.al.|[2505.11450](http://arxiv.org/abs/2505.11450)|null|
+|**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
 |**2025-05-15**|**T2A-Feedback: Improving Basic Capabilities of Text-to-Audio Generation via Fine-grained AI Feedback**|Zehan Wang et.al.|[2505.10561](http://arxiv.org/abs/2505.10561)|null|
 |**2025-05-15**|**Real-Time Out-of-Distribution Failure Prevention via Multi-Modal Reasoning**|Milan Ganai et.al.|[2505.10547](http://arxiv.org/abs/2505.10547)|null|
 |**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543](http://arxiv.org/abs/2505.10543)|**[link](https://github.com/ann-w/towards-a-deeper-understanding-of-reasoning-capabilities-in-large-language-models)**|
@@ -6053,6 +6071,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Evolution of granular salty ice analogs for Europa: Sublimation and Irradiation**|Rafael Ottersberg et.al.|[2505.11498](http://arxiv.org/abs/2505.11498)|null|
+|**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
+|**2025-05-16**|**Self-supervised perception for tactile skin covered dexterous hands**|Akash Sharma et.al.|[2505.11420](http://arxiv.org/abs/2505.11420)|null|
+|**2025-05-16**|**Uncertainty quantification with approximate variational learning for wearable photoplethysmography prediction tasks**|Ciaran Bench et.al.|[2505.11412](http://arxiv.org/abs/2505.11412)|null|
+|**2025-05-16**|**On the Interconnections of Calibration, Quantification, and Classifier Accuracy Prediction under Dataset Shift**|Alejandro Moreo et.al.|[2505.11380](http://arxiv.org/abs/2505.11380)|null|
+|**2025-05-16**|**The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework**|Jincheng Huang et.al.|[2505.11335](http://arxiv.org/abs/2505.11335)|null|
+|**2025-05-16**|**MARRS: Masked Autoregressive Unit-based Reaction Synthesis**|Y. B. Wang et.al.|[2505.11334](http://arxiv.org/abs/2505.11334)|null|
+|**2025-05-16**|**Improving Inference-Time Optimisation for Vocal Effects Style Transfer with a Gaussian Prior**|Chin-Yun Yu et.al.|[2505.11315](http://arxiv.org/abs/2505.11315)|null|
+|**2025-05-16**|**A Step towards Interpretable Multimodal AI Models with MultiFIX**|Mafalda Malafaia et.al.|[2505.11262](http://arxiv.org/abs/2505.11262)|null|
+|**2025-05-16**|**Concept Drift Guided LayerNorm Tuning for Efficient Multimodal Metaphor Identification**|Wenhao Qian et.al.|[2505.11237](http://arxiv.org/abs/2505.11237)|**[link](https://github.com/Qianvenh/CDGLT)**|
 |**2025-05-16**|**WeGA: Weakly-Supervised Global-Local Affinity Learning Framework for Lymph Node Metastasis Prediction in Rectal Cancer**|Yifan Gao et.al.|[2505.10502](http://arxiv.org/abs/2505.10502)|null|
 |**2025-05-15**|**HWA-UNETR: Hierarchical Window Aggregate UNETR for 3D Multimodal Gastric Lesion Segmentation**|Jiaming Liang et.al.|[2505.10464](http://arxiv.org/abs/2505.10464)|**[link](https://github.com/jeming-creater/hwa-unetr)**|
 |**2025-05-15**|**Zestings of Hopf Algebras**|Iván Angiono et.al.|[2505.10447](http://arxiv.org/abs/2505.10447)|null|
