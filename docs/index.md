@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -978,7 +978,7 @@ layout: default
 |**2025-05-11**|**Symmetry in Fundamental Parameters of Galaxies on the Star-forming Main Sequence**|Zhicheng He et.al.|[2505.06868](http://arxiv.org/abs/2505.06868)|null|
 |**2025-05-10**|**TPK: Trustworthy Trajectory Prediction Integrating Prior Knowledge For Interpretability and Kinematic Feasibility**|Marius Baden et.al.|[2505.06743](http://arxiv.org/abs/2505.06743)|null|
 |**2025-05-08**|**DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion**|Qitao Zhao et.al.|[2505.05473](http://arxiv.org/abs/2505.05473)|null|
-|**2025-05-07**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
+|**2025-05-20**|**FastMap: Revisiting Dense and Scalable Structure from Motion**|Jiahao Li et.al.|[2505.04612](http://arxiv.org/abs/2505.04612)|null|
 |**2025-05-15**|**Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera**|Siming He et.al.|[2505.03093](http://arxiv.org/abs/2505.03093)|null|
 |**2025-05-03**|**AquaGS: Fast Underwater Scene Reconstruction with SfM-Free Gaussian Splatting**|Junhao Shi et.al.|[2505.01799](http://arxiv.org/abs/2505.01799)|null|
 |**2025-05-03**|**PosePilot: Steering Camera Pose for Generative World Models with Self-supervised Depth**|Bu Jin et.al.|[2505.01729](http://arxiv.org/abs/2505.01729)|null|
@@ -4790,7 +4790,7 @@ layout: default
 |**2025-05-19**|**Insufficient evidence for DMS and DMDS in the atmosphere of K2-18 b. From a joint analysis of JWST NIRISS, NIRSpec, and MIRI observations**|R. Luque et.al.|[2505.13407](http://arxiv.org/abs/2505.13407)|null|
 |**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
 |**2025-05-19**|**R3: Robust Rubric-Agnostic Reward Models**|David Anugraha et.al.|[2505.13388](http://arxiv.org/abs/2505.13388)|**[link](https://github.com/rubricreward/r3)**|
-|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|**[link](https://github.com/fsoft-aic/competesmoe)**|
 |**2025-05-16**|**Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models**|Lizhi Yang et.al.|[2505.11495](http://arxiv.org/abs/2505.11495)|null|
 |**2025-05-16**|**Automatic Reward Shaping from Confounded Offline Data**|Mingxuan Li et.al.|[2505.11478](http://arxiv.org/abs/2505.11478)|null|
 |**2025-05-16**|**Fractal geometry predicts dynamic differences in structural and functional connectomes**|Anca Radulescu et.al.|[2505.11477](http://arxiv.org/abs/2505.11477)|null|
@@ -6076,7 +6076,7 @@ layout: default
 |**2025-05-19**|**GUARD: Generation-time LLM Unlearning via Adaptive Restriction and Detection**|Zhijie Deng et.al.|[2505.13312](http://arxiv.org/abs/2505.13312)|null|
 |**2025-05-19**|**Inflight calibration of SRG/ART-XC point spread function at large off-axis angles**|R. Krivonos et.al.|[2505.13296](http://arxiv.org/abs/2505.13296)|null|
 |**2025-05-19**|**Calibration-free single-frame super-resolution fluorescence microscopy**|Anežka Dostálová et.al.|[2505.13293](http://arxiv.org/abs/2505.13293)|null|
-|**2025-05-19**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
+|**2025-05-20**|**Event-Driven Dynamic Scene Depth Completion**|Zhiqiang Yan et.al.|[2505.13279](http://arxiv.org/abs/2505.13279)|null|
 |**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266](http://arxiv.org/abs/2505.13266)|null|
 |**2025-05-19**|**Unlocking the Potential of Difficulty Prior in RL-based Multimodal Reasoning**|Mingrui Chen et.al.|[2505.13261](http://arxiv.org/abs/2505.13261)|null|
 |**2025-05-19**|**Information Science Principles of Machine Learning: A Causal Chain Meta-Framework Based on Formalized Information Mapping**|Jianfeng Xu et.al.|[2505.13182](http://arxiv.org/abs/2505.13182)|null|
