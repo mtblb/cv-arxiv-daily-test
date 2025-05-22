@@ -984,6 +984,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-18**|**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**|Dong Yang et.al.|[2505.12226](http://arxiv.org/abs/2505.12226)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-13**|**Unveiling the Best Practices for Applying Speech Foundation Models to Speech Intelligibility Prediction for Hearing-Impaired People**|Haoshuai Zhou et.al.|[2505.08215](http://arxiv.org/abs/2505.08215)|null|
@@ -4807,6 +4808,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering**|Hwan Chang et.al.|[2505.15805](http://arxiv.org/abs/2505.15805)|null|
+|**2025-05-21**|**Long-Form Information Alignment Evaluation Beyond Atomic Facts**|Danna Zheng et.al.|[2505.15792](http://arxiv.org/abs/2505.15792)|null|
+|**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
+|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747](http://arxiv.org/abs/2505.15747)|null|
+|**2025-05-21**|**Alignment Under Pressure: The Case for Informed Adversaries When Evaluating LLM Defenses**|Xiaoxue Yang et.al.|[2505.15738](http://arxiv.org/abs/2505.15738)|null|
+|**2025-05-21**|**RUSplatting: Robust 3D Gaussian Splatting for Sparse-View Underwater Scene Reconstruction**|Zhuodong Jiang et.al.|[2505.15737](http://arxiv.org/abs/2505.15737)|null|
+|**2025-05-21**|**A systematic review of sample size determination in Bayesian randomized clinical trials: full Bayesian methods are rarely used**|Yanara Marks et.al.|[2505.15735](http://arxiv.org/abs/2505.15735)|null|
+|**2025-05-21**|**Distributionally Robust Planning of Hydrogen-Electrical Microgrids for Sea Islands**|Yuchen Dong et.al.|[2505.15733](http://arxiv.org/abs/2505.15733)|null|
+|**2025-05-21**|**iBitter-Stack: A Multi-Representation Ensemble Learning Model for Accurate Bitter Peptide Identification**|Sarfraz Ahmad et.al.|[2505.15730](http://arxiv.org/abs/2505.15730)|null|
+|**2025-05-21**|**VocalBench: Benchmarking the Vocal Conversational Abilities for Speech Interaction Models**|Heyang Liu et.al.|[2505.15727](http://arxiv.org/abs/2505.15727)|null|
 |**2025-05-20**|**A JWST View of the Overmassive Black Hole in NGC 4486B**|Behzad Tahmasebzadeh et.al.|[2505.14676](http://arxiv.org/abs/2505.14676)|null|
 |**2025-05-20**|**Semi-parametric efficient estimation of small genetic effects in large-scale population cohorts**|Olivier Labayle et.al.|[2505.14675](http://arxiv.org/abs/2505.14675)|null|
 |**2025-05-20**|**Training-Free Watermarking for Autoregressive Image Generation**|Yu Tong et.al.|[2505.14673](http://arxiv.org/abs/2505.14673)|null|
@@ -6108,6 +6119,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**|Taehoon Kim et.al.|[2505.15798](http://arxiv.org/abs/2505.15798)|null|
+|**2025-05-21**|**Privacy-Preserving Conformal Prediction Under Local Differential Privacy**|Coby Penso et.al.|[2505.15721](http://arxiv.org/abs/2505.15721)|null|
+|**2025-05-21**|**Enhancing Monte Carlo Dropout Performance for Uncertainty Quantification**|Hamzeh Asgharnezhad et.al.|[2505.15671](http://arxiv.org/abs/2505.15671)|null|
+|**2025-05-21**|**Efficient and Direct Duplex Modeling for Speech-to-Speech Language Model**|Ke Hu et.al.|[2505.15670](http://arxiv.org/abs/2505.15670)|null|
+|**2025-05-21**|**Guidelines for the Quality Assessment of Energy-Aware NAS Benchmarks**|Nick Kocher et.al.|[2505.15631](http://arxiv.org/abs/2505.15631)|null|
+|**2025-05-21**|**Modular Jump Gaussian Processes**|Anna R. Flowers et.al.|[2505.15557](http://arxiv.org/abs/2505.15557)|null|
+|**2025-05-21**|**Deep Learning Enabled Segmentation, Classification and Risk Assessment of Cervical Cancer**|Abdul Samad Shaik et.al.|[2505.15505](http://arxiv.org/abs/2505.15505)|null|
+|**2025-05-21**|**Spectral-Aware Global Fusion for RGB-Thermal Semantic Segmentation**|Ce Zhang et.al.|[2505.15491](http://arxiv.org/abs/2505.15491)|null|
+|**2025-05-21**|**AdUE: Improving uncertainty estimation head for LoRA adapters in LLMs**|Artem Zabolotnyi et.al.|[2505.15443](http://arxiv.org/abs/2505.15443)|null|
+|**2025-05-21**|**Adaptive Temperature Scaling with Conformal Prediction**|Nikita Kotelevskii et.al.|[2505.15437](http://arxiv.org/abs/2505.15437)|null|
 |**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535](http://arxiv.org/abs/2505.14535)|null|
 |**2025-05-20**|**Credible Sets of Phylogenetic Tree Topology Distributions**|Jonathan Klawitter et.al.|[2505.14532](http://arxiv.org/abs/2505.14532)|null|
 |**2025-05-20**|**Interpretable Dual-Stream Learning for Local Wind Hazard Prediction in Vulnerable Communities**|Mahmuda Akhter Nishu et.al.|[2505.14522](http://arxiv.org/abs/2505.14522)|null|
