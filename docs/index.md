@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576](http://arxiv.org/abs/2505.17576)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
 |**2025-05-20**|**A Methodological Framework for Measuring Spatial Labeling Similarity**|Yihang Du et.al.|[2505.14128](http://arxiv.org/abs/2505.14128)|**[link](https://github.com/yihdu/slam)**|
 |**2025-05-22**|**Place Recognition: A Comprehensive Review, Current Challenges and Future Directions**|Zhenyu Li et.al.|[2505.14068](http://arxiv.org/abs/2505.14068)|**[link](https://github.com/cv4ra/sota-place-recognitioner)**|
@@ -973,6 +974,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**Corporate Needs You to Find the Difference: Revisiting Submodular and Supermodular Ratio Optimization Problems**|Elfarouk Harb et.al.|[2505.17443](http://arxiv.org/abs/2505.17443)|null|
 |**2025-05-22**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
 |**2025-05-18**|**Shallow Flow Matching for Coarse-to-Fine Text-to-Speech Synthesis**|Dong Yang et.al.|[2505.12226](http://arxiv.org/abs/2505.12226)|null|
@@ -1381,6 +1384,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
+|**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576](http://arxiv.org/abs/2505.17576)|null|
 |**2025-05-22**|**TAT-VPR: Ternary Adaptive Transformer for Dynamic and Efficient Visual Place Recognition**|Oliver Grainge et.al.|[2505.16447](http://arxiv.org/abs/2505.16447)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
 |**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
@@ -2846,6 +2852,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-16**|**Multi-view dense image matching with similarity learning and geometry priors**|Mohamed Ali Chebbi et.al.|[2505.11264](http://arxiv.org/abs/2505.11264)|null|
 |**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
@@ -4792,6 +4799,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Lost in the Haystack: Smaller Needles are More Difficult for LLMs to Find**|Owen Bianchi et.al.|[2505.18148](http://arxiv.org/abs/2505.18148)|null|
+|**2025-05-23**|**Embracing Contradiction: Theoretical Inconsistency Will Not Impede the Road of Building Responsible AI Systems**|Gordon Dai et.al.|[2505.18139](http://arxiv.org/abs/2505.18139)|null|
+|**2025-05-23**|**Reward Model Overoptimisation in Iterated RLHF**|Lorenz Wolf et.al.|[2505.18126](http://arxiv.org/abs/2505.18126)|null|
+|**2025-05-23**|**Watch and Listen: Understanding Audio-Visual-Speech Moments with Multimodal LLM**|Zinuo Li et.al.|[2505.18110](http://arxiv.org/abs/2505.18110)|null|
+|**2025-05-23**|**Towards more transferable adversarial attack in black-box manner**|Chun Tong Lei et.al.|[2505.18097](http://arxiv.org/abs/2505.18097)|null|
+|**2025-05-23**|**Early-Exit Graph Neural Networks**|Andrea Giuseppe Di Francesco et.al.|[2505.18088](http://arxiv.org/abs/2505.18088)|null|
+|**2025-05-23**|**AFD-STA: Adaptive Filtering Denoising with Spatiotemporal Attention for Chaotic System Prediction**|Chunlin Gong et.al.|[2505.18080](http://arxiv.org/abs/2505.18080)|null|
+|**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
+|**2025-05-23**|**Posted Pricing and Competition in Large Markets**|José Correa et.al.|[2505.18061](http://arxiv.org/abs/2505.18061)|null|
+|**2025-05-23**|**FDBPL: Faster Distillation-Based Prompt Learning for Region-Aware Vision-Language Models Adaptation**|Zherui Zhang et.al.|[2505.18053](http://arxiv.org/abs/2505.18053)|null|
 |**2025-05-22**|**Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO**|Chengzhuo Tong et.al.|[2505.17017](http://arxiv.org/abs/2505.17017)|**[link](https://github.com/ziyuguo99/image-generation-cot)**|
 |**2025-05-22**|**Interactive Post-Training for Vision-Language-Action Models**|Shuhan Tan et.al.|[2505.17016](http://arxiv.org/abs/2505.17016)|null|
 |**2025-05-22**|**Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models**|Runsen Xu et.al.|[2505.17015](http://arxiv.org/abs/2505.17015)|null|
@@ -6111,6 +6128,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Graph-Linguistic Fusion: Using Language Models for Wikidata Vandalism Detection**|Mykola Trokhymovych et.al.|[2505.18136](http://arxiv.org/abs/2505.18136)|null|
+|**2025-05-23**|**AFD-STA: Adaptive Filtering Denoising with Spatiotemporal Attention for Chaotic System Prediction**|Chunlin Gong et.al.|[2505.18080](http://arxiv.org/abs/2505.18080)|null|
+|**2025-05-23**|**Low energy calibration in DUNE far detector prototypes**|Emile Lavaut et.al.|[2505.18073](http://arxiv.org/abs/2505.18073)|null|
+|**2025-05-23**|**A Foundation Model Framework for Multi-View MRI Classification of Extramural Vascular Invasion and Mesorectal Fascia Invasion in Rectal Cancer**|Yumeng Zhang et.al.|[2505.18058](http://arxiv.org/abs/2505.18058)|null|
+|**2025-05-23**|**SpikeGen: Generative Framework for Visual Spike Stream Processing**|Gaole Dai et.al.|[2505.18049](http://arxiv.org/abs/2505.18049)|null|
+|**2025-05-23**|**Empathic network learning for multi-expert emergency decision-making under incomplete and inconsistent information**|Simin Shen et.al.|[2505.18009](http://arxiv.org/abs/2505.18009)|null|
+|**2025-05-23**|**Outcome-based Reinforcement Learning to Predict the Future**|Benjamin Turtel et.al.|[2505.17989](http://arxiv.org/abs/2505.17989)|null|
+|**2025-05-23**|**Simultaneous amplification and shaping of excimer lasers using Stimulated Brillouin Scattering in the strongly damped limit**|Jihoon Kim et.al.|[2505.17956](http://arxiv.org/abs/2505.17956)|null|
+|**2025-05-23**|**SplatCo: Structure-View Collaborative Gaussian Splatting for Detail-Preserving Rendering of Large-Scale Unbounded Scenes**|Haihong Xiao et.al.|[2505.17951](http://arxiv.org/abs/2505.17951)|null|
+|**2025-05-23**|**Predicting Length of Stay in Neurological ICU Patients Using Classical Machine Learning and Neural Network Models: A Benchmark Study on MIMIC-IV**|Alexander Gabitashvili et.al.|[2505.17929](http://arxiv.org/abs/2505.17929)|null|
 |**2025-05-22**|**PAEFF: Precise Alignment and Enhanced Gated Feature Fusion for Face-Voice Association**|Abdul Hannan et.al.|[2505.17002](http://arxiv.org/abs/2505.17002)|**[link](https://github.com/hannabdul/paeff)**|
 |**2025-05-23**|**FoMoH: A clinically meaningful foundation model evaluation for structured electronic health records**|Chao Pang et.al.|[2505.16941](http://arxiv.org/abs/2505.16941)|**[link](https://github.com/reAIM-Lab/ehr_foundation_model_benchmark)**|
 |**2025-05-22**|**Hilbert space methods for approximating multi-output latent variable Gaussian processes**|Soham Mukherjee et.al.|[2505.16919](http://arxiv.org/abs/2505.16919)|null|
