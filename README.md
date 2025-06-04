@@ -24,6 +24,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
+|**2025-06-03**|**Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**|Stefan Orf et.al.|[2506.02932](http://arxiv.org/abs/2506.02932)|null|
+|**2025-06-03**|**VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians**|Pengchong Hu et.al.|[2506.02741](http://arxiv.org/abs/2506.02741)|null|
+|**2025-06-03**|**GeneA-SLAM2: Dynamic SLAM with AutoEncoder-Preprocessed Genetic Keypoints Resampling and Depth Variance-Guided Dynamic Region Removal**|Shufan Qing et.al.|[2506.02736](http://arxiv.org/abs/2506.02736)|**[link](https://github.com/qingshufan/GeneA-SLAM2)**|
+|**2025-06-03**|**Olfactory Inertial Odometry: Methodology for Effective Robot Navigation by Scent**|Kordel K. France et.al.|[2506.02373](http://arxiv.org/abs/2506.02373)|null|
+|**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|null|
 |**2025-05-30**|**Black-box Adversarial Attacks on CNN-based SLAM Algorithms**|Maria Rafaela Gkeka et.al.|[2505.24654](http://arxiv.org/abs/2505.24654)|null|
 |**2025-05-28**|**Semantic Exploration and Dense Mapping of Complex Environments using Ground Robots Equipped with LiDAR and Panoramic Camera**|Xiaoyang Zhan et.al.|[2505.22880](http://arxiv.org/abs/2505.22880)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
@@ -994,6 +1000,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
 |**2025-06-03**|**Improving Multilingual Speech Models on ML-SUPERB 2.0: Fine-tuning with Data Augmentation and LID-Aware CTC**|Qingzheng Wang et.al.|[2505.24200](http://arxiv.org/abs/2505.24200)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
 |**2025-05-30**|**FAMA: The First Large-Scale Open-Science Speech Foundation Model for English and Italian**|Sara Papi et.al.|[2505.22759](http://arxiv.org/abs/2505.22759)|null|
@@ -1417,6 +1424,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
+|**2025-06-01**|**Quantization-based Bounds on the Wasserstein Metric**|Jonathan Bobrutsky et.al.|[2506.00976](http://arxiv.org/abs/2506.00976)|null|
 |**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
@@ -3241,6 +3250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083](http://arxiv.org/abs/2506.00083)|null|
 |**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158](http://arxiv.org/abs/2505.23158)|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441](http://arxiv.org/abs/2505.22441)|null|
@@ -4872,6 +4882,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke et.al.|[2506.03146](http://arxiv.org/abs/2506.03146)|null|
+|**2025-06-03**|**Native-Resolution Image Synthesis**|Zidong Wang et.al.|[2506.03131](http://arxiv.org/abs/2506.03131)|null|
+|**2025-06-03**|**Self-Dual Electrodynamics via the Characteristic Method: Relativistic and Carrollian Perspectives**|Bin Chen et.al.|[2506.03129](http://arxiv.org/abs/2506.03129)|null|
+|**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
+|**2025-06-03**|**Explicitly Modeling Subcortical Vision with a Neuro-Inspired Front-End Improves CNN Robustness**|Lucas Piper et.al.|[2506.03089](http://arxiv.org/abs/2506.03089)|null|
+|**2025-06-03**|**Torsion in Persistent Homology and Neural Networks**|Maria Walch et.al.|[2506.03049](http://arxiv.org/abs/2506.03049)|null|
+|**2025-06-03**|**Measurement incompatibility and quantum steering via linear programming**|Lucas E. A. Porto et.al.|[2506.03045](http://arxiv.org/abs/2506.03045)|null|
+|**2025-06-03**|**On the Benefits of Accelerated Optimization in Robust and Private Estimation**|Laurentiu Andrei Marchis et.al.|[2506.03044](http://arxiv.org/abs/2506.03044)|null|
+|**2025-06-03**|**Towards Analyzing and Understanding the Limitations of VAPO: A Theoretical Perspective**|Jintian Shao et.al.|[2506.03038](http://arxiv.org/abs/2506.03038)|null|
+|**2025-06-03**|**TDCOSMO 2025: Cosmological constraints from strong lensing time delays**|Simon Birrer et.al.|[2506.03023](http://arxiv.org/abs/2506.03023)|null|
 |**2025-05-30**|**Open CaptchaWorld: A Comprehensive Web-based Platform for Testing and Benchmarking Multimodal LLM Agents**|Yaxin Luo et.al.|[2505.24878](http://arxiv.org/abs/2505.24878)|null|
 |**2025-05-30**|**TalkingHeadBench: A Multi-Modal Benchmark & Analysis of Talking-Head DeepFake Detection**|Xinqi Xiong et.al.|[2505.24866](http://arxiv.org/abs/2505.24866)|null|
 |**2025-05-30**|**Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data**|Douwe den Blanken et.al.|[2505.24852](http://arxiv.org/abs/2505.24852)|null|
@@ -6253,6 +6273,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**Controllable Human-centric Keyframe Interpolation with Generative Prior**|Zujin Guo et.al.|[2506.03119](http://arxiv.org/abs/2506.03119)|null|
+|**2025-06-03**|**FuseLIP: Multimodal Embeddings via Early Fusion of Discrete Tokens**|Christian Schlarmann et.al.|[2506.03096](http://arxiv.org/abs/2506.03096)|null|
+|**2025-06-03**|**Dynamic Programming Techniques for Enhancing Cognitive Representation in Knowledge Tracing**|Lixiang Xu et.al.|[2506.02949](http://arxiv.org/abs/2506.02949)|null|
+|**2025-06-03**|**MMM4Rec: An Transfer-Efficient Framework for Multi-modal Sequential Recommendation**|Hao Fan et.al.|[2506.02916](http://arxiv.org/abs/2506.02916)|null|
+|**2025-06-03**|**Performance of the image persistence model for Euclid infrared detectors**|B. Kubik et.al.|[2506.02775](http://arxiv.org/abs/2506.02775)|null|
+|**2025-06-03**|**Homogeneous Stellar Atmospheric Parameters and 22 Elemental Abundances for FGK Stars Derived From LAMOST Low-resolution Spectra with DD-Payne**|Meng Zhang et.al.|[2506.02763](http://arxiv.org/abs/2506.02763)|null|
+|**2025-06-03**|**Investigating Mask-aware Prototype Learning for Tabular Anomaly Detection**|Ruiying Lu et.al.|[2506.02757](http://arxiv.org/abs/2506.02757)|null|
+|**2025-06-03**|**Solving Inverse Problems with FLAIR**|Julius Erbach et.al.|[2506.02680](http://arxiv.org/abs/2506.02680)|null|
+|**2025-06-03**|**Cross-attention and Self-attention for Audio-visual Speaker Diarization in MISP-Meeting Challenge**|Zhaoyang Li et.al.|[2506.02621](http://arxiv.org/abs/2506.02621)|null|
+|**2025-06-03**|**BEVCALIB: LiDAR-Camera Calibration via Geometry-Guided Bird's-Eye View Representations**|Weiduo Yuan et.al.|[2506.02587](http://arxiv.org/abs/2506.02587)|null|
 |**2025-05-30**|**MetaFaith: Faithful Natural Language Uncertainty Expression in LLMs**|Gabrielle Kaili-May Liu et.al.|[2505.24858](http://arxiv.org/abs/2505.24858)|null|
 |**2025-05-30**|**Practical primary thermometry via alkali-metal-vapour Doppler broadening**|Nicola Agnew et.al.|[2505.24854](http://arxiv.org/abs/2505.24854)|null|
 |**2025-05-30**|**Zero-Shot Chinese Character Recognition with Hierarchical Multi-Granularity Image-Text Aligning**|Yinglian Zhu et.al.|[2505.24837](http://arxiv.org/abs/2505.24837)|null|
