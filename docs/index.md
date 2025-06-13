@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6349,7 +6349,7 @@ layout: default
 |**2025-06-11**|**XSPECT on-board XPoSat: Calibration and First Results**|Rwitika Chatterjee et.al.|[2506.09918](http://arxiv.org/abs/2506.09918)|null|
 |**2025-06-11**|**CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**|Tao Liu et.al.|[2506.09897](http://arxiv.org/abs/2506.09897)|null|
 |**2025-06-11**|**DynaSplat: Dynamic-Static Gaussian Splatting with Hierarchical Motion Decomposition for Scene Reconstruction**|Junli Deng et.al.|[2506.09836](http://arxiv.org/abs/2506.09836)|null|
-|**2025-06-11**|**MMME: A Spontaneous Multi-Modal Micro-Expression Dataset Enabling Visual-Physiological Fusion**|Chuang Maa et.al.|[2506.09834](http://arxiv.org/abs/2506.09834)|null|
+|**2025-06-12**|**MMME: A Spontaneous Multi-Modal Micro-Expression Dataset Enabling Visual-Physiological Fusion**|Chuang Ma et.al.|[2506.09834](http://arxiv.org/abs/2506.09834)|null|
 |**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
 |**2025-06-11**|**Do LLMs Give Psychometrically Plausible Responses in Educational Assessments?**|Andreas Säuberli et.al.|[2506.09796](http://arxiv.org/abs/2506.09796)|null|
 |**2025-06-11**|**Q-SAM2: Accurate Quantization for Segment Anything Model 2**|Nicola Farronato et.al.|[2506.09782](http://arxiv.org/abs/2506.09782)|null|
