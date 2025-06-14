@@ -2951,7 +2951,7 @@
 |---|---|---|---|---|
 |**2025-06-12**|**RealKeyMorph: Keypoints in Real-world Coordinates for Resolution-agnostic Image Registration**|Mina C. Moghadam et.al.|[2506.10344](http://arxiv.org/abs/2506.10344)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
-|**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|null|
+|**2025-06-11**|**ScaleLSD: Scalable Deep Line Segment Detection Streamlined**|Zeran Ke et.al.|[2506.09369](http://arxiv.org/abs/2506.09369)|**[link](https://github.com/ant-research/scalelsd)**|
 |**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
@@ -4937,7 +4937,7 @@
 |**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
 |**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
 |**2025-06-12**|**GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**|Ning Gao et.al.|[2506.10966](http://arxiv.org/abs/2506.10966)|null|
-|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|null|
+|**2025-06-12**|**Monitoring Decomposition Attacks in LLMs with Lightweight Sequential Monitors**|Chen Yueh-Han et.al.|[2506.10949](http://arxiv.org/abs/2506.10949)|**[link](https://github.com/yuehhanchen/monitoring-decomposition-attack)**|
 |**2025-06-12**|**Agentic Semantic Control for Autonomous Wireless Space Networks: Extending Space-O-RAN with MCP-Driven Distributed Intelligence**|Eduardo Baena et.al.|[2506.10925](http://arxiv.org/abs/2506.10925)|null|
 |**2025-06-12**|**Robustly Improving LLM Fairness in Realistic Settings via Interpretability**|Adam Karvonen et.al.|[2506.10922](http://arxiv.org/abs/2506.10922)|null|
 |**2025-06-12**|**Lattice Climber Attack: Adversarial attacks for randomized mixtures of classifiers**|Lucas Gnecco-Heredia et.al.|[2506.10888](http://arxiv.org/abs/2506.10888)|null|
