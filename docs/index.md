@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6368,8 +6368,8 @@ layout: default
 |**2025-06-12**|**In-Hand Object Pose Estimation via Visual-Tactile Fusion**|Felix Nonnengießer et.al.|[2506.10787](http://arxiv.org/abs/2506.10787)|null|
 |**2025-06-12**|**Different Questions, Different Models: Fine-Grained Evaluation of Uncertainty and Calibration in Clinical QA with LLMs**|Alberto Testoni et.al.|[2506.10769](http://arxiv.org/abs/2506.10769)|null|
 |**2025-06-12**|**Strömgren photometric metallicity map of the Magellanic Cloud stars using Gaia DR3--XP spectra**|Abinaya O. Omkumar et.al.|[2506.10749](http://arxiv.org/abs/2506.10749)|null|
-|**2025-06-12**|**Precision phenomenology at multi-TeV muon colliders**|Stefano Frixione et.al.|[2506.10733](http://arxiv.org/abs/2506.10733)|null|
-|**2025-06-12**|**Double neutral-current corrections to NLO electroweak leptonic cross sections**|Stefano Frixione et.al.|[2506.10732](http://arxiv.org/abs/2506.10732)|null|
+|**2025-06-13**|**Precision phenomenology at multi-TeV muon colliders**|Stefano Frixione et.al.|[2506.10733](http://arxiv.org/abs/2506.10733)|null|
+|**2025-06-13**|**Double neutral-current corrections to NLO electroweak leptonic cross sections**|Stefano Frixione et.al.|[2506.10732](http://arxiv.org/abs/2506.10732)|null|
 |**2025-06-11**|**Large Language Models for Toxic Language Detection in Low-Resource Balkan Languages**|Amel Muminovic et.al.|[2506.09992](http://arxiv.org/abs/2506.09992)|null|
 |**2025-06-11**|**XSPECT on-board XPoSat: Calibration and First Results**|Rwitika Chatterjee et.al.|[2506.09918](http://arxiv.org/abs/2506.09918)|null|
 |**2025-06-11**|**CEM-FBGTinyDet: Context-Enhanced Foreground Balance with Gradient Tuning for tiny Objects**|Tao Liu et.al.|[2506.09897](http://arxiv.org/abs/2506.09897)|null|
