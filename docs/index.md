@@ -1433,6 +1433,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Towards a general-purpose foundation model for fMRI analysis**|Cheng Wang et.al.|[2506.11167](http://arxiv.org/abs/2506.11167)|null|
 |**2025-06-11**|**Improving Personalized Search with Regularized Low-Rank Parameter Updates**|Fiona Ryan et.al.|[2506.10182](http://arxiv.org/abs/2506.10182)|null|
 |**2025-06-10**|**Safeguarding Multimodal Knowledge Copyright in the RAG-as-a-Service Environment**|Tianyu Chen et.al.|[2506.10030](http://arxiv.org/abs/2506.10030)|null|
 |**2025-06-11**|**Hierarchical Image Matching for UAV Absolute Visual Localization via Semantic and Structural Constraints**|Xiangkai Zhang et.al.|[2506.09748](http://arxiv.org/abs/2506.09748)|null|
@@ -4911,6 +4912,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**SIMSHIFT: A Benchmark for Adapting Neural Surrogates to Distribution Shifts**|Paul Setinek et.al.|[2506.12007](http://arxiv.org/abs/2506.12007)|null|
+|**2025-06-13**|**Robustness of Floquet topological phase at room temperature: a first-principles dynamics study**|Ruiyi Zhou et.al.|[2506.12005](http://arxiv.org/abs/2506.12005)|null|
+|**2025-06-13**|**Compression Aware Certified Training**|Changming Xu et.al.|[2506.11992](http://arxiv.org/abs/2506.11992)|null|
+|**2025-06-13**|**Self-Regulating Cars: Automating Traffic Control in Free Flow Road Networks**|Ankit Bhardwaj et.al.|[2506.11973](http://arxiv.org/abs/2506.11973)|null|
+|**2025-06-13**|**A Robust Local Fréchet Regression Using Unbalanced Neural Optimal Transport with Applications to Dynamic Single-cell Genomics Data**|Binghao Yan et.al.|[2506.11969](http://arxiv.org/abs/2506.11969)|null|
+|**2025-06-13**|**Universal cooling of quantum systems via randomized measurements**|Josias Langbehn et.al.|[2506.11964](http://arxiv.org/abs/2506.11964)|null|
+|**2025-06-13**|**Analysis of BDDC preconditioners for non-conforming polytopal hybrid discretisation methods**|Santiago Badia et.al.|[2506.11956](http://arxiv.org/abs/2506.11956)|null|
+|**2025-06-13**|**Improving Large Language Model Safety with Contrastive Representation Learning**|Samuel Simko et.al.|[2506.11938](http://arxiv.org/abs/2506.11938)|null|
+|**2025-06-13**|**Aligned Novel View Image and Geometry Synthesis via Cross-modal Attention Instillation**|Min-Seop Kwak et.al.|[2506.11924](http://arxiv.org/abs/2506.11924)|null|
+|**2025-06-13**|**Nanoscale Magnetic Resonance Imaging and Control of a Strongly Interacting Dipolar System**|Piotr Put et.al.|[2506.11920](http://arxiv.org/abs/2506.11920)|null|
 |**2025-06-12**|**QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction**|Sicheng Zuo et.al.|[2506.10977](http://arxiv.org/abs/2506.10977)|null|
 |**2025-06-12**|**AutoMind: Adaptive Knowledgeable Agent for Automated Data Science**|Yixin Ou et.al.|[2506.10974](http://arxiv.org/abs/2506.10974)|null|
 |**2025-06-12**|**Farseer: A Refined Scaling Law in Large Language Models**|Houyi Li et.al.|[2506.10972](http://arxiv.org/abs/2506.10972)|null|
@@ -6360,6 +6371,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015](http://arxiv.org/abs/2506.12015)|null|
+|**2025-06-13**|**Comparison of schemes for highly loss tolerant photonic fusion based quantum computing**|Sara Bartolucci et.al.|[2506.11975](http://arxiv.org/abs/2506.11975)|null|
+|**2025-06-13**|**A visco-plastic constitutive model for accurate densification and shape predictions in powder metallurgy hot isostatic pressing**|Subrato Sarkar et.al.|[2506.11946](http://arxiv.org/abs/2506.11946)|null|
+|**2025-06-13**|**Calibrating baryonic effects in cosmic shear with external data in the LSST era**|Amy Wayland et.al.|[2506.11943](http://arxiv.org/abs/2506.11943)|null|
+|**2025-06-13**|**Surfaces with Klein bottle topology occur in fusion reactor fields**|Christopher Berg Smiet et.al.|[2506.11883](http://arxiv.org/abs/2506.11883)|null|
+|**2025-06-13**|**In Defense of Defensive Forecasting**|Juan Carlos Perdomo et.al.|[2506.11848](http://arxiv.org/abs/2506.11848)|null|
+|**2025-06-13**|**Vision-based Lifting of 2D Object Detections for Automated Driving**|Hendrik Königshof et.al.|[2506.11839](http://arxiv.org/abs/2506.11839)|null|
+|**2025-06-13**|**Radar Ranging Using Rydberg Atomic Homodyne Receiver**|Minze Chen et.al.|[2506.11833](http://arxiv.org/abs/2506.11833)|null|
+|**2025-06-13**|**Abstract Sound Fusion with Unconditioned Inversion Model**|Jing Liu et.al.|[2506.11811](http://arxiv.org/abs/2506.11811)|null|
+|**2025-06-13**|**CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection**|Byeongchan Lee et.al.|[2506.11772](http://arxiv.org/abs/2506.11772)|null|
 |**2025-06-12**|**Nonparametric estimation of an optimal treatment rule with fused randomized trials and missing effect modifiers**|Nicholas Williams et.al.|[2506.10863](http://arxiv.org/abs/2506.10863)|null|
 |**2025-06-12**|**Post-Training Quantization for Video Matting**|Tianrui Zhu et.al.|[2506.10840](http://arxiv.org/abs/2506.10840)|null|
 |**2025-06-12**|**Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches**|Andrea Moglia et.al.|[2506.10825](http://arxiv.org/abs/2506.10825)|null|
