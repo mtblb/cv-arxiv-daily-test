@@ -1451,6 +1451,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
+|**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178](http://arxiv.org/abs/2506.14178)|null|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
 |**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
@@ -4946,6 +4948,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769](http://arxiv.org/abs/2506.14769)|null|
+|**2025-06-17**|**Fully Tunable Strong Spin-Orbit Interactions in Light Hole Germanium Quantum Channels**|Patrick Del Vecchio et.al.|[2506.14759](http://arxiv.org/abs/2506.14759)|null|
+|**2025-06-17**|**Optimizing Length Compression in Large Reasoning Models**|Zhengxiang Cheng et.al.|[2506.14755](http://arxiv.org/abs/2506.14755)|null|
+|**2025-06-17**|**Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation**|Carolina Higuera et.al.|[2506.14754](http://arxiv.org/abs/2506.14754)|null|
+|**2025-06-17**|**Exploring Speaker Diarization with Mixture of Experts**|Gaobin Yang et.al.|[2506.14750](http://arxiv.org/abs/2506.14750)|null|
+|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
+|**2025-06-17**|**Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs**|Ring Team et.al.|[2506.14731](http://arxiv.org/abs/2506.14731)|null|
+|**2025-06-17**|**SkinCells: Sparse Skinning using Voronoi Cells**|Egor Larionov et.al.|[2506.14714](http://arxiv.org/abs/2506.14714)|null|
+|**2025-06-17**|**High-fidelity collisional quantum gates with fermionic atoms**|Petar Bojović et.al.|[2506.14711](http://arxiv.org/abs/2506.14711)|null|
+|**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami et.al.|[2506.14709](http://arxiv.org/abs/2506.14709)|null|
 |**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
 |**2025-06-16**|**UltraZoom: Generating Gigapixel Images from Regular Photos**|Jingwei Ma et.al.|[2506.13756](http://arxiv.org/abs/2506.13756)|null|
 |**2025-06-16**|**Evaluating Large Language Models for Phishing Detection, Self-Consistency, Faithfulness, and Explainability**|Shova Kuikel et.al.|[2506.13746](http://arxiv.org/abs/2506.13746)|null|
@@ -6417,6 +6429,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Deep Learning-Based Prediction of High Explosive Induced Fluid Dynamics**|Francis G. VanGessel et.al.|[2506.14710](http://arxiv.org/abs/2506.14710)|null|
+|**2025-06-17**|**DiFuse-Net: RGB and Dual-Pixel Depth Estimation using Window Bi-directional Parallax Attention and Cross-modal Transfer Learning**|Kunal Swami et.al.|[2506.14709](http://arxiv.org/abs/2506.14709)|null|
+|**2025-06-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2506.14706](http://arxiv.org/abs/2506.14706)|null|
+|**2025-06-17**|**YOLOv11-RGBT: Towards a Comprehensive Single-Stage Multispectral Object Detection Framework**|Dahang Wan et.al.|[2506.14696](http://arxiv.org/abs/2506.14696)|null|
+|**2025-06-17**|**Pricing options on the cryptocurrency futures contracts**|Julia Kończal et.al.|[2506.14614](http://arxiv.org/abs/2506.14614)|null|
+|**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|null|
+|**2025-06-17**|**PoseGRAF: Geometric-Reinforced Adaptive Fusion for Monocular 3D Human Pose Estimation**|Ming Xu et.al.|[2506.14596](http://arxiv.org/abs/2506.14596)|null|
+|**2025-06-17**|**GenerationPrograms: Fine-grained Attribution with Executable Programs**|David Wan et.al.|[2506.14580](http://arxiv.org/abs/2506.14580)|null|
+|**2025-06-17**|**Fabrication of airbridges with gradient exposure**|Yuting Sun et.al.|[2506.14565](http://arxiv.org/abs/2506.14565)|null|
+|**2025-06-17**|**Empirically-Calibrated H100 Node Power Models for Reducing Uncertainty in AI Training Energy Estimation**|Alex C. Newkirk et.al.|[2506.14551](http://arxiv.org/abs/2506.14551)|null|
 |**2025-06-16**|**A Halpha metric for identifying dormant black holes in X-ray transients**|J. Casares et.al.|[2506.13765](http://arxiv.org/abs/2506.13765)|null|
 |**2025-06-16**|**MARCO: Hardware-Aware Neural Architecture Search for Edge Devices with Multi-Agent Reinforcement Learning and Conformal Prediction Filtering**|Arya Fayyazi et.al.|[2506.13755](http://arxiv.org/abs/2506.13755)|null|
 |**2025-06-16**|**Robust Recursive Fusion of Multiresolution Multispectral Images with Location-Aware Neural Networks**|Haoqing Li et.al.|[2506.13733](http://arxiv.org/abs/2506.13733)|null|
