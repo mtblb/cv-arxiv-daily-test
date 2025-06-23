@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3296,7 +3296,7 @@ layout: default
 |**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|**[link](https://github.com/tuallen/speede3dgs)**|
-|**2025-06-16**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
+|**2025-06-20**|**Genesis: Multimodal Driving Scene Generation with Spatio-Temporal and Cross-Modal Consistency**|Xiangyu Guo et.al.|[2506.07497](http://arxiv.org/abs/2506.07497)|null|
 |**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
 |**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
 |**2025-06-06**|**NeurNCD: Novel Class Discovery via Implicit Neural Representation**|Junming Wang et.al.|[2506.06412](http://arxiv.org/abs/2506.06412)|null|
@@ -4941,7 +4941,7 @@ layout: default
 |**2025-06-18**|**CAWR: Corruption-Averse Advantage-Weighted Regression for Robust Policy Optimization**|Ranting Hu et.al.|[2506.15654](http://arxiv.org/abs/2506.15654)|null|
 |**2025-06-18**|**A Machine Learning Framework for Modeling Ensemble Properties of Atomically Disordered Materials**|Zhenyao Fang et.al.|[2506.15652](http://arxiv.org/abs/2506.15652)|null|
 |**2025-06-18**|**Dual-Stage Value-Guided Inference with Margin-Based Reward Adjustment for Fast and Faithful VLM Captioning**|Ankan Deria et.al.|[2506.15649](http://arxiv.org/abs/2506.15649)|null|
-|**2025-06-18**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626](http://arxiv.org/abs/2506.15626)|null|
+|**2025-06-19**|**Federated Learning for MRI-based BrainAGE: a multicenter study on post-stroke functional outcome prediction**|Vincent Roca et.al.|[2506.15626](http://arxiv.org/abs/2506.15626)|null|
 |**2025-06-18**|**GFLC: Graph-based Fairness-aware Label Correction for Fair Classification**|Modar Sulaiman et.al.|[2506.15620](http://arxiv.org/abs/2506.15620)|null|
 |**2025-06-18**|**TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data**|Kentaro Seki et.al.|[2506.15614](http://arxiv.org/abs/2506.15614)|null|
 |**2025-06-17**|**CDP: Towards Robust Autoregressive Visuomotor Policy Learning via Causal Diffusion**|Jiahua Ma et.al.|[2506.14769](http://arxiv.org/abs/2506.14769)|null|
@@ -6428,7 +6428,7 @@ layout: default
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
 |**2025-06-18**|**Statistical post-processing of operational dual-resolution wind-speed ensemble forecasts**|Sándor Baran et.al.|[2506.15578](http://arxiv.org/abs/2506.15578)|null|
 |**2025-06-18**|**DiscRec: Disentangled Semantic-Collaborative Modeling for Generative Recommendation**|Chang Liu et.al.|[2506.15576](http://arxiv.org/abs/2506.15576)|**[link](https://github.com/ten-mao/discrec)**|
-|**2025-06-18**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|
+|**2025-06-20**|**Show-o2: Improved Native Unified Multimodal Models**|Jinheng Xie et.al.|[2506.15564](http://arxiv.org/abs/2506.15564)|**[link](https://github.com/showlab/show-o)**|
 |**2025-06-18**|**RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation**|Xingrui Qin et.al.|[2506.15560](http://arxiv.org/abs/2506.15560)|null|
 |**2025-06-18**|**Tracing the Milky Way: Calibrating chemical ages with high-precision Kepler data**|G. Casali et.al.|[2506.15546](http://arxiv.org/abs/2506.15546)|null|
 |**2025-06-18**|**Real-Time Initialization of Unknown Anchors for UWB-aided Navigation**|Giulio Delama et.al.|[2506.15518](http://arxiv.org/abs/2506.15518)|null|
