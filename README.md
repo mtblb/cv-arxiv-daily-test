@@ -1029,6 +1029,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications**|Genís Castillo Gómez-Raya et.al.|[2506.19491](http://arxiv.org/abs/2506.19491)|null|
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
 |**2025-06-23**|**Room temperature spin injection into commercial VCSELs at non-resonant wavelengths**|Timur Almabetov et.al.|[2506.18376](http://arxiv.org/abs/2506.18376)|null|
 |**2025-06-11**|**OWSM-Biasing: Contextualizing Open Whisper-Style Speech Models for Automatic Speech Recognition with Dynamic Vocabulary**|Yui Sudo et.al.|[2506.09448](http://arxiv.org/abs/2506.09448)|null|
@@ -3322,6 +3323,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**NeRF-based CBCT Reconstruction needs Normalization and Initialization**|Zhuowei Xu et.al.|[2506.19742](http://arxiv.org/abs/2506.19742)|null|
+|**2025-06-24**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
+|**2025-06-24**|**HoliGS: Holistic Gaussian Splatting for Embodied View Synthesis**|Xiaoyuan Wang et.al.|[2506.19291](http://arxiv.org/abs/2506.19291)|null|
 |**2025-06-23**|**MCN-SLAM: Multi-Agent Collaborative Neural SLAM with Hybrid Implicit Neural Scene Representation**|Tianchen Deng et.al.|[2506.18678](http://arxiv.org/abs/2506.18678)|null|
 |**2025-06-23**|**2D Triangle Splatting for Direct Differentiable Mesh Training**|Kaifeng Sheng et.al.|[2506.18575](http://arxiv.org/abs/2506.18575)|null|
 |**2025-06-22**|**Limitations of NERF with pre-trained Vision Features for Few-Shot 3D Reconstruction**|Ankit Sanjyal et.al.|[2506.18208](http://arxiv.org/abs/2506.18208)|null|
@@ -4975,6 +4979,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Look to Locate: Vision-Based Multisensory Navigation with 3-D Digital Maps for GNSS-Challenged Environments**|Ola Elmaghraby et.al.|[2506.19827](http://arxiv.org/abs/2506.19827)|null|
+|**2025-06-24**|**CronusVLA: Transferring Latent Motion Across Time for Multi-Frame Prediction in Manipulation**|Hao Li et.al.|[2506.19816](http://arxiv.org/abs/2506.19816)|null|
+|**2025-06-24**|**LLM-Based Social Simulations Require a Boundary**|Zengqing Wu et.al.|[2506.19806](http://arxiv.org/abs/2506.19806)|null|
+|**2025-06-24**|**Collapses in quantum-classical probabilistically checkable proofs and the quantum polynomial hierarchy**|Kartik Anand et.al.|[2506.19792](http://arxiv.org/abs/2506.19792)|null|
+|**2025-06-24**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783](http://arxiv.org/abs/2506.19783)|null|
+|**2025-06-24**|**MDR-DeePC: Model-Inspired Distributionally Robust Data-Enabled Predictive Control**|Shihao Li et.al.|[2506.19744](http://arxiv.org/abs/2506.19744)|null|
+|**2025-06-24**|**An approach to control design for two-level quantum ensemble systems**|Ruikang Liang et.al.|[2506.19740](http://arxiv.org/abs/2506.19740)|null|
+|**2025-06-24**|**Reasoning about Bounded Reasoning**|Shuige Liu et.al.|[2506.19737](http://arxiv.org/abs/2506.19737)|null|
+|**2025-06-24**|**DRIFT: Data Reduction via Informative Feature Transformation- Generalization Begins Before Deep Learning starts**|Ben Keslaki et.al.|[2506.19734](http://arxiv.org/abs/2506.19734)|null|
+|**2025-06-24**|**Geometric-Aware Variational Inference: Robust and Adaptive Regularization with Directional Weight Uncertainty**|Carlos Stein Brito et.al.|[2506.19726](http://arxiv.org/abs/2506.19726)|null|
 |**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883](http://arxiv.org/abs/2506.18883)|null|
 |**2025-06-23**|**A field-level reaction for screened modified gravity**|Daniela Saadeh et.al.|[2506.18876](http://arxiv.org/abs/2506.18876)|null|
 |**2025-06-23**|**Ultra-low damping of the translational motion of a composite graphite particle in a magneto-gravitational trap**|Connor E. Murphy et.al.|[2506.18872](http://arxiv.org/abs/2506.18872)|null|
@@ -6486,6 +6500,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**ScaleCap: Inference-Time Scalable Image Captioning via Dual-Modality Debiasing**|Long Xing et.al.|[2506.19848](http://arxiv.org/abs/2506.19848)|null|
+|**2025-06-24**|**ReactEMG: Zero-Shot, Low-Latency Intent Detection via sEMG**|Runsheng Wang et.al.|[2506.19815](http://arxiv.org/abs/2506.19815)|null|
+|**2025-06-24**|**Singular limits of anisotropic weak solutions to compressible magnetohydrodynamics**|Nicolas Besse et.al.|[2506.19784](http://arxiv.org/abs/2506.19784)|null|
+|**2025-06-24**|**'Mic drop': on estimating the size of sub-mm droplets using a simple condenser microphone**|Avshalom Offner et.al.|[2506.19782](http://arxiv.org/abs/2506.19782)|null|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
+|**2025-06-24**|**Cross-regularization: Adaptive Model Complexity through Validation Gradients**|Carlos Stein Brito et.al.|[2506.19755](http://arxiv.org/abs/2506.19755)|null|
+|**2025-06-24**|**Quantum Resource Theories of Anyonic Entanglement**|Wenhao Ye et.al.|[2506.19735](http://arxiv.org/abs/2506.19735)|null|
+|**2025-06-24**|**Geometric-Aware Variational Inference: Robust and Adaptive Regularization with Directional Weight Uncertainty**|Carlos Stein Brito et.al.|[2506.19726](http://arxiv.org/abs/2506.19726)|null|
+|**2025-06-24**|**When Can We Reuse a Calibration Set for Multiple Conformal Predictions?**|A. A. Balinsky et.al.|[2506.19689](http://arxiv.org/abs/2506.19689)|null|
+|**2025-06-24**|**Electromagnetic and Centrifugal Effects on Plasma Acceleration in the Magnetic Nozzle**|A. I. Smolyakov et.al.|[2506.19647](http://arxiv.org/abs/2506.19647)|null|
 |**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
 |**2025-06-23**|**Counting elliptic curves over $\mathbb{Q}$ with bounded naive height**|Adrian Barquero-Sanchez et.al.|[2506.18874](http://arxiv.org/abs/2506.18874)|null|
 |**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
