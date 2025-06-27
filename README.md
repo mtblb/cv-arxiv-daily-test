@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**EndoFlow-SLAM: Real-Time Endoscopic SLAM with Flow-Constrained Gaussian Splatting**|Taoyu Wu et.al.|[2506.21420](http://arxiv.org/abs/2506.21420)|null|
+|**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077](http://arxiv.org/abs/2506.21077)|null|
 |**2025-06-25**|**SPARK: Graph-Based Online Semantic Integration System for Robot Task Planning**|Mimo Shirasaka et.al.|[2506.20394](http://arxiv.org/abs/2506.20394)|null|
 |**2025-06-25**|**Real-Time Obstacle Avoidance Algorithms for Unmanned Aerial and Ground Vehicles**|Jingwen Wei et.al.|[2506.20311](http://arxiv.org/abs/2506.20311)|null|
 |**2025-06-24**|**Posterior Cramér-Rao Bounds on Localization and Mapping Errors in Distributed MIMO SLAM**|Benjamin J. B. Deutschmann et.al.|[2506.19957](http://arxiv.org/abs/2506.19957)|null|
@@ -1032,6 +1034,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460](http://arxiv.org/abs/2506.21460)|null|
 |**2025-06-24**|**Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications**|Genís Castillo Gómez-Raya et.al.|[2506.19491](http://arxiv.org/abs/2506.19491)|null|
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792](http://arxiv.org/abs/2506.18792)|null|
 |**2025-06-23**|**Room temperature spin injection into commercial VCSELs at non-resonant wavelengths**|Timur Almabetov et.al.|[2506.18376](http://arxiv.org/abs/2506.18376)|null|
@@ -1466,10 +1469,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**|Caoshuo Li et.al.|[2506.21101](http://arxiv.org/abs/2506.21101)|null|
 |**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467](http://arxiv.org/abs/2506.20467)|null|
 |**2025-06-25**|**On the Burstiness of Faces in Set**|Jiong Wang et.al.|[2506.20312](http://arxiv.org/abs/2506.20312)|null|
 |**2025-06-24**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902](http://arxiv.org/abs/2506.18902)|null|
-|**2025-06-24**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
+|**2025-06-26**|**Referring Expression Instance Retrieval and A Strong End-to-End Baseline**|Xiangzhao Hao et.al.|[2506.18246](http://arxiv.org/abs/2506.18246)|null|
 |**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745](http://arxiv.org/abs/2506.16745)|null|
 |**2025-06-19**|**MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**|Chao He et.al.|[2506.16353](http://arxiv.org/abs/2506.16353)|**[link](https://github.com/shuaichaochao/mambahash)**|
 |**2025-06-19**|**Fine-grained Image Retrieval via Dual-Vision Adaptation**|Xin Jiang et.al.|[2506.16273](http://arxiv.org/abs/2506.16273)|null|
@@ -3329,6 +3333,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348](http://arxiv.org/abs/2506.21348)|null|
 |**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638](http://arxiv.org/abs/2506.20638)|null|
 |**2025-06-24**|**NeRF-based CBCT Reconstruction needs Normalization and Initialization**|Zhuowei Xu et.al.|[2506.19742](http://arxiv.org/abs/2506.19742)|null|
 |**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615](http://arxiv.org/abs/2506.19615)|null|
@@ -4986,6 +4991,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
+|**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547](http://arxiv.org/abs/2506.21547)|null|
+|**2025-06-26**|**Maximal Matching Matters: Preventing Representation Collapse for Robust Cross-Modal Retrieval**|Hani Alomari et.al.|[2506.21538](http://arxiv.org/abs/2506.21538)|null|
+|**2025-06-26**|**Robust Alignment via Partial Gromov-Wasserstein Distances**|Xiaoyun Gong et.al.|[2506.21507](http://arxiv.org/abs/2506.21507)|null|
+|**2025-06-26**|**Ad-Hoc Human-AI Coordination Challenge**|Tin Dizdarević et.al.|[2506.21490](http://arxiv.org/abs/2506.21490)|null|
+|**2025-06-26**|**Deciding Robust Instances of an Escape Problem for Dynamical Systems in Euclidean Space**|Eike Neumann et.al.|[2506.21481](http://arxiv.org/abs/2506.21481)|null|
+|**2025-06-26**|**TopK Language Models**|Ryosuke Takahashi et.al.|[2506.21468](http://arxiv.org/abs/2506.21468)|null|
+|**2025-06-26**|**Efficient and Reuseable Cloud Configuration Search Using Discovery Spaces**|Michael Johnston et.al.|[2506.21467](http://arxiv.org/abs/2506.21467)|null|
+|**2025-06-26**|**Spatial Mental Modeling from Limited Views**|Baiqiao Yin et.al.|[2506.21458](http://arxiv.org/abs/2506.21458)|null|
+|**2025-06-26**|**A Comprehensive Dataset for Underground Miner Detection in Diverse Scenario**|Cyrus Addy et.al.|[2506.21451](http://arxiv.org/abs/2506.21451)|null|
 |**2025-06-25**|**MMSearch-R1: Incentivizing LMMs to Search**|Jinming Wu et.al.|[2506.20670](http://arxiv.org/abs/2506.20670)|null|
 |**2025-06-25**|**DemoDiffusion: One-Shot Human Imitation using pre-trained Diffusion Policy**|Sungjae Park et.al.|[2506.20668](http://arxiv.org/abs/2506.20668)|null|
 |**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
@@ -6517,6 +6532,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**SAM4D: Segment Anything in Camera and LiDAR Streams**|Jianyun Xu et.al.|[2506.21547](http://arxiv.org/abs/2506.21547)|null|
+|**2025-06-26**|**Mitigating Hallucination of Large Vision-Language Models via Dynamic Logits Calibration**|Jiahe Chen et.al.|[2506.21509](http://arxiv.org/abs/2506.21509)|null|
+|**2025-06-26**|**Scaling solutions for current-carrying cosmic string networks. II. Biased solutions**|F. C. N. Q. Pimenta et.al.|[2506.21494](http://arxiv.org/abs/2506.21494)|null|
+|**2025-06-26**|**Towards Reliable Detection of Empty Space: Conditional Marked Point Processes for Object Detection**|Tobias J. Riedlinger et.al.|[2506.21486](http://arxiv.org/abs/2506.21486)|null|
+|**2025-06-26**|**Aligning Spoken Dialogue Models from User Interactions**|Anne Wu et.al.|[2506.21463](http://arxiv.org/abs/2506.21463)|null|
+|**2025-06-26**|**Deception Detection in Dyadic Exchanges Using Multimodal Machine Learning: A Study on a Swedish Cohort**|Franco Rugolon et.al.|[2506.21429](http://arxiv.org/abs/2506.21429)|null|
+|**2025-06-26**|**Scalable Bayesian Low-Rank Adaptation of Large Language Models via Stochastic Variational Subspace Inference**|Colin Samplawski et.al.|[2506.21408](http://arxiv.org/abs/2506.21408)|null|
+|**2025-06-26**|**ToosiCubix: Monocular 3D Cuboid Labeling via Vehicle Part Annotations**|Behrooz Nasihatkon et.al.|[2506.21358](http://arxiv.org/abs/2506.21358)|null|
+|**2025-06-26**|**Real-time Terrain Analysis for Off-road Autonomous Vehicles**|Edwina Lewis et.al.|[2506.21347](http://arxiv.org/abs/2506.21347)|null|
+|**2025-06-26**|**Investigating the clumpy star formation in an interacting dwarf irregular galaxy**|Augusto E. Lassen et.al.|[2506.21335](http://arxiv.org/abs/2506.21335)|null|
 |**2025-06-25**|**A Computationally Aware Multi Objective Framework for Camera LiDAR Calibration**|Venkat Karramreddy et.al.|[2506.20636](http://arxiv.org/abs/2506.20636)|null|
 |**2025-06-25**|**SFNet: Fusion of Spatial and Frequency-Domain Features for Remote Sensing Image Forgery Detection**|Ji Qi et.al.|[2506.20599](http://arxiv.org/abs/2506.20599)|null|
 |**2025-06-25**|**Learning-Based Distance Estimation for 360° Single-Sensor Setups**|Yitong Quan et.al.|[2506.20586](http://arxiv.org/abs/2506.20586)|null|
