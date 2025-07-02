@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -6552,7 +6552,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-30**|**Anchoring Stellar Age Indicators: A Cross-Calibration of [C/N] and Gyrochronology Ages via the Age-Velocity-Dispersion Relation**|Yuxi Lu et.al.|[2506.24010](http://arxiv.org/abs/2506.24010)|null|
 |**2025-06-30**|**The Illusion of Progress? A Critical Look at Test-Time Adaptation for Vision-Language Models**|Lijun Sheng et.al.|[2506.24000](http://arxiv.org/abs/2506.24000)|null|
-|**2025-06-30**|**Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**|Yang Dai et.al.|[2506.23940](http://arxiv.org/abs/2506.23940)|null|
+|**2025-07-01**|**Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs**|Yang Dai et.al.|[2506.23940](http://arxiv.org/abs/2506.23940)|null|
 |**2025-06-30**|**Explicit local volatility formula for Cheyette-type interest rate models**|Alexander Gairat et.al.|[2506.23876](http://arxiv.org/abs/2506.23876)|null|
 |**2025-06-30**|**Towards Initialization-free Calibrated Bundle Adjustment**|Carl Olsson et.al.|[2506.23808](http://arxiv.org/abs/2506.23808)|null|
 |**2025-06-30**|**Controllable Reference-Based Real-World Remote Sensing Image Super-Resolution with Generative Diffusion Priors**|Ce Wang et.al.|[2506.23801](http://arxiv.org/abs/2506.23801)|null|
