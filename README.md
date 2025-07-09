@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Cooperative Mapping, Localization, and Beam Management via Multi-Modal SLAM in ISAC Systems**|Hang Que et.al.|[2507.05718](http://arxiv.org/abs/2507.05718)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-06**|**Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars**|Doumegna Mawuto Koudjo Felix et.al.|[2507.04321](http://arxiv.org/abs/2507.04321)|null|
 |**2025-07-05**|**Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM**|Xiaolei Lang et.al.|[2507.04004](http://arxiv.org/abs/2507.04004)|null|
@@ -1485,8 +1486,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
+|**2025-07-08**|**OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval**|Zhiwei Chen et.al.|[2507.05631](http://arxiv.org/abs/2507.05631)|null|
+|**2025-07-07**|**Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model**|Mengyao Xu et.al.|[2507.05513](http://arxiv.org/abs/2507.05513)|null|
 |**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
-|**2025-07-07**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
+|**2025-07-08**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
 |**2025-07-04**|**Query-Based Adaptive Aggregation for Multi-Dataset Joint Training Toward Universal Visual Place Recognition**|Jiuhong Xiao et.al.|[2507.03831](http://arxiv.org/abs/2507.03831)|null|
@@ -3367,6 +3371,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
+|**2025-07-08**|**DreamArt: Generating Interactable Articulated Objects from a Single Image**|Ruijie Lu et.al.|[2507.05763](http://arxiv.org/abs/2507.05763)|null|
 |**2025-07-06**|**A View-consistent Sampling Method for Regularized Training of Neural Radiance Fields**|Aoxiang Fan et.al.|[2507.04408](http://arxiv.org/abs/2507.04408)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
@@ -5033,6 +5039,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Learning to Track Any Points from Human Motion**|Inès Hyeonsu Kim et.al.|[2507.06233](http://arxiv.org/abs/2507.06233)|null|
+|**2025-07-08**|**Deep Learning Optimization of Two-State Pinching Antennas Systems**|Odysseas G. Karagiannidis et.al.|[2507.06222](http://arxiv.org/abs/2507.06222)|null|
+|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
+|**2025-07-08**|**Conservative approximation-based feedforward neural network for WENO schemes**|Kwanghyuk Park et.al.|[2507.06190](http://arxiv.org/abs/2507.06190)|null|
+|**2025-07-08**|**DS@GT at CheckThat! 2025: Detecting Subjectivity via Transfer-Learning and Corrective Data Augmentation**|Maximilian Heil et.al.|[2507.06189](http://arxiv.org/abs/2507.06189)|null|
+|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-08**|**OmniPart: Part-Aware 3D Generation with Semantic Decoupling and Structural Cohesion**|Yunhan Yang et.al.|[2507.06165](http://arxiv.org/abs/2507.06165)|null|
+|**2025-07-08**|**How the Kerr-Cat Qubit Dies-And How to Rescue It**|Othmane Benhayoune-Khadraoui et.al.|[2507.06160](http://arxiv.org/abs/2507.06160)|null|
+|**2025-07-08**|**A Comprehensive MARTINI Coarse-Grained Framework for Phyllosilicate Clay/Polymer Nanocomposites: From Atomistic Validation to Mesoscale Insights**|Ankit Patidar et.al.|[2507.06159](http://arxiv.org/abs/2507.06159)|null|
+|**2025-07-08**|**Hedge Funds on a Swamp: Analyzing Patterns, Vulnerabilities, and Defense Measures in Blockchain Bridges [Experiment, Analysis \& Benchmark]**|Poupak Azad et.al.|[2507.06156](http://arxiv.org/abs/2507.06156)|null|
 |**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
 |**2025-07-07**|**StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling**|Meng Wei et.al.|[2507.05240](http://arxiv.org/abs/2507.05240)|null|
 |**2025-07-07**|**Self-Supervised Real-Time Tracking of Military Vehicles in Low-FPS UAV Footage**|Markiyan Kostiv et.al.|[2507.05229](http://arxiv.org/abs/2507.05229)|null|
@@ -6624,6 +6640,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Prompt-Free Conditional Diffusion for Multi-object Image Augmentation**|Haoyu Wang et.al.|[2507.06146](http://arxiv.org/abs/2507.06146)|null|
+|**2025-07-08**|**Photodesorption of SO2 and SO from UV-irradiated SO2 ices**|Rafael Martín-Doménech et.al.|[2507.06081](http://arxiv.org/abs/2507.06081)|null|
+|**2025-07-08**|**Enhancing Synthetic CT from CBCT via Multimodal Fusion and End-To-End Registration**|Maximilian Tschuchnig et.al.|[2507.06067](http://arxiv.org/abs/2507.06067)|null|
+|**2025-07-08**|**Estimating prevalence with precision and accuracy**|Aime Bienfait Igiraneza et.al.|[2507.06061](http://arxiv.org/abs/2507.06061)|null|
+|**2025-07-08**|**Analysis of RF Sheath-Driven Tungsten Erosion at RF Antenna in the WEST Tokamak**|A. Kumar et.al.|[2507.06059](http://arxiv.org/abs/2507.06059)|null|
+|**2025-07-08**|**Multi-view mid fusion: a universal approach for learning in an HDLSS setting**|Lynn Houthuys et.al.|[2507.06026](http://arxiv.org/abs/2507.06026)|null|
+|**2025-07-08**|**Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS**|Xinyu Wang et.al.|[2507.05999](http://arxiv.org/abs/2507.05999)|null|
+|**2025-07-08**|**Exploring Partial Multi-Label Learning via Integrating Semantic Co-occurrence Knowledge**|Xin Wu et.al.|[2507.05992](http://arxiv.org/abs/2507.05992)|null|
+|**2025-07-08**|**Generalized and Unified Equivalences between Hardness and Pseudoentropy**|Lunjia Hu et.al.|[2507.05972](http://arxiv.org/abs/2507.05972)|null|
+|**2025-07-08**|**V-Associated Production & Vector Boson Fusion as an LHC Signature of CP Violation**|Rodrigo Capucha et.al.|[2507.05942](http://arxiv.org/abs/2507.05942)|null|
 |**2025-07-07**|**NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving**|Qucheng Peng et.al.|[2507.05227](http://arxiv.org/abs/2507.05227)|null|
 |**2025-07-07**|**Extraction of ground-state nuclear deformations from ultra-relativistic heavy-ion collisions: Nuclear structure physics context**|J. Dobaczewski et.al.|[2507.05208](http://arxiv.org/abs/2507.05208)|null|
 |**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189](http://arxiv.org/abs/2507.05189)|null|
