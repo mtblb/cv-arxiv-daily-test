@@ -1478,6 +1478,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
+|**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
+|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
 |**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546](http://arxiv.org/abs/2507.08546)|null|
 |**2025-07-11**|**LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps**|Haitian Wang et.al.|[2507.08420](http://arxiv.org/abs/2507.08420)|null|
 |**2025-07-11**|**Deep Hashing with Semantic Hash Centers for Image Retrieval**|Li Chen et.al.|[2507.08404](http://arxiv.org/abs/2507.08404)|null|
@@ -3370,6 +3373,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**|Zihang Zeng et.al.|[2507.09987](http://arxiv.org/abs/2507.09987)|null|
+|**2025-07-12**|**Stable Score Distillation**|Haiming Zhu et.al.|[2507.09168](http://arxiv.org/abs/2507.09168)|null|
+|**2025-07-11**|**From images to properties: a NeRF-driven framework for granular material parameter inversion**|Cheng-Hsi Hsiao et.al.|[2507.09005](http://arxiv.org/abs/2507.09005)|null|
 |**2025-07-10**|**MUVOD: A Novel Multi-view Video Object Segmentation Dataset and A Benchmark for 3D Segmentation**|Bangning Wei et.al.|[2507.07519](http://arxiv.org/abs/2507.07519)|null|
 |**2025-07-14**|**BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields**|Rushil Desai et.al.|[2507.06269](http://arxiv.org/abs/2507.06269)|null|
 |**2025-07-08**|**Reflections Unlock: Geometry-Aware Reflection Disentanglement in 3D Gaussian Splatting for Photorealistic Scenes Rendering**|Jiayi Song et.al.|[2507.06103](http://arxiv.org/abs/2507.06103)|null|
@@ -5038,6 +5044,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Self-supervised Learning on Camera Trap Footage Yields a Strong Universal Face Embedder**|Vladimir Iashin et.al.|[2507.10552](http://arxiv.org/abs/2507.10552)|null|
+|**2025-07-14**|**The Toll of the Tolman Effect: On the Status of Classical Temperature in General Relativity**|Eugene Y. S. Chua et.al.|[2507.10529](http://arxiv.org/abs/2507.10529)|null|
+|**2025-07-14**|**Constructing Confidence Intervals for Infinite-Dimensional Functional Prameters by Highly Adaptive Lasso**|Wenxin Zhang et.al.|[2507.10511](http://arxiv.org/abs/2507.10511)|null|
+|**2025-07-14**|**Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop**|Elizabeth Fahsbender et.al.|[2507.10502](http://arxiv.org/abs/2507.10502)|null|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
+|**2025-07-14**|**The Target Polish: A New Approach to Outlier-Resistant Non-Negative Matrix and Tensor Factorization**|Paul Fogel et.al.|[2507.10484](http://arxiv.org/abs/2507.10484)|null|
+|**2025-07-14**|**Strain and Correlation Modulated Magnetic Anisotropy and Dzyaloshinskii--Moriya Interaction in 2D H-FeTe $_2$**|Dimple Rani et.al.|[2507.10477](http://arxiv.org/abs/2507.10477)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
+|**2025-07-14**|**On physical consistency of HLL-type Riemann solvers for ideal MHD**|Fan Zhang et.al.|[2507.10420](http://arxiv.org/abs/2507.10420)|null|
+|**2025-07-14**|**Numerically Computing Galois Groups of Minimal Problems**|Timothy Duff et.al.|[2507.10407](http://arxiv.org/abs/2507.10407)|null|
 |**2025-07-11**|**KV Cache Steering for Inducing Reasoning in Small Language Models**|Max Belitsky et.al.|[2507.08799](http://arxiv.org/abs/2507.08799)|null|
 |**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
 |**2025-07-11**|**Triggering and quenching in the shadow of AGN: How does AGN proximity affect star formation in the EAGLE simulation?**|Apashanka Das et.al.|[2507.08790](http://arxiv.org/abs/2507.08790)|null|
@@ -6667,6 +6683,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
+|**2025-07-14**|**RefSTAR: Blind Facial Image Restoration with Reference Selection, Transfer, and Reconstruction**|Zhicun Yin et.al.|[2507.10470](http://arxiv.org/abs/2507.10470)|null|
+|**2025-07-14**|**RAPNet: A Receptive-Field Adaptive Convolutional Neural Network for Pansharpening**|Tao Tang et.al.|[2507.10461](http://arxiv.org/abs/2507.10461)|null|
+|**2025-07-14**|**Non-exchangeable Conformal Prediction with Optimal Transport: Tackling Distribution Shifts with Unlabeled Data**|Alvaro H. C. Correia et.al.|[2507.10425](http://arxiv.org/abs/2507.10425)|null|
+|**2025-07-14**|**Massive stars advanced evolution: I -- New reaction rates for carbon and oxygen nuclear reactions**|T. Dumont et.al.|[2507.10377](http://arxiv.org/abs/2507.10377)|null|
+|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376](http://arxiv.org/abs/2507.10376)|null|
+|**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bo Jiang et.al.|[2507.10355](http://arxiv.org/abs/2507.10355)|null|
+|**2025-07-14**|**DisCo: Towards Distinct and Coherent Visual Encapsulation in Video MLLMs**|Jiahe Zhao et.al.|[2507.10302](http://arxiv.org/abs/2507.10302)|null|
+|**2025-07-14**|**A SUMO-Based Digital Twin for Evaluation of Conventional and Electric Vehicle Networks**|Haomiaomiao Wang et.al.|[2507.10280](http://arxiv.org/abs/2507.10280)|null|
+|**2025-07-14**|**Experimental proposal of a mode sorter for vector vortex beams of arbitrary order**|P. Schneider Lacerda et.al.|[2507.10278](http://arxiv.org/abs/2507.10278)|null|
 |**2025-07-11**|**Microwave-optical double-resonance vector magnetometry with warm Rb atoms**|Bahar Babaei et.al.|[2507.08791](http://arxiv.org/abs/2507.08791)|null|
 |**2025-07-11**|**Varifold solutions to Volume-Preserving Mean Curvature Flow: existence and weak-strong uniqueness**|Andrea Poiatti et.al.|[2507.08783](http://arxiv.org/abs/2507.08783)|null|
 |**2025-07-11**|**Measuring the Astrophysical Galactic Plane Neutrino Flux and Searching for Galactic PeVatrons using the IceCube Multi-Flavor Astrophysical Neutrino Sample**|Matthias Thiesmeyer et.al.|[2507.08753](http://arxiv.org/abs/2507.08753)|null|
