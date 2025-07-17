@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5055,7 +5055,7 @@ layout: default
 |**2025-07-15**|**FlexCAST: Enabling Flexible Scientific Data Analyses**|Benjamin Nachman et.al.|[2507.11528](http://arxiv.org/abs/2507.11528)|null|
 |**2025-07-15**|**Precision Spatio-Temporal Feature Fusion for Robust Remote Sensing Change Detection**|Buddhi Wijenayake et.al.|[2507.11523](http://arxiv.org/abs/2507.11523)|null|
 |**2025-07-15**|**Opinion dynamics: Statistical physics and beyond**|Michele Starnini et.al.|[2507.11521](http://arxiv.org/abs/2507.11521)|null|
-|**2025-07-15**|**Demographic Distribution Matching between real world and virtual phantom population**|Dhrubajyoti Ghosh et.al.|[2507.11511](http://arxiv.org/abs/2507.11511)|null|
+|**2025-07-16**|**Demographic Distribution Matching between real world and virtual phantom population**|Dhrubajyoti Ghosh et.al.|[2507.11511](http://arxiv.org/abs/2507.11511)|null|
 |**2025-07-15**|**Multiscale patterns of migration flows in Austria: regionalization, administrative barriers, and urban-rural divides**|Thomas Robiglio et.al.|[2507.11503](http://arxiv.org/abs/2507.11503)|null|
 |**2025-07-15**|**Exploring the robustness of TractOracle methods in RL-based tractography**|Jeremi Levesque et.al.|[2507.11486](http://arxiv.org/abs/2507.11486)|null|
 |**2025-07-15**|**JamShield: A Machine Learning Detection System for Over-the-Air Jamming Attacks**|Ioannis Panitsas et.al.|[2507.11483](http://arxiv.org/abs/2507.11483)|null|
@@ -6705,7 +6705,7 @@ layout: default
 |**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Shuo Yang et.al.|[2507.11447](http://arxiv.org/abs/2507.11447)|null|
 |**2025-07-15**|**The deployment of a geomagnetic variometer station as auxiliary instrumentation for the study of Unidentified Aerial Phenomena**|Foteini Vervelidou et.al.|[2507.11355](http://arxiv.org/abs/2507.11355)|null|
 |**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333](http://arxiv.org/abs/2507.11333)|null|
-|**2025-07-15**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
+|**2025-07-16**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
 |**2025-07-15**|**Coulomb blockade thermometry based nanocalorimetry**|Mari C. Cole et.al.|[2507.11327](http://arxiv.org/abs/2507.11327)|null|
 |**2025-07-15**|**Mapping Diffuse Radio Sources Using TUNA: A Transformer-Based Deep Learning Approach**|Nicoletta Sanvitale et.al.|[2507.11320](http://arxiv.org/abs/2507.11320)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
