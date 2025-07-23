@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3062,7 +3062,7 @@ layout: default
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-07-07**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
+|**2025-07-22**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
@@ -5082,8 +5082,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
-|**2025-07-21**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
+|**2025-07-22**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-22**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
 |**2025-07-21**|**Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers**|Ian Chuang et.al.|[2507.15833](http://arxiv.org/abs/2507.15833)|null|
 |**2025-07-21**|**Diffusion models for multivariate subsurface generation and efficient probabilistic inversion**|Roberto Miele et.al.|[2507.15809](http://arxiv.org/abs/2507.15809)|null|
 |**2025-07-21**|**Hypergraphs on high dimensional time series sets using signature transform**|Rémi Vaucher et.al.|[2507.15802](http://arxiv.org/abs/2507.15802)|null|
@@ -6771,7 +6771,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-21**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
+|**2025-07-22**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
 |**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
 |**2025-07-21**|**ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction**|Danhui Chen et.al.|[2507.15803](http://arxiv.org/abs/2507.15803)|null|
 |**2025-07-21**|**A Robust COTS Objective for Diffraction-Limited, High-NA, Long Front Working Distance Imaging**|Jiafeng Cui et.al.|[2507.15786](http://arxiv.org/abs/2507.15786)|null|
